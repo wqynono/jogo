@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+
+:root {
+  --primary: #0066ff;
+  --primary-dark: #0052cc;
+  --secondary: #76b900;
+  --secondary-dark: #5a8e00;
+  --background: #f5f7fa;
+  --foreground: #1a1a1a;
+  --nav-bg: #1e3a8a;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--background);
+}
+
+.grid-row-start-auto {
+  grid-row-start: auto;
+}
+
+.grid-row-start-2 {
+  grid-row-start: 2;
+}
+
+.hover-effect:hover path {
+  color: #76b900;
+}
+
+@layer components {
+  .nav-item {
+    @apply flex items-center gap-2 text-white hover:text-blue-200 transition-colors duration-200 py-2 px-3 text-sm;
+  }
+
+  .game-card {
+    @apply relative overflow-hidden rounded-lg shadow-md hover:shadow-lg hover:scale-[1.05] transition-all duration-300;
+  }
+
+  .game-card-title {
+    @apply absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/30 font-bold to-transparent p-2 text-white text-xs;
+  }
+
+  .btn-primary {
+    @apply bg-[#76b900] hover:bg-[#5a8e00] text-white font-medium py-2 px-4 rounded-md transition-colors duration-200;
+  }
+
+  .btn-outline {
+    @apply border border-gray-300 hover:bg-gray-100 text-gray-700 font-medium py-2 px-4 rounded-md transition-colors duration-200;
+  }
+}

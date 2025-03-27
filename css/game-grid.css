@@ -1,0 +1,34 @@
+.middle-game-card-0 {
+    grid-row-start: 2;
+    grid-column-start: 2;
+}
+
+.middle-game-card-1 {
+    grid-row-start: 4;
+    grid-column-start: 5;
+}
+
+@media screen and (max-width: 1024px) {
+    .middle-game-card-0 {
+        grid-row-start: 1;
+        grid-column-start: 1;
+
+    }
+
+    .middle-game-card-1 {
+        grid-row-start: auto;
+        grid-column-start: auto;
+    }
+}
+
+@media screen and (max-width: 40rem) {
+    .middle-game-card-0 {
+        grid-row-start: 2;
+        grid-column-start: 2;
+    }
+
+    .middle-game-card-1 {
+        grid-row-start: 10;
+        grid-column-start: 2;
+    }
+}
