@@ -12,6 +12,7 @@ import { routing } from '../../i18n/routing';
 import React from 'react';
 import Header from '../../components/Header'
 import Script from 'next/script'
+import { SpeedInsights } from '@vercel/speed-insights/next';
 const space_grotesk = Space_Grotesk({
   subsets: ['latin'],
   display: 'swap',
@@ -124,7 +125,7 @@ export default async function LocaleLayout({
           </ThemeProviders>
         </NextIntlClientProvider>
 
-
+        <SpeedInsights />
       </body>
     </html>
 
