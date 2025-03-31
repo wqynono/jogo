@@ -3,7 +3,6 @@ import GameGrid from "@/components/game-grid"
 import AdComponent from "@/components/ad" // 导入广告组件
 import GameSlide from "@/components/game-slide"
 import { categoryList, defaultGamelist } from "@/data/game"
-import { GoogleAdSense, ResponsiveAdUnit } from "nextjs-google-adsense";
 
 export default function HomePage() {
 
@@ -14,19 +13,8 @@ export default function HomePage() {
           <div className="mx-auto px-4 py-6">
             <GameGrid gameMobileLength={24} gamePcLength={45} />
             <div className="bg-white shadow-md p-4 my-4">
-              {/* <AdComponent /> */}
-              <GoogleAdSense publisherId="ca-pub-1279787934523230" />
-              {/* 3612947536 */}
-              <ResponsiveAdUnit
-                publisherId="ca-pub-1279787934523230"
-                slotId="4341944965"
-                type="after-home-hero" />
+              <AdComponent data-ad-slot={"222222"} data-ad-format={"auto"} data-full-width-responsive={true} />
 
-
-              <ResponsiveAdUnit
-                publisherId="ca-pub-1279787934523230"
-                slotId="3612947536"
-                type="after-home-hero" />
             </div>
             <GameGrid gameMobileLength={18} gamePcLength={18} />
 

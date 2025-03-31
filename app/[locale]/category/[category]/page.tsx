@@ -19,7 +19,8 @@ export default async function Category({ params }: any) {
             <h2 className="text-xl font-bold mb-4 font-sans">{params.category}</h2>
             <GameGrid gamelist={gamelist} gameMobileLength={gamelist.length} gamePcLength={gamelist.length} adSlot={adConfig.zfx[0]} />
             <div className="bg-white shadow-md p-4 my-4">
-              <AdComponent adSlot={adConfig.hx} />
+              <AdComponent data-ad-slot={adConfig.hx} data-ad-format={"auto"} data-full-width-responsive={true} />
+
             </div>
 
             <div className="container my-4 mx-auto">

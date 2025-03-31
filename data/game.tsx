@@ -3799,7 +3799,6 @@ const categoryList = [
        { "name": "Racing", "href": "/category/Racing" },
        { "name": "Strategy", "href": "/category/Strategy" },
        { "name": "Shooting", "href": "/category/Shooting" },
-       // { "name": "fighting", "href": "/category/fighting" },
        { "name": "Casual", "href": "/category/Casual" },
        { "name": "Match3", "href": "/category/Match3" },
        { "name": "Adventure", "href": "/category/Adventure" },

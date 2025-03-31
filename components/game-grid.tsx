@@ -6,6 +6,8 @@ import { defaultGamelist, Game } from "@/data/game";
 import AdComponent from "@/components/ad"; // 导入广告组件
 import "@/css/game-grid.css"
 import { useTranslations } from "next-intl"
+import adConfig from "@/data/adConfig"
+
 export default function GameGrid({
   gamelist = defaultGamelist, // 默认值
   gamePcLength = 49, // 默认值
@@ -120,7 +122,8 @@ export default function GameGrid({
                     `}
                   >
                     <span className="text-xs text-gray-500 text-center w-full block bg-gray-200 p-1">   {t("advertisement")}</span>
-                    <AdComponent adSlot={adSlot} />
+                    <AdComponent data-ad-slot={adConfig.zfx[1]} data-ad-format={"auto"} data-full-width-responsive={true} />
+
                   </div>
                 )}
               </>

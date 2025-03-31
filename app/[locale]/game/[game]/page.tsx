@@ -71,7 +71,8 @@ export default async function Name({ params }: any) {
                       2xl:col-start-9 2xl:col-end-12 2xl:row-start-1 2xl:row-end-5 2xl:min-h-[440]`}>
                 <span className="text-xs text-gray-500 text-center w-full block bg-gray-200 p-1 rounded-t-lg">{t("advertisement")}</span>
 
-                <AdComponent />
+                <AdComponent data-ad-slot={adConfig.zfx[0]} data-ad-format={"auto"} data-full-width-responsive={true} />
+
               </div>
 
               {/* 广告位置底部 */}
@@ -79,7 +80,8 @@ export default async function Name({ params }: any) {
                       lg:col-start-1 lg:col-end-5 lg:row-start-4 lg:row-end-5
                       xl:col-start-1 xl:col-end-7 xl:row-start-5 xl:row-end-6
                       2xl:col-start-3 2xl:col-end-9 2xl:row-start-5 2xl:row-end-6`}>
-                <AdComponent height={100} />
+                <AdComponent data-ad-slot={adConfig.hx} data-ad-format={"auto"} data-full-width-responsive={true} />
+
                 <span className="text-xs text-gray-500 text-center w-full block bg-gray-200 p-1 rounded-b-lg">{t("advertisement")}</span>
               </div>
 

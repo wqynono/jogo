@@ -18,7 +18,8 @@ export default async function Category() {
                     <div className="mx-auto px-4 py-6">
 
                         <div className="bg-white shadow-md p-4 my-4">
-                            <AdComponent adSlot={adConfig.hx} />
+                            <AdComponent data-ad-slot={"222222"} data-ad-format={"auto"} data-full-width-responsive={true} />
+
                         </div>
 
                         <div className="container my-4 mx-auto">

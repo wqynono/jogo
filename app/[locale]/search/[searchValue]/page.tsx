@@ -66,7 +66,8 @@ export default async function Search({
             )}
 
             <div className="bg-white shadow-md p-4 my-4">
-              <AdComponent adSlot={adConfig.hx} />
+              <AdComponent data-ad-slot={adConfig.hx} data-ad-format={"auto"} data-full-width-responsive={true} />
+
             </div>
 
             <div className="container my-4 mx-auto">

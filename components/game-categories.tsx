@@ -44,8 +44,6 @@ export default function GameCategories() {
           >
             {categoryList.map((category) => (
               <Link key={category.name} href={category.href} className="nav-item">
-                {/* <Icon name="Shooting" size={32} color="red" /> */}
-
                 <span>{category.name}</span>
               </Link>
             ))}
@@ -63,7 +61,6 @@ export default function GameCategories() {
         {categoryList.map((category) => {
           return (
             <Link key={category.name} href={category.href} className="nav-item pt-0.5 pb-0.5 flex text-sm pr-2 pl-2 xl:pr-3 xl:pl-3 xl:text-base rounded-lg hover:bg-white hover:text-[#1e3a8a]">
-              {/* <Icon className="hover-effect" width={20} height={20} color="#fff" /> 根据需要调整图标的大小 */}
               <span className={`icon iconfont icon-${category.name} text-xl`}></span>
               <span>{category.name}</span>
             </Link>

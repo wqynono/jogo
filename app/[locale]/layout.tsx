@@ -6,12 +6,12 @@ import { Metadata } from 'next'
 import siteMetadata from '@/data/siteMetadata'
 import { ThemeProviders } from '../theme-providers'
 import Footer from "../../components/footer"
-import {NextIntlClientProvider, Locale, hasLocale} from 'next-intl';
-import {notFound} from 'next/navigation';
-import {routing} from '../../i18n/routing';
+import { NextIntlClientProvider, Locale, hasLocale } from 'next-intl';
+import { notFound } from 'next/navigation';
+import { routing } from '../../i18n/routing';
 import React from 'react';
 import Header from '../../components/Header'
- 
+import Script from 'next/script'
 const space_grotesk = Space_Grotesk({
   subsets: ['latin'],
   display: 'swap',
@@ -63,17 +63,17 @@ export default async function LocaleLayout({
   params
 }: {
   children: React.ReactNode;
-  params: Promise<{locale: string}>;
+  params: Promise<{ locale: string }>;
 }) {
   // Ensure that the incoming `locale` is valid
-  const {locale} = await params;
+  const { locale } = await params;
   const basePath = process.env.BASE_PATH || '';
   if (!hasLocale(routing.locales, locale)) {
     notFound();
   }
- 
+
   return (
-<html
+    <html
       lang={locale}
       className={`${space_grotesk.variable} scroll-smooth`}
       suppressHydrationWarning
@@ -105,21 +105,24 @@ export default async function LocaleLayout({
       <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fff" />
       <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000" />
       <link rel="alternate" type="application/rss+xml" href={`${basePath}/feed.xml`} />
+
+      <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1087148471815353"
+        crossOrigin="anonymous"></Script>
       <body className="bg-white pl-[calc(100vw-100%)] text-black antialiased dark:bg-gray-950 dark:text-white">
 
-      <NextIntlClientProvider>
-      <ThemeProviders>
-          {/* <Analytics analyticsConfig={siteMetadata.analytics as AnalyticsConfig} /> */}
-          {/* <SectionContainer>
+        <NextIntlClientProvider>
+          <ThemeProviders>
+            {/* <Analytics analyticsConfig={siteMetadata.analytics as AnalyticsConfig} /> */}
+            {/* <SectionContainer>
             <SearchProvider searchConfig={siteMetadata.search as SearchConfig}> */}
-              <Header />
-              <main className="mb-auto">{children}</main>
-              <Footer />
+            <Header />
+            <main className="mb-auto">{children}</main>
+            <Footer />
             {/* </SearchProvider>
             <Footer />
           </SectionContainer> */}
-        </ThemeProviders>
-      </NextIntlClientProvider>
+          </ThemeProviders>
+        </NextIntlClientProvider>
 
 
       </body>
