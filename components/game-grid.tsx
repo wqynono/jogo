@@ -85,6 +85,7 @@ export default function GameGrid({
                         alt={game.name}
                         fill
                         sizes="(100vw - 16px) 100vw"
+                        quality={70}
                         className="object-cover"
                       />
                       <div className="game-card-title">{game.name}</div>

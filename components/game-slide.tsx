@@ -111,6 +111,7 @@ export default function GameSlide({ name, games, viewAllLink = "" }: GameSlidePr
                 alt={game.name}
                 width={146}
                 height={146}
+                quality={70}
                 className="object-cover h-full w-full"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent">
