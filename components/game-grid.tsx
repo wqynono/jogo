@@ -1,6 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
-import Image from "next/image";
+import Image, { type ImageLoader } from "next/image";
 import Link from "next/link";
 import { defaultGamelist, Game } from "@/data/game";
 import AdComponent from "@/components/ad"; // 导入广告组件
@@ -36,24 +36,6 @@ export default function GameGrid({
     };
   }, []);
 
-  const containerVariants = {
-    hidden: { opacity: 0 },
-    visible: {
-      opacity: 1,
-      transition: {
-        staggerChildren: 0.05,
-      },
-    },
-  };
-
-  const itemVariants = {
-    hidden: { y: 20, opacity: 0 },
-    visible: {
-      y: 0,
-      opacity: 1,
-      transition: { type: "spring", stiffness: 300, damping: 24 },
-    },
-  };
 
   // 定义广告插入的位置
   const adPosition = 4;
@@ -77,6 +59,11 @@ export default function GameGrid({
                       fill
                       sizes="(100vw - 16px) 100vw"
                       className="object-cover"
+                      priority={true} // 如果是LCP元素则标记为高优先级
+                      loading="eager" // 禁用懒加载（对LCP元素很重要）
+                      quality={40}   // 适当降低质量以提高加载速度
+                      placeholder="blur" // 添加模糊占位符
+                      blurDataURL="/placeholder.svg" // 小尺寸占位图像
                     />
                     <div className="game-card-title">{game.name}</div>
                     {game.isfunny && (
