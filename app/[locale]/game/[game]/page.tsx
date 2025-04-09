@@ -1,8 +1,7 @@
 
 import { getTranslations } from 'next-intl/server';
 import AdComponent from "@/components/ad"
-import { actionGames, puzzleGames, sportsGames, racingGames, Game, defaultGamelist } from "@/data/game"
-import GameSlide from "@/components/game-slide"
+import { actionGames, Game, defaultGamelist } from "@/data/game"
 import adConfig from "@/data/adConfig"
 import React from "react"
 import Link from "next/link";

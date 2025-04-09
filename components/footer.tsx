@@ -2,7 +2,7 @@ import Link from "next/link"
 import Image from "next/image"
 import { useTranslations } from "next-intl"
 import LanguageSelector from "@/components/LanguageSelector"
-
+import { categoryList } from "@/data/game"
 export default function Footer() {
 
   const t = useTranslations("Footer")
@@ -63,31 +63,15 @@ export default function Footer() {
             <h2 className="text-xl font-bold text-gray-800 mb-4">{homeT("findFavoriteGames")}</h2>
             <p className="mb-4">{homeT("gamesOrganized")}</p>
             <ul className="list-disc pl-6 space-y-1">
-              <li>
-                <Link href="/categoria/2-jogadores" className="text-blue-600 hover:underline">
-                  {homeT("twoPlayerGames")}
-                </Link>
-              </li>
-              <li>
-                <Link href="/categoria/old-friv" className="text-blue-600 hover:underline">
-                  {homeT("oldFrivGames")}
-                </Link>
-              </li>
-              <li>
-                <Link href="/categoria/carros" className="text-blue-600 hover:underline">
-                  {homeT("carGames")}
-                </Link>
-              </li>
-              <li>
-                <Link href="/categoria/tiro" className="text-blue-600 hover:underline">
-                  {homeT("shootingGames")}
-                </Link>
-              </li>
-              <li>
-                <Link href="/categoria/futebol" className="text-blue-600 hover:underline">
-                  {homeT("soccerGames")}
-                </Link>
-              </li>
+              {categoryList.map((category) => {
+                return (
+                  <li>
+                    <Link key={category.name} href={category.href} className="text-blue-600 hover:underline">
+                      <span>{category.name}</span>
+                    </Link>
+                  </li>
+                );
+              })}
             </ul>
           </div>
 
