@@ -8,6 +8,8 @@ export default function Footer() {
   const t = useTranslations("Footer")
   const homeT = useTranslations("HomePage")
 
+  const tCategories = useTranslations("Categories");
+  const tDesc = useTranslations("CategoriesDesc");
 
   return (
     <footer>
@@ -16,46 +18,18 @@ export default function Footer() {
           <p>{homeT("catalogDesc")}</p>
           <p>
             {homeT("popularGamesDesc")}{" "}
-            <Link href="/jogo/fireboy-and-watergirl" className="text-blue-600 hover:underline">
-              Fireboy and Watergirl
+            <Link href="/game/bacon-may-die" className="text-blue-600 hover:underline">
+              Bacon may die
             </Link>
             ,{" "}
-            <Link href="/jogo/moto-x3m" className="text-blue-600 hover:underline">
-              Moto X3M
+            <Link href="/game/castle-wars-middle-ages" className="text-blue-600 hover:underline">
+              Castle wars middle ages
             </Link>
             ,{" "}
-            <Link href="/jogo/penalty-shooters-2" className="text-blue-600 hover:underline">
-              Penalty Shooters 2
+            <Link href="/game/raft-wars-2" className="text-blue-600 hover:underline">
+              Raft wars 2
             </Link>
-            ,{" "}
-            <Link href="/jogo/bad-ice-cream" className="text-blue-600 hover:underline">
-              Bad Ice Cream
-            </Link>
-            ,{" "}
-            <Link href="/jogo/bubble-shooter" className="text-blue-600 hover:underline">
-              Bubble Shooter
-            </Link>
-            , {homeT("andMore")}{" "}
-            <Link href="/jogo/tic-tac-toe" className="text-blue-600 hover:underline">
-              Tic-Tac-Toe
-            </Link>
-            ,{" "}
-            <Link href="/jogo/pac-man" className="text-blue-600 hover:underline">
-              Pac-Man
-            </Link>
-            ,{" "}
-            <Link href="/jogo/solitaire" className="text-blue-600 hover:underline">
-              Solitaire
-            </Link>
-            ,{" "}
-            <Link href="/jogo/2048" className="text-blue-600 hover:underline">
-              2048
-            </Link>
-            ,{" "}
-            <Link href="/jogo/dino-chrome" className="text-blue-600 hover:underline">
-              Dino Chrome
-            </Link>
-            , and more.
+            {" "}.
           </p>
 
           {/* 网站介绍*/}
@@ -67,7 +41,7 @@ export default function Footer() {
                 return (
                   <li>
                     <Link key={category.name} href={category.href} className="text-blue-600 hover:underline">
-                      <span>{category.name}</span>
+                      <span>{tCategories(category.name.toLowerCase())}</span>
                     </Link>
                   </li>
                 );
@@ -77,9 +51,9 @@ export default function Footer() {
 
           {/* 关于网站 */}
           <div>
-            <h2 className="text-xl font-bold text-gray-800 mb-4">{homeT("aboutBlipzi")}</h2>
-            <p className="mb-4">{homeT("aboutBlipziDesc1")}</p>
-            <p className="mb-4">{homeT("aboutBlipziDesc2")}</p>
+            <h2 className="text-xl font-bold text-gray-800 mb-4">{homeT("aboutJbuid")}</h2>
+            <p className="mb-4">{homeT("aboutJbuidDesc1")}</p>
+            <p className="mb-4">{homeT("aboutJbuidDesc2")}</p>
           </div>
         </div>
       </div>
@@ -90,37 +64,23 @@ export default function Footer() {
             {/* 导航链接 - 移动端两列布局 */}
             <div className="grid grid-cols-2 gap-x-4 gap-y-2 mb-8">
               <div>
-                <Link href="/top-jogos" className="block hover:text-white transition-colors">
+                <Link href="/top" className="block hover:text-white transition-colors">
                   {t("topGames")}
                 </Link>
               </div>
               <div>
-                <Link href="/privacidade" className="block hover:text-white transition-colors">
+                <Link href="/privacy" className="block hover:text-white transition-colors">
                   {t("privacyPolicy")}
                 </Link>
               </div>
-              <div>
-                <Link href="/novos-jogos" className="block hover:text-white transition-colors">
-                  {t("newGames")}
-                </Link>
-              </div>
-              <div>
-                <Link href="/contato" className="block hover:text-white transition-colors">
-                  {t("contact")}
-                </Link>
-              </div>
+
               <div>
                 <Link href="/categorias" className="block hover:text-white transition-colors">
                   {t("categories")}
                 </Link>
               </div>
               <div>
-                <Link href="/anuncie" className="block hover:text-white transition-colors">
-                  {t("advertise")}
-                </Link>
-              </div>
-              <div>
-                <Link href="/sobre" className="block hover:text-white transition-colors">
+                <Link href="/about" className="block hover:text-white transition-colors">
                   {t("aboutUs")}
                 </Link>
               </div>
@@ -130,13 +90,13 @@ export default function Footer() {
             <div className="flex justify-between items-center">
               <div>
                 <p className="flex items-center text-sm">
-                  {t("copyright")}
+                  {t("copyright", { domain: "jbuid.top" })}
                   <span className="ml-2">
                     <Image
-                      src="/placeholder.svg?height=16&width=60&text=7GRAUS"
-                      alt="7GRAUS"
-                      width={60}
-                      height={16}
+                      src="/logo.svg"
+                      alt="logo"
+                      width={36}
+                      height={36}
                       className="inline-block"
                     />
                   </span>

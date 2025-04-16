@@ -40,41 +40,38 @@ export default async function Search({
 
   return (
     <div>
-      <div className="min-h-screen">
-        <div className="min-h-screen max-w-12/12 m-0 mx-auto xl:max-w-11/12">
-          <div className="mx-auto px-4 py-6">
-            <h2 className="text-xl font-bold mb-4 font-sans">
-              {searchResults.length > 0
-                ? t("searchResultsFormat", { searchValue })
-                : t("noResultsFormat", { searchValue })}
-            </h2>
+      <div className=" max-w-12/12 m-0 mx-auto xl:max-w-11/12">
+        <div className="mx-auto px-4 py-6">
+          <h2 className="text-xl font-bold mb-4 font-sans">
+            {searchResults.length > 0
+              ? t("searchResultsFormat", { searchValue })
+              : t("noResultsFormat", { searchValue })}
+          </h2>
 
-            {searchResults.length > 0 ? (
-              <GameGrid
-                gamelist={searchResults}
-                gameMobileLength={searchResults.length}
-                gamePcLength={searchResults.length}
-                adSlot={adConfig.zfx[0]}
-              />
-            ) : (
-              <GameGrid
-                gamelist={defaultGames}
-                gameMobileLength={defaultGames.length}
-                gamePcLength={defaultGames.length}
-                adSlot={adConfig.zfx[0]}
-              />
-            )}
+          {searchResults.length > 0 ? (
+            <GameGrid
+              gamelist={searchResults}
+              gameMobileLength={searchResults.length}
+              gamePcLength={searchResults.length}
+              adSlot={adConfig.zfx[0]}
+            />
+          ) : (
+            <GameGrid
+              gamelist={defaultGames}
+              gameMobileLength={defaultGames.length}
+              gamePcLength={defaultGames.length}
+              adSlot={adConfig.zfx[0]}
+            />
+          )}
 
-            <div className="bg-white shadow-md p-4 my-4">
-              <AdComponent data-ad-slot={adConfig.hx} data-ad-format={"auto"} data-full-width-responsive={true} />
-
-            </div>
-
-            <div className="container my-4 mx-auto">
-              {/* 玩过的游戏 */}
-              <RecentlyPlayedSection />
-            </div>
+          <div className="bg-white shadow-md my-4 min-h-[270px] border-1 border-gray-200 rounded-lg ">
+            <span className="text-xs text-gray-500 text-center w-full block bg-gray-200 p-1 ">
+              {t("advertisement")}</span>
+            <AdComponent data-ad-slot={adConfig.hx} data-ad-format={"auto"} data-full-width-responsive={true} />
           </div>
+
+          {/* 玩过的游戏 */}
+          <RecentlyPlayedSection />
         </div>
       </div>
     </div>

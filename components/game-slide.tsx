@@ -3,9 +3,9 @@
 import { useState, useRef, useEffect } from "react"
 import Image from "next/image"
 import Link from "next/link"
-import { ChevronLeft, ChevronRight, Car, Gamepad, Shirt } from "lucide-react"
+import { ChevronLeft, ChevronRight } from "lucide-react"
 import { Game } from '@/data/game'
-
+import { useTranslations } from "next-intl"
 
 type GameSlideProps = {
   name: string
@@ -14,6 +14,7 @@ type GameSlideProps = {
 }
 
 export default function GameSlide({ name, games, viewAllLink = "" }: GameSlideProps) {
+  const categoryT = useTranslations("Categories")
   const [showLeftArrow, setShowLeftArrow] = useState(false)
   const [showRightArrow, setShowRightArrow] = useState(true)
   const [isMobile, setIsMobile] = useState(false)
@@ -76,7 +77,7 @@ export default function GameSlide({ name, games, viewAllLink = "" }: GameSlidePr
           className="flex items-center gap-2 bg-white text-[#0B459C] px-3 py-1.5 rounded-lg hover:bg-[#0B459C] hover:text-white  transition-colors border-1"
         >
           <span className={`icon iconfont icon-${name} text-xl`}></span>
-          <span className="font-bold">{name}</span>
+          <span className="font-bold">{categoryT(name.toLowerCase())}</span>
           <ChevronRight className="w-4 h-4" />
         </Link>
       </div>
@@ -98,7 +99,7 @@ export default function GameSlide({ name, games, viewAllLink = "" }: GameSlidePr
         className="flex overflow-x-auto gap-3 pb-2 pt-2 hide-scrollbar "
         style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
       >
-        {games.map((game) => (
+        {games.slice(0, 20).map((game) => (
           <Link
             key={`${game.id}`}
             href={`/game/${game.name}`}
@@ -119,6 +120,11 @@ export default function GameSlide({ name, games, viewAllLink = "" }: GameSlidePr
                   {game.name}
                 </div>
               </div>
+              {game.isfunny && (
+                <div className="absolute top-0 left-0 bg-red-500 text-white text-xs font-bold px-2 py-0.5 rounded">
+                  Fun
+                </div>
+              )}
             </div>
           </Link>
         ))}

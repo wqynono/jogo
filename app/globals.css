@@ -6,9 +6,10 @@
   --primary-dark: #0052cc;
   --secondary: #76b900;
   --secondary-dark: #5a8e00;
-  --background: #f5f7fa;
+  --background: #fafcff;
   --foreground: #1a1a1a;
   --nav-bg: #1e3a8a;
+  --default-font-family: var(--font-kanit), sans-serif, "Noto Sans Arabic", Arial, sans-serif;
 }
 
 body {
@@ -36,11 +37,11 @@ body {
   }
 
   .game-card {
-    @apply relative overflow-hidden rounded-lg shadow-md hover:shadow-lg hover:scale-[1.05] transition-all duration-300;
+    @apply relative aspect-square overflow-hidden rounded-lg shadow-md hover:shadow-lg hover:scale-[1.05] transition-all duration-300;
   }
 
   .game-card-title {
-    @apply absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/30 font-bold to-transparent p-2 text-white text-xs;
+    @apply absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-2 text-white text-base;
   }
 
   .btn-primary {

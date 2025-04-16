@@ -15,12 +15,13 @@ type MobileMenuProps = {
 const pages = [
   { name: "home", icon: House, href: "/" },
   { name: "category", icon: LayoutGrid, href: "/category" },
-  { name: "hotGame", icon: Sparkles, href: "/category/Strategy" },
+  { name: "hotGame", icon: Sparkles, href: "/top" },
 ]
 
 export default function MobileMenu({ onClose }: MobileMenuProps) {
   const t = useTranslations("Common")
   const menuT = useTranslations("MobileMenu")
+  const categoryT = useTranslations("Categories")
   const [isDarkMode, setIsDarkMode] = useState(false)
 
   const toggleDarkMode = () => {
@@ -34,15 +35,15 @@ export default function MobileMenu({ onClose }: MobileMenuProps) {
           <div className="relative w-10 h-10 mr-2">
             <Image
               src="/placeholder.svg?height=40&width=40"
-              alt="Jogos 360 Logo"
+              alt="Jbuid Logo"
               width={40}
               height={40}
               className="object-contain"
             />
           </div>
-          <div className="font-bold text-xl text-white">JOGOS 360</div>
+          <div className="font-bold text-xl text-white">Jbuid</div>
         </div>
-        <div className="flex items-center gap-4">
+        {/* <div className="flex items-center gap-4">
           <button
             onClick={toggleDarkMode}
             className="w-12 h-6 rounded-full bg-blue-800 flex items-center transition duration-300 focus:outline-none shadow"
@@ -56,7 +57,7 @@ export default function MobileMenu({ onClose }: MobileMenuProps) {
           <button onClick={onClose} className="text-white" aria-label={t("close")}>
             <X className="w-6 h-6" />
           </button>
-        </div>
+        </div> */}
       </div>
 
       <div className="flex-1 p-4">
@@ -75,7 +76,7 @@ export default function MobileMenu({ onClose }: MobileMenuProps) {
                   onClick={onClose}
                 >
                   <span className={`icon iconfont icon-${category.name} w-5 h-5`}></span>
-                  <span>{category.name}</span>
+                  <span>{categoryT(category.name.toLowerCase())}</span>
                 </Link>
               </motion.div>
             )

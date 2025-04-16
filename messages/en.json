@@ -7,7 +7,6 @@
     "categories": "Categories",
     "myGames": "My Games",
     "searchGames": "Search Games",
-    "recentlyPlayed": "Recently Played",
     "viewAll": "View All",
     "favorites": "Favorites",
     "recent": "Recent",
@@ -28,10 +27,10 @@
     "carGames": "Car Games",
     "shootingGames": "Shooting Games",
     "soccerGames": "Soccer Games",
-    "aboutBlipzi": "About Blipzi",
-    "aboutBlipziDesc1": "Blipzi is a free online gaming platform. Our expert team's goal is to provide the best selection of games on the web and deliver an excellent experience for players.",
-    "aboutBlipziDesc2": "Blipzi is accessible directly from your browser and serving players from various countries and languages. Our goal is to provide a fun, functional, and cost-free experience for all users.",
-    "catalogDesc": "Our game catalog is carefully curated by our team of experts. With thousands of games for all tastes and ages, around 2 million players choose Blipzi every month to play and have fun.",
+    "aboutJbuid": "About Jbuid",
+    "aboutJbuidDesc1": "Jbuid is a free online gaming platform. Our expert team's goal is to provide the best selection of games on the web and deliver an excellent experience for players.",
+    "aboutJbuidDesc2": "Jbuid is accessible directly from your browser and serving players from various countries and languages. Our goal is to provide a fun, functional, and cost-free experience for all users.",
+    "catalogDesc": "Our game catalog is carefully curated by our team of experts. With thousands of games for all tastes and ages, around 2 million players choose Jbuid every month to play and have fun.",
     "popularGamesDesc": "Some of the most popular games include hits like",
     "andMore": "and many more. Fans of classic games can enjoy online favorites such as",
     "searchFor": "Search for",
@@ -45,7 +44,7 @@
     "privacyPolicy": "Privacy Policy",
     "contact": "Contact",
     "advertise": "Advertise",
-    "copyright": "© 2023 - 2025",
+    "copyright": "© 2023 - 2025 {domain}",
     "preferLanguage": "Prefer another language?",
     "playFreeOn": "Play free on"
   },
@@ -96,6 +95,37 @@
     "searchResults": "Search Results for",
     "searching": "Searching...",
     "clearSearch": "Clear Search"
+  },
+  "Categories": {
+    "action": "Action",
+    "puzzle": "Puzzle",
+    "sports": "Sports",
+    "racing": "Racing",
+    "strategy": "Strategy",
+    "shooting": "Shooting",
+    "casual": "Casual",
+    "match3": "Match-3",
+    "adventure": "Adventure",
+    "arcade": "Arcade",
+    "girl": "Girl",
+    "recentlyplayed": "Recently Played"
+  },
+  "CategoriesDesc": {
+    "action": "Play the best free action games! On PC or mobile, experience thrilling combat and adventure. Fast-paced gameplay will get your heart racing—dive into the action now!",
+    "puzzle": "Challenge free puzzle games! On PC or mobile, solve puzzles, complete patterns, and sharpen your logic. No downloads needed—enjoy brain-teasing fun anytime!",
+    "sports": "Play free sports games! On PC or mobile, kick soccer, play basketball, and challenge friends and global players. Multiple sports to choose from—experience the thrill of competition now!",
+    "racing": "Drive the best free racing games! On PC or mobile, drift, race, and challenge friends and players worldwide. Realistic racing experience—feel the speed now!",
+    "strategy": "Plan your victory! On PC or mobile, play free strategy games, manage resources, command armies, and craft tactics. No downloads needed—start your strategic journey now!",
+    "shooting": "Play thrilling free shooting games! On PC or mobile, engage in intense combat and multiplayer battles. Fast-paced action—jump into action-packed battles now!",
+    "casual": "Relax with free casual games! On PC or mobile, enjoy simple puzzles, coloring, and relaxing mini-games. Perfect for all players—no downloads needed, unwind now!",
+    "match3": "Play free match-3 games! On PC or mobile, swap tiles to complete matches and enjoy the fun of elimination. Easy to play—no downloads, challenge your high score now!",
+    "adventure": "Explore free adventure games! On PC or mobile, dive into fantasy worlds, solve puzzles, and embark on exciting journeys with friends. Immersive storytelling—start your adventure now!",
+    "arcade": "Play classic arcade games for free! On PC or mobile, enjoy retro-style fast-paced challenges, beat high scores, and compete with friends. No installation needed—start playing instantly!",
+    "girl": "Discover free games designed for girls! On PC or mobile, enjoy fashion, decoration, and simulation games. No downloads needed—start your exclusive fun now!"
+  },
+  "NotFound": {
+    "title": "404 Not Found",
+    "description": "Sorry, the page you are looking for does not exist or has been removed.",
+    "backHome": "back to home"
   }
 }
-

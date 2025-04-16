@@ -5,10 +5,12 @@ import Link from "next/link"
 import { motion } from "framer-motion"
 import { categoryList } from "../data/game"
 import "@/public/icons/iconfont.css";  //引入css文件
+import { useTranslations } from "next-intl"
 
 export default function GameCategories() {
   const [isMobile, setIsMobile] = useState(false)
   const [isOpen, setIsOpen] = useState(false)
+  const t = useTranslations("Categories")
 
   useEffect(() => {
     const checkIfMobile = () => {
@@ -56,18 +58,14 @@ export default function GameCategories() {
   return (
     <div className="overflow-x-auto py-2 px-4 whitespace-nowrap">
       <div className="flex space-x-1 justify-center">
-
-
         {categoryList.map((category) => {
           return (
             <Link key={category.name} href={category.href} className="nav-item pt-0.5 pb-0.5 flex text-sm pr-2 pl-2 xl:pr-3 xl:pl-3 xl:text-base rounded-lg hover:bg-white hover:text-[#1e3a8a]">
               <span className={`icon iconfont icon-${category.name} text-xl`}></span>
-              <span>{category.name}</span>
+              <span>{t(category.name.toLowerCase())} </span>
             </Link>
           );
         })}
-
-
       </div>
     </div>
   )

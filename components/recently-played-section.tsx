@@ -7,7 +7,7 @@ import GameSlide from "@/components/game-slide"
 import { useTranslations } from "next-intl"
 
 export default function RecentlyPlayedSection() {
-  const t = useTranslations("HomePage")
+  const t = useTranslations("Categories")
   const [recentGames, setRecentGames] = useState<Game[]>([])
 
   useEffect(() => {
@@ -20,6 +20,6 @@ export default function RecentlyPlayedSection() {
     return null // 如果没有最近玩过的游戏，不显示此部分
   }
 
-  return <GameSlide name={t("recentlyPlayed")} games={recentGames} />
+  return <GameSlide name="recentlyPlayed" games={recentGames} />
 }
 

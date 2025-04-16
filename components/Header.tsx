@@ -90,7 +90,7 @@ export default function Header() {
     <>
       <header className={`w-full relative ${isMobile && isSearchOpen ? "z-40" : "z-auto"}`}>
         {/* 顶部导航栏 */}
-        <div className={`bg-gray-100 border-b border-gray-200 ${isMobile && isSearchOpen ? "h-[64px]" : "h-auto"}`}>
+        <div className={`border-b border-gray-200 ${isMobile && isSearchOpen ? "h-[64px]" : "h-auto"}`}>
           <div
             className={`container  mx-auto px-4 py-3 flex items-center justify-between  ${isMobile && isSearchOpen ? "fixed top-0 left-0 w-full z-40 bg-white" : "z-auto"}`}
           >
@@ -98,18 +98,18 @@ export default function Header() {
               <Link href="/" className="flex items-center">
                 <div className="relative w-12 mr-2 h-10">
                   <Image
-                    src="../../public/logo.svg"
-                    alt="Jogos 360"
-                    width={24}
-                    height={24}
+                    src="/logo.svg"
+                    alt="Jbuid"
+                    width={40}
+                    height={40}
                     className="object-contain"
                   />
                 </div>
-                <div className="font-bold">JOGOS360</div>
+                <div className="font-bold text-2xl text-[#1E3A8A]">Jbuid</div>
               </Link>
             </div>
             <div className="hidden md:flex items-center space-x-4">
-              <Link href="/category/Top" className="text-gray-700 hover:text-blue-500 transition-colors duration-200">
+              <Link href="/top" className="text-gray-700 hover:text-blue-500 transition-colors duration-200">
                 {t("topGames")}
               </Link>
               <span className="text-gray-400">•</span>
@@ -140,7 +140,7 @@ export default function Header() {
                     value={searchQuery}
                     onChange={handleSearchChange}
                     onClick={() => !isSearchOpen && toggleSearch()}
-                    className="bg-gray-100 border border-gray-300 rounded-full py-1.5 pl-4 pr-10 w-[400px] focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                    className="border border-gray-300 rounded-full py-1.5 pl-4 pr-10 w-[400px] focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                   />
                   {searchQuery && (
                     <button
@@ -177,7 +177,7 @@ export default function Header() {
                   placeholder={t("searchGames")}
                   value={searchQuery}
                   onChange={handleSearchChange}
-                  className="w-full h-10 bg-gray-100 border border-gray-300 rounded-full py-1.5 pl-4 pr-10 focus:outline-none  focus:border-transparent"
+                  className="w-full h-10 border border-gray-300 rounded-full py-1.5 pl-4 pr-10 focus:outline-none  focus:border-transparent"
                 />
               </motion.div>
 
@@ -278,9 +278,12 @@ export default function Header() {
               animate={{ opacity: 1, x: 0 }}
               exit={{ opacity: 0, x: 20 }}
               transition={{ duration: 0.3, type: "spring" }}
-              className="fixed top-0 right-0 h-full w-80 max-w-lg z-50 bg-white shadow-xl"
+              className="fixed top-0 right-0 h-full w-100 max-w-lg z-50 bg-white shadow-xl"
             >
-              <MyGamesModal onClose={toggleMyGames} />
+              <div>
+                <MyGamesModal onClose={toggleMyGames} />
+              </div>
+
             </motion.div>
           </>
         )}

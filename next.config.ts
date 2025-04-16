@@ -1,17 +1,17 @@
 
 
-import {NextConfig} from 'next';
+import { NextConfig } from 'next';
 import createNextIntlPlugin from 'next-intl/plugin';
- const config: NextConfig = {
+const config: NextConfig = {
   /* config options here */
   reactStrictMode: true,
   images: {
-    domains: ['cdn.pokiter.com'], // 添加图片域名
+    domains: ['cdn.pokiter.com', 'cdn-ali.moloagdsp.com'], // 添加图片域名
   },
-  
+
 };
 
-   
-  const withNextIntl = createNextIntlPlugin();
-  export default withNextIntl(config);
+
+const withNextIntl = createNextIntlPlugin();
+export default withNextIntl(config);
 

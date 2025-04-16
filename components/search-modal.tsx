@@ -19,6 +19,7 @@ type SearchModalProps = {
 
 export default function SearchModal({ onClose, isOpen, searchQuery, setSearchQuery }: SearchModalProps) {
   const t = useTranslations("HomePage")
+  const categoryT = useTranslations("Categories")
   const searchT = useTranslations("Search")
   const commonT = useTranslations("Common")
 
@@ -155,7 +156,7 @@ export default function SearchModal({ onClose, isOpen, searchQuery, setSearchQue
               <div className="mb-6">
                 <div className="flex items-center mb-3">
                   <History className="w-5 h-5 mr-2 text-gray-600" />
-                  <h3 className="text-sm font-medium">{t("recentlyPlayed")}</h3>
+                  <h3 className="text-sm font-medium">{categoryT("recentlyplayed")}</h3>
                 </div>
                 <div className="grid grid-cols-4 lg:grid-cols-3 gap-2 grid-flow-row">
                   {recentGames.slice(0, 6).map((game) => (

@@ -1,5 +1,5 @@
 "use client"
-
+import { Search, Heart, Menu, X } from "lucide-react"
 import { useState, useRef, useEffect } from "react"
 import Image from "next/image"
 import { motion, AnimatePresence } from "framer-motion"
@@ -169,7 +169,7 @@ export default function GameShowcase({ game = {} as Game }: { game?: Game }) {
                     whileTap={{ scale: 0.9 }}
                     onClick={() => setShowGame(false)}
                     className="absolute top-4 left-4 bg-black/70 text-white w-12 h-12 rounded-full flex items-center justify-center z-[102]"
-                    aria-label="返回"
+                    aria-label="back"
                     style={{ touchAction: "manipulation" }}
                   >
                     <svg
@@ -210,7 +210,7 @@ export default function GameShowcase({ game = {} as Game }: { game?: Game }) {
               height={40}
               className="mr-2 hidden lg:block rounded-sm"
             />
-            <span className="text-black font-medium">Geometry Rush 4D</span>
+            <span className="text-black font-medium">{game.name}</span>
           </div>
           <div className="m-0 lg:ml-auto flex items-center space-x-4">
 
@@ -222,21 +222,9 @@ export default function GameShowcase({ game = {} as Game }: { game?: Game }) {
                 className="flex items-center"
                 onClick={likeFn}
               >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="24"
-                  height="24"
-                  viewBox="0 0 24 24"
-                  fill={liked ? "currentColor" : "none"}
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  className={`mr-1 ${liked ? "text-blue-500" : "text-gray-700"}`}
-                >
-                  <path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path>
-                </svg>
-                <span className={liked ? "text-blue-500 font-medium" : "text-gray-700"}>{likeCount}</span>
+                <Heart className={`w-6 h-6 ${liked ? "fill-green-600 stroke-green-600" : ""} `} />
+
+                <span className={liked ? "text-green-600 font-medium" : "text-gray-700"}>{likeCount}</span>
               </motion.button>
             </div>
 
@@ -258,11 +246,11 @@ export default function GameShowcase({ game = {} as Game }: { game?: Game }) {
                   strokeWidth="2"
                   strokeLinecap="round"
                   strokeLinejoin="round"
-                  className={`mr-1 ${disliked ? "text-red-500" : "text-gray-700"}`}
+                  className={`mr-1 ${disliked ? "text-gray-500" : "text-gray-700"}`}
                 >
                   <path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3zm7-13h2.67A2.31 2.31 0 0 1 22 4v7a2.31 2.31 0 0 1-2.33 2H17"></path>
                 </svg>
-                <span className={disliked ? "text-red-500 font-medium" : "text-gray-700"}>{dislikeCount}</span>
+                <span className={disliked ? "text-gray-500 font-medium" : "text-gray-700"}>{dislikeCount}</span>
               </motion.button>
             </div>
 

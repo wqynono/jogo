@@ -31,11 +31,9 @@ const AdComponent = (props: AdsBannerProps) => {
 
       // 创建新的广告元素
       const ins = document.createElement('ins');
-      ins.className = 'adsbygoogle adbanner-customize mt-2';
+      ins.className = 'adsbygoogl';
       ins.style.display = 'block';
-      // ins.dataset.adtest = 'on'; // 测试模式，生产环境应移除
-      // ins.dataset.adClient = 'ca-pub-1838470550408352';
-
+      ins.dataset.dataAdClient = 'ca-pub-000000000000';
       // 设置广告属性
       Object.entries(props).forEach(([key, value]) => {
         ins.setAttribute(key, value.toString()); // 直接使用setAttribute更可靠

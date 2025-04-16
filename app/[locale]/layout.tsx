@@ -1,60 +1,108 @@
 import '../../css/tailwind.css'
 import 'pliny/search/algolia.css'
 import '../globals.css'
-import { Space_Grotesk } from 'next/font/google'
 import { Metadata } from 'next'
 import siteMetadata from '@/data/siteMetadata'
 import { ThemeProviders } from '../theme-providers'
 import Footer from "../../components/footer"
-import { NextIntlClientProvider, Locale, hasLocale } from 'next-intl';
+import { NextIntlClientProvider, hasLocale } from 'next-intl';
 import { notFound } from 'next/navigation';
 import { routing } from '../../i18n/routing';
 import React from 'react';
 import Header from '../../components/Header'
-import Script from 'next/script'
-const space_grotesk = Space_Grotesk({
-  subsets: ['latin'],
-  display: 'swap',
-  variable: '--font-space-grotesk',
+import { Kanit } from 'next/font/google'
+import { GoogleAnalytics } from '@next/third-parties/google'
+const kanit = Kanit({
+  weight: ['400', '500', '600', '700'], // 选择你需要的字重
+  subsets: ['latin', 'thai'], // 选择需要的字符子集
+  display: 'swap', // 确保文本在字体加载时可见
+  variable: '--font-kanit', // 可选：创建CSS变量
 })
-
 export const metadata: Metadata = {
   metadataBase: new URL(siteMetadata.siteUrl),
   title: {
     default: siteMetadata.title,
     template: `%s | ${siteMetadata.title}`,
   },
+  keywords: siteMetadata.keyWords,
   description: siteMetadata.description,
+  authors: [{ name: 'Jbuid' }],
+  themeColor: '#1E3A8A',
+  applicationName: 'Jbuid',
+  manifest: '/manifest.json',
+
   openGraph: {
-    title: siteMetadata.title,
+    title: {
+      default: siteMetadata.title,
+      template: `%s | ${siteMetadata.title}`,
+    },
     description: siteMetadata.description,
-    url: './',
-    siteName: siteMetadata.title,
-    images: [siteMetadata.socialBanner],
-    locale: 'en_US',
+    url: siteMetadata.siteUrl,
+    siteName: siteMetadata.siteName,
+    locale: siteMetadata.locale,
     type: 'website',
+    // images: [
+    //   {
+    //     url: 'https://a.jbuid-cdn.com/cdn-cgi/image/quality=78,width=1200,height=630,f=png/opengraph/3/home/home-1200x630.png',
+    //     width: 1200,
+    //     height: 630,
+    //     alt: 'Free Online Games - Jbuid',
+    //     type: 'image/png',
+    //   },
+    // ],
   },
+
+  twitter: {
+    card: 'summary_large_image',
+    title: {
+      default: siteMetadata.title,
+      template: `%s | ${siteMetadata.title}`,
+    },
+    description: siteMetadata.description,
+    site: '@Jbuid',
+    // images: [
+    //   {
+    //     url: 'https://a.jbuid-cdn.com/cdn-cgi/image/quality=78,width=1200,height=600,f=png/opengraph/3/home/home-1200x600.png',
+    //     alt: 'Free Online Games - Jbuid',
+    //   },
+    // ],
+  },
+
+  icons: {
+    icon: [
+      { url: '/logo.svg', sizes: '16x16' },
+      { url: '/logo.svg', sizes: '32x32' },
+      { url: '/logo.svg', sizes: '194x194' },
+      { url: '/logo.svg', sizes: '192x192' },
+    ],
+    apple: [
+      { url: '/logo.svg', sizes: '180x180' },
+    ],
+    shortcut: '/logo.svg',
+  },
+
   alternates: {
-    canonical: './',
-    types: {
-      'application/rss+xml': `${siteMetadata.siteUrl}/feed.xml`,
+    canonical: 'https://jbuid.com/',
+    languages: {
+      'en': 'https://jbuid.com/en',
+      'ja': 'https://jbuid.com/ja',
+      'ko': 'https://jbuid.com/ko',
+      'zh': 'https://jbuid.com/zh',
+      'ru': 'https://jbuid.com/ru',
+      'x-default': 'https://jbuid.com/en',
     },
   },
+
   robots: {
     index: true,
     follow: true,
+    "max-image-preview": "large",
     googleBot: {
       index: true,
       follow: true,
-      'max-video-preview': -1,
       'max-image-preview': 'large',
       'max-snippet': -1,
     },
-  },
-  twitter: {
-    title: siteMetadata.title,
-    card: 'summary_large_image',
-    images: [siteMetadata.socialBanner],
   },
 }
 
@@ -75,53 +123,16 @@ export default async function LocaleLayout({
   return (
     <html
       lang={locale}
-      className={`${space_grotesk.variable} scroll-smooth`}
+      className={`${kanit.variable} scroll-smooth`}
       suppressHydrationWarning
     >
-      <link
-        rel="apple-touch-icon"
-        sizes="76x76"
-        href={`${basePath}/static/favicons/apple-touch-icon.png`}
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href={`${basePath}/static/favicons/favicon-32x32.png`}
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href={`${basePath}/static/favicons/favicon-16x16.png`}
-      />
-      <link rel="manifest" href={`${basePath}/static/favicons/site.webmanifest`} />
-      <link
-        rel="mask-icon"
-        href={`${basePath}/static/favicons/safari-pinned-tab.svg`}
-        color="#5bbad5"
-      />
-      <meta name="msapplication-TileColor" content="#000000" />
-      <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fff" />
-      <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000" />
-      <meta name="google-site-verification" content="1-YVeURx5S-USmoHm-s1VM3uIiAYCf_-S8dsn3sFYsQ" />
-      <link rel="alternate" type="application/rss+xml" href={`${basePath}/feed.xml`} />
-
-      <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client="
-        crossOrigin="anonymous"></Script>
       <body className="bg-white pl-[calc(100vw-100%)] text-black antialiased dark:bg-gray-950 dark:text-white">
-
+        <GoogleAnalytics gaId={siteMetadata.analytics.googleAnalytics.googleAnalyticsId} />
         <NextIntlClientProvider>
           <ThemeProviders>
-            {/* <Analytics analyticsConfig={siteMetadata.analytics as AnalyticsConfig} /> */}
-            {/* <SectionContainer>
-            <SearchProvider searchConfig={siteMetadata.search as SearchConfig}> */}
             <Header />
             <main className="mb-auto">{children}</main>
             <Footer />
-            {/* </SearchProvider>
-            <Footer />
-          </SectionContainer> */}
           </ThemeProviders>
         </NextIntlClientProvider>
 

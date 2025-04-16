@@ -74,7 +74,7 @@ export default function MyGamesModal({ onClose }: MyGamesModalProps) {
         />
       </div>
 
-      <div className="m-4 h-full  overflow-y-scroll">
+      <div className="m-4 h-full  overflow-y-auto">
         <div className="grid grid-cols-3 gap-2 h-full">
           {activeTab === "favorites" && likedGames.length === 0 && (
             <div className="col-span-3 text-center py-8 text-gray-500">

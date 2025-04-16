@@ -9,14 +9,46 @@ import Image from "next/image"
 import "@/css/game-player.css"
 import GameShowcase from "@/components/game-showcase";
 import RecentlyPlayedSection from "@/components/recently-played-section"
-
+import siteMetadata from "@/data/siteMetadata"
 
 export default async function Name({ params }: any) {
   const t = await getTranslations("HomePage")
+  const categoryT = await getTranslations("Categories")
   const { game } = params;
-  const gameDeail: Game | {} = defaultGamelist.find((item) => item.name === game) || {}
+  const gameDeail: Game = defaultGamelist.find((item) => item.name === game) as Game;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "game",
+    "name": gameDeail.name,
+    "url": `${siteMetadata.siteUrl}/games/${game}`,
+    "description": gameDeail.desc_text,
+    "image": gameDeail.icon,
+    "genre": gameDeail.category,
+    "gamePlatform": gameDeail.type,
+    "applicationCategory": "Game",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": gameDeail.rating,
+      "ratingCount": 100,
+      "bestRating": "5",
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": siteMetadata.name
+    },
+    "datePublished": gameDeail.create_time,
+  }
   return (
     <div>
+      <section>
+        <script
+          async
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-000000000000"
+          crossOrigin="anonymous"></script>
+      </section>
       <div className="min-h-screen">
         <div className="min-h-screen max-w-12/12 m-0 mx-auto xl:max-w-11/12  ">
           <div className="mx-auto px-4 py-6">
@@ -40,7 +72,7 @@ export default async function Name({ params }: any) {
                           <div className="game-card-title">{game.name}</div>
                           {game.isfunny && (
                             <div className="absolute top-0 left-0 bg-red-500 text-white text-xs font-bold px-2 py-0.5 rounded">
-                              {index}
+                              Fun
                             </div>
                           )}
                         </div>
@@ -62,7 +94,7 @@ export default async function Name({ params }: any) {
               </div>
 
               {/* 广告位置右侧 */}
-              <div className={`bg-white col-start-1 col-end-4 row-start-5 row-end-8 min-h-[350] shadow-lg rounded-lg
+              <div className={`bg-white col-start-1 col-end-4 row-start-5 row-end-8 min-h-[350] shadow-lg border-1 border-gray-200 rounded-lg 
                       sm:col-start-1 sm:col-end-5 sm:row-start-5 sm:row-end-8  sm:min-h-[360]
                       md:col-start-1 md:col-end-6 md:row-start-6 md:row-end-9 md:min-h-[440]
                       lg:col-start-5 lg:col-end-7 lg:row-start-1 lg:row-end-4 lg:min-h-[440]
@@ -75,13 +107,13 @@ export default async function Name({ params }: any) {
               </div>
 
               {/* 广告位置底部 */}
-              <div className={`bg-white min-h-[100] col-start-1 col-end-[-1] shadow-lg rounded-lg
+              <div className={`bg-white min-h-[100] col-start-1 col-end-[-1] shadow-lg border-1 border-gray-200 rounded-lg 
                       lg:col-start-1 lg:col-end-5 lg:row-start-4 lg:row-end-5
                       xl:col-start-1 xl:col-end-7 xl:row-start-5 xl:row-end-6
                       2xl:col-start-3 2xl:col-end-9 2xl:row-start-5 2xl:row-end-6`}>
                 <AdComponent data-ad-slot={adConfig.hx} data-ad-format={"auto"} data-full-width-responsive={true} />
 
-                <span className="text-xs text-gray-500 text-center w-full block bg-gray-200 p-1 rounded-b-lg">{t("advertisement")}</span>
+                <span className="text-xs text-gray-500 text-center w-full block bg-gray-200 p-1">{t("advertisement")}</span>
               </div>
 
 
@@ -110,7 +142,7 @@ export default async function Name({ params }: any) {
                   {/* 游戏标题和副标题 */}
                   <div className="relative z-10 h-full flex flex-col justify-center p-4 sm:p-6">
                     <h1 className="text-xl sm:text-2xl font-bold text-lime-400">{(gameDeail as Game).name || ""}</h1>
-                    <p className="text-sm sm:text-base text-white mt-1">{(gameDeail as Game).category || ""}</p>
+                    <p className="text-sm sm:text-base text-white mt-1">{(gameDeail as Game).category && categoryT((gameDeail as Game).category.toLowerCase()) + " " + t("games") || ""}</p>
                   </div>
                 </div>
 
