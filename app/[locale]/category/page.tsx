@@ -20,8 +20,6 @@ export default async function Category() {
     }
     return (
         <div>
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-000000000000"
-                crossOrigin="anonymous"></script>
             <section>
                 <script
                     async
@@ -46,7 +44,6 @@ export default async function Category() {
                 </div>
             </div>
         </div>
-
     )
 }
 

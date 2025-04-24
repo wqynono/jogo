@@ -14,13 +14,6 @@ export default function robots(): MetadataRoute.Robots {
                 allow: [
                     '/',
                 ]
-            }, {
-                userAgent: 'Googlebot-Image',
-                allow: [
-                    // 允许所有语言的游戏图片
-                    ...languages.flatMap(lang =>
-                        defaultGamelist.map(item => `/${lang}/game/${item.name}`))
-                ]
             }
         ],
         sitemap: `${URL}/sitemap.xml`,

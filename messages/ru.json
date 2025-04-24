@@ -14,6 +14,8 @@
     "noRecentGames": "Вы еще не играли в игры",
     "advertisement": "реклама",
     "play": "ИГРАТЬ",
+    "download": "Скачать",
+    "downloadon": "Скачать In {platform}",
     "gameIntro": "Описание игры",
     "youMightLike": "Вам может понравиться",
     "notFound": "Не найдено",
@@ -127,5 +129,43 @@
     "title": "404 Not Found",
     "description": "Sorry, the page you are looking for does not exist or has been removed.",
     "backHome": "back to home"
+  },
+  "About": {
+    "title": "Политика конфиденциальности",
+    "intro": "Мы уважаем вашу конфиденциальность. Наш сайт предоставляет игры без логина, рекламы и сбора данных.",
+    "noDataCollection": {
+      "title": "Нет сбора персональных данных",
+      "content": "Мы не собираем и не храним личные данные пользователей. Для игры не требуется регистрация."
+    },
+    "analytics": {
+      "title": "Анонимная аналитика",
+      "content": "Мы можем использовать базовую аналитику для анализа трафика, не идентифицируя пользователей."
+    },
+    "thirdParties": {
+      "title": "Сторонние сервисы",
+      "content": "Мы не используем сторонние сервисы входа, рекламы или трекинга. При изменении эта политика будет обновлена."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "В настоящее время мы не используем cookies. В случае изменений, мы предоставим информацию о назначении и настройке."
+    },
+    "contact": {
+      "title": "Связаться с нами",
+      "content": "По вопросам, связанным с политикой конфиденциальности, свяжитесь с нами через контактную информацию на сайте."
+    }
+  },
+  "Privacy": {
+    "title": "Privacy Policy",
+    "intro": "At {domain}, we respect your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data.",
+    "infoCollection": "1. Information Collection: We may collect personal information such as your name and email address when you voluntarily provide it. We also collect non-personal data like your IP address, browsing behavior, and inputs to help improve our services.",
+    "infoUse": "2. Use of Information: The information we collect is used to provide and improve our services, respond to inquiries, and send updates or promotional content.",
+    "infoSharing": "3. Sharing of Information: We do not sell, trade, or transfer your personal information to third parties unless required by law.",
+    "cookies": "4. Cookies: We use cookies to enhance your experience on our website. You can disable cookies via your browser settings, but this may limit some functionality.",
+    "security": "5. Security: We implement appropriate security measures to protect your personal data. However, please note that no method of transmission over the internet is 100% secure.",
+    "additionalInfo": "At {domain}, we value your privacy highly. We collect browser information including your IP address, referrer, and visited pages. The only other personal data we collect is what you submit in our online forms. {domain} is the sole owner of this information, which is used only for statistical traffic analysis.",
+    "cookiesAndTech": "{domain} uses cookies and other technologies to improve your online experience and understand how our services are used to enhance quality.",
+    "thirdPartyAds": "We use third-party advertising companies to serve ads when you visit our site. These companies may collect non-personal data about your visits to this and other sites to display ads related to your interests.",
+    "googleAds": "Google Ads: As a third-party vendor, Google uses cookies to serve ads on our site. The DART cookie allows Google to serve ads based on your visits to our site and others on the Internet. You can opt out of DART cookie use by visiting Google’s ad and content network privacy policy.",
+    "policyUpdates": "This policy may be updated without prior notice, so please check it periodically for changes."
   }
 }

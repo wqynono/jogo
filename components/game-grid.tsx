@@ -99,7 +99,7 @@ export default function GameGrid({
                 </div>
 
                 {/* 在指定位置插入广告 */}
-                {index === adPosition && gamePcLength > 11 && (
+                {/* {index === adPosition && gamePcLength > 11 && (
                   <div
                     className={`bg-white row-start-4 col-start-1 row-span-3 col-span-3 max-h-[270px] border-1 border-gray-200 rounded-lg
                     sm:row-start-3 sm:col-start-1 sm:row-span-3 sm:col-span-4 
@@ -114,7 +114,7 @@ export default function GameGrid({
                     <AdComponent data-ad-slot={adConfig.zfx[1]} data-ad-format={"auto"} data-full-width-responsive={true} />
 
                   </div>
-                )}
+                )} */}
               </>
             )}
           </React.Fragment>

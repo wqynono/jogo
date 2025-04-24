@@ -86,6 +86,7 @@ export default function GameSlide({ name, games, viewAllLink = "" }: GameSlidePr
       {showLeftArrow && (
         <button
           onClick={() => scroll("left")}
+          aria-label="Scroll left"
           className="absolute  left-0 top-1/2 transform -translate-y-1/2 z-10 bg-white/80 hover:bg-white shadow-md rounded-full p-2 transition-all cursor-pointer"
           style={{ marginTop: 20 }}
         >
@@ -134,6 +135,7 @@ export default function GameSlide({ name, games, viewAllLink = "" }: GameSlidePr
       {showRightArrow && (
         <button
           onClick={() => scroll("right")}
+          aria-label="Scroll right"
           className="absolute right-0 top-1/2 transform -translate-y-1/2 z-10 bg-white/80 hover:bg-white shadow-md rounded-full p-2 transition-all cursor-pointer"
           style={{ marginTop: 20 }}
         >

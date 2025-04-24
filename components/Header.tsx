@@ -99,7 +99,7 @@ export default function Header() {
                 <div className="relative w-12 mr-2 h-10">
                   <Image
                     src="/logo.svg"
-                    alt="Jbuid"
+                    alt="Jbuid logo"
                     width={40}
                     height={40}
                     className="object-contain"
@@ -181,18 +181,20 @@ export default function Header() {
                 />
               </motion.div>
 
-              <button onClick={toggleSearch} className="p-2 rounded-full bg-green-600 text-white flex-shrink-0">
+              <button onClick={toggleSearch} aria-label="search button" className="p-2 rounded-full bg-green-600 text-white flex-shrink-0">
                 {isSearchOpen ? <X className="w-5 h-5" /> : <Search className="w-5 h-5" />}
               </button>
 
               <button
                 onClick={toggleMyGames}
+                aria-label="My Games"
                 className={`${isSearchOpen && isSearchOpen ? "hidden" : "inline-block"} p-2 rounded-full bg-green-600 text-white flex-shrink-0`}
               >
                 <Heart className="w-5 h-5" />
               </button>
               <button
                 onClick={toggleMobileMenu}
+                aria-label="menu button"
                 className={`${isSearchOpen && isSearchOpen ? "hidden" : "inline-block"} p-2 rounded-full bg-green-600 text-white flex-shrink-0`}
               >
                 <Menu className="w-5 h-5" />
@@ -203,7 +205,7 @@ export default function Header() {
 
         {/* 游戏分类导航 */}
         <div className="bg-[#1e3a8a] text-white">
-          <div className="mx-auto hidden lg:block">
+          <div className="mx-auto hidden md:block">
             <GameCategories />
           </div>
         </div>

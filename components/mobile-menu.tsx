@@ -34,7 +34,7 @@ export default function MobileMenu({ onClose }: MobileMenuProps) {
         <div className="flex items-center">
           <div className="relative w-10 h-10 mr-2">
             <Image
-              src="/placeholder.svg?height=40&width=40"
+              src="/logo.svg"
               alt="Jbuid Logo"
               width={40}
               height={40}
@@ -43,8 +43,8 @@ export default function MobileMenu({ onClose }: MobileMenuProps) {
           </div>
           <div className="font-bold text-xl text-white">Jbuid</div>
         </div>
-        {/* <div className="flex items-center gap-4">
-          <button
+        <div className="flex items-center gap-4">
+          {/* <button
             onClick={toggleDarkMode}
             className="w-12 h-6 rounded-full bg-blue-800 flex items-center transition duration-300 focus:outline-none shadow"
             aria-label={isDarkMode ? menuT("lightMode") : menuT("darkMode")}
@@ -53,11 +53,11 @@ export default function MobileMenu({ onClose }: MobileMenuProps) {
               className={`w-6 h-6 relative rounded-full transition duration-500 transform ${isDarkMode ? "translate-x-6 bg-gray-700" : "translate-x-0 bg-white"
                 } p-1 text-white`}
             ></div>
-          </button>
-          <button onClick={onClose} className="text-white" aria-label={t("close")}>
+          </button> */}
+          <button onClick={onClose} className="text-white cursor-pointer" aria-label={t("close")}>
             <X className="w-6 h-6" />
           </button>
-        </div> */}
+        </div>
       </div>
 
       <div className="flex-1 p-4">

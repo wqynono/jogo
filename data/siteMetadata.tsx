@@ -1,22 +1,21 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   siteName: 'Jbuid',
-  title: 'Jbuid | A free online games platform',
+  title: 'Jbuid | Play Free Lightweight Mini Games Instantly – No Download Needed',
   author: 'jbuid',
   name: 'jbuid.top',
-  keyWords: ['jbuid.top', ' free online games', ' online games', ' jbuid.top', ' jbuid.top'],
-  headerTitle: 'Most popular games include hits like',
-  description: 'jbuid.top - A free online gaming platform. Our expert team"s goal is to provide the best selection of games on the web and deliver an excellent experience for players.',
+  keyWords: [' free online games', 'Tap Road', ' mini', 'instant', "no download"],
+  description: 'Discover free browser games that play instantly on mobile &ipad & Mac —lightweight Tap Road & Block Blast run in your browser, no downloads required!',
   language: 'en-US, zh-CN, zh-TW, ja-JP, ko-KR,ru-RU',
   theme: 'system', // system, dark or light
   siteUrl: process.env.BASE_PATH || 'https://jbuid.top',
-  siteLogo: `${process.env.BASE_PATH || 'https://jbuid.top'}/static/images/logo.png`,
-  socialBanner: `${process.env.BASE_PATH || 'https://jbuid.top'}/static/images/twitter-card.png`,
+  siteLogo: `${process.env.BASE_PATH || 'https://jbuid.top'}/logo.svg`,
+  socialBanner: `${process.env.BASE_PATH || 'https://jbuid.top'}/logo.svg`,
   locale: 'en-US, zh-CN, zh-TW, ja-JP, ko-KR,ru-RU', // 多语言支持
   stickyNav: false,
   analytics: {
     googleAnalytics: {
-      googleAnalyticsId: 'G-GDZ6FF8TZE', // e.g. G-XXXXXXX
+      googleAnalyticsId: 'G-1ZE9VPVJZL', // e.g. G-XXXXXXX
     },
   }
 }

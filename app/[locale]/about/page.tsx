@@ -4,8 +4,7 @@ import type { Metadata } from 'next'
 export async function generateMetadata(): Promise<Metadata> {
 
     return {
-        title: "jbuid.top about title",
-        description: "jbuid.top about description",
+        title: "About page",
     }
 }
 
@@ -77,11 +76,6 @@ export default async function About() {
                                 <p className="text-sm md:text-lg text-gray-700 leading-relaxed">{t("intellectualPropertyContent", { domain })}</p>
                             </section>
 
-                            {/* Funding Section */}
-                            <section>
-                                <h2 className="text-lg md:text-2xl font-bold mb-4">{t("funding")}</h2>
-                                <p className="text-sm md:text-lg text-gray-700 leading-relaxed">{t("fundingContent", { domain })}</p>
-                            </section>
                         </div>
                     </main>
                 </div>

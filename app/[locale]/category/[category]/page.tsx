@@ -6,8 +6,20 @@ import { defaultGamelist } from "@/data/game"
 import React from "react"
 import adConfig from "@/data/adConfig"
 import RecentlyPlayedSection from "@/components/recently-played-section"
-import siteMetadata from "@/data/siteMetadata";
+import siteMetadata from "@/data/siteMetadata"
+import type { Metadata } from 'next'
+type Props = {
+  params: Promise<{ category: string }>
+}
+export async function generateMetadata(
+  { params }: Props,
+): Promise<Metadata> {
+  const { category } = await params
 
+  return {
+    title: category,
+  };
+}
 export default async function Category({ params }: any) {
   const t = await getTranslations("HomePage")
   const tCategories = await getTranslations("Categories");
@@ -28,8 +40,6 @@ export default async function Category({ params }: any) {
   }
   return (
     <div>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-000000000000"
-        crossOrigin="anonymous"></script>
       <section>
         <script
           async
@@ -54,7 +64,6 @@ export default async function Category({ params }: any) {
         </div>
       </div>
     </div>
-
   )
 }
 

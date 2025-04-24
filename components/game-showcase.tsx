@@ -1,5 +1,5 @@
 "use client"
-import { Search, Heart, Menu, X } from "lucide-react"
+import { Heart } from "lucide-react"
 import { useState, useRef, useEffect } from "react"
 import Image from "next/image"
 import { motion, AnimatePresence } from "framer-motion"
@@ -36,6 +36,10 @@ export default function GameShowcase({ game = {} as Game }: { game?: Game }) {
 
 
   const playGame = () => {
+    if (game.google_play) {
+      window.open(game?.appConfig[0].url, "_blank")
+      return
+    }
     setShowGame(true)
     addRecentlyPlayedGame(game)
   }
@@ -80,10 +84,12 @@ export default function GameShowcase({ game = {} as Game }: { game?: Game }) {
       <div className="absolute inset-0 z-[1] opacity-40 ">
         <Image
           src={game.icon}
-          alt={game.name}
+          alt={game.sub_name || game.name}
           fill
           className="object-cover object-center "
-          priority
+          priority={true} // 如果是LCP元素则标记为高优先级
+          loading="eager" // 禁用懒加载（对LCP元素很重要）
+          quality={40}   // 适当降低质量以提高加载速度
         />
       </div>
 
@@ -105,23 +111,49 @@ export default function GameShowcase({ game = {} as Game }: { game?: Game }) {
               <div className="mb-4 rounded-lg overflow-hidden border-2 border-white shadow-lg">
                 <Image
                   src={game.icon}
-                  alt={game.name}
+                  alt={game.sub_name || game.name}
                   width={isMobile ? 100 : 150}
                   height={isMobile ? 100 : 150}
                   className="object-cover "
                 />
               </div>
+              {game.google_play ?
 
-              {/* 播放按钮 */}
-              <motion.button
-                whileHover={{ scale: 1.1 }}
-                whileTap={{ scale: 0.9 }}
-                className="bg-white text-black font-bold py-2 px-12 rounded-full text-xl tracking-wider shadow-lg cursor-pointer"
-                onClick={playGame}
-                transition={{ type: "spring", stiffness: 400, damping: 10 }}
-              >
-                {t("play")}
-              </motion.button>
+                game.appConfig.map((item: any) => {
+                  const platform = item.platform
+                  return (
+                    <motion.button
+                      whileHover={{ scale: 1.1 }}
+                      whileTap={{ scale: 0.9 }}
+                      className="bg-white text-black font-bold py-2 px-12 rounded-full text-xl tracking-wider shadow-lg cursor-pointer"
+                      onClick={playGame}
+                      transition={{ type: "spring", stiffness: 400, damping: 10 }}
+                    >
+                      {t("downloadon", { platform })}
+                    </motion.button>
+                  )
+                })
+
+
+
+
+
+
+
+
+
+                :
+                <motion.button
+                  whileHover={{ scale: 1.1 }}
+                  whileTap={{ scale: 0.9 }}
+                  className="bg-white text-black font-bold py-2 px-12 rounded-full text-xl tracking-wider shadow-lg cursor-pointer"
+                  onClick={playGame}
+                  transition={{ type: "spring", stiffness: 400, damping: 10 }}
+                >
+                  {t("play")}
+                </motion.button>
+              }
+
             </motion.div>
           ) : (
             // <GameFrame onClose={() => setShowGame(false)} isMobile={isMobile} />
@@ -135,8 +167,9 @@ export default function GameShowcase({ game = {} as Game }: { game?: Game }) {
                 <iframe
                   ref={iframeRef}
                   src={game.html}
-                  title={game.name}
+                  title={game.sub_name || game.name}
                   className="w-full h-full border-0"
+                  allow="gamepad *;"
                   allowFullScreen
                 />
               </motion.div>
@@ -154,7 +187,7 @@ export default function GameShowcase({ game = {} as Game }: { game?: Game }) {
                   <iframe
                     ref={iframeRef}
                     src={game.html}
-                    title={game.name}
+                    title={game.sub_name || game.name}
                     className="absolute inset-0 w-full h-full border-0 z-[100]"
                     allowFullScreen
                     style={{
@@ -205,12 +238,12 @@ export default function GameShowcase({ game = {} as Game }: { game?: Game }) {
           <div className="flex items-center">
             <Image
               src={game.icon}
-              alt={game.name}
+              alt={game.sub_name || game.name}
               width={40}
               height={40}
               className="mr-2 hidden lg:block rounded-sm"
             />
-            <span className="text-black font-medium">{game.name}</span>
+            <span className="text-black font-medium">{game.sub_name || game.name}</span>
           </div>
           <div className="m-0 lg:ml-auto flex items-center space-x-4">
 

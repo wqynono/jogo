@@ -126,8 +126,9 @@ export default async function LocaleLayout({
       className={`${kanit.variable} scroll-smooth`}
       suppressHydrationWarning
     >
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-000000000000"
+        crossOrigin="anonymous"></script>
       <body className="bg-white pl-[calc(100vw-100%)] text-black antialiased dark:bg-gray-950 dark:text-white">
-        <GoogleAnalytics gaId={siteMetadata.analytics.googleAnalytics.googleAnalyticsId} />
         <NextIntlClientProvider>
           <ThemeProviders>
             <Header />
@@ -135,18 +136,8 @@ export default async function LocaleLayout({
             <Footer />
           </ThemeProviders>
         </NextIntlClientProvider>
-
       </body>
+      <GoogleAnalytics gaId={siteMetadata.analytics.googleAnalytics.googleAnalyticsId} />
     </html>
-
-
-
-
-
-
-
-
-
-
   );
 }

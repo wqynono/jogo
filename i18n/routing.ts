@@ -5,6 +5,6 @@ export const routing = defineRouting({
   locales: ['en', 'zh', 'ja', 'ko', 'ru'],
 
   // Used when no locale matches
-  defaultLocale: 'zh'
+  defaultLocale: 'en'
 });
 export const laguageList = ['en', 'zh', 'ja', 'ko', 'ru']
