@@ -18,9 +18,17 @@ type Props = {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { game } = await params
   const gameDetail: Game = defaultGamelist.find((item) => item.name === game) as Game
+  if (gameDetail.google_play) {
+    return {
+      title: gameDetail?.title ? gameDetail?.title : (gameDetail.sub_name || gameDetail.name) + `Download Enemy ${gameDetail.sub_name || gameDetail.name} for Android | ${gameDetail.sub_name || gameDetail.name}  Mod APK `,
+      description: gameDetail?.meta_desc ? gameDetail?.meta_desc : `Download ${gameDetail.sub_name || gameDetail.name} for Android and dive into intense FPS action! Get the latest version of ${gameDetail.sub_name || gameDetail.name} game and enjoy unlimited money and gold with our mod APK. Fight enemies, complete missions, and become a hero in this thrilling ${gameDetail.category} game!`,
+    }
+  } else {
 
-  return {
-    title: gameDetail.sub_name || gameDetail.name,
+    return {
+      title: gameDetail.title || (gameDetail.sub_name || gameDetail.name) + ` - Free Online Anime ${gameDetail.category} Game | Play Instantly on JBUID`,
+      description: gameDetail.meta_desc || `Play ${gameDetail.sub_name || gameDetail.name} instantly in your browser, with no download or ads.Enjoy this fun anime-themed ${gameDetail.category} game with simple controls on mobile and desktop`,
+    }
   }
 }
 
@@ -117,7 +125,30 @@ export default async function Name({
         "uploadDate": gameDetail.create_time + "+00:00",
         "thumbnailUrl": gameDetail.videoThumbnail
       }
-      : {}
+      : {},
+    "breadcrumb": {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": `${siteMetadata.siteUrl}`
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Games",
+          "item": `${siteMetadata.siteUrl}/games`
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": gameDetail.sub_name || gameDetail.name,
+          "item": `${siteMetadata.siteUrl}/game/${gameDetail.name}`
+        }
+      ]
+    }
   };
 
   const jsonLd = gameDetail.google_play
@@ -171,12 +202,12 @@ export default async function Name({
                         <div className="relative aspect-square overflow-hidden rounded-lg w-full h-full">
                           <Image
                             src={game.icon || "/placeholder.svg"}
-                            alt={game.name}
+                            alt={game.sub_name || game.name}
                             fill
                             sizes="(100vw - 16px) 100vw"
                             className="object-cover"
                           />
-                          <div className="game-card-title">{game.name}</div>
+                          <div className="game-card-title">{game.sub_name || game.name}</div>
                           {game.isfunny && (
                             <div className="absolute top-0 left-0 bg-red-500 text-white text-xs font-bold px-2 py-0.5 rounded">
                               Fun
@@ -238,7 +269,7 @@ export default async function Name({
               {/* 游戏介绍 */}
               <div className="col-start-1 col-end-[-1] bg-white rounded-lg overflow-hidden shadow-md">
                 {/* 游戏头部区域 */}
-                <div className="relative h-24 sm:h-30 bg-black overflow-hidden">
+                <div className="relative h-30  bg-black overflow-hidden">
                   <div
                     className="absolute right-0 top-0 bottom-0 w-[40%] overflow-hidden"
                     style={{
@@ -260,22 +291,26 @@ export default async function Name({
 
                   {/* 游戏标题和副标题 */}
                   <div className="relative z-10 h-full flex flex-col justify-center p-4 sm:p-6">
-                    <h1 className="text-xl sm:text-2xl font-bold text-lime-400">{(gameDetail as Game).sub_name ? (gameDetail as Game).sub_name : (gameDetail as Game).name}</h1>
-                    <p className="text-sm sm:text-base text-white mt-1">
-                      {((gameDetail as Game).category &&
-                        categoryT((gameDetail as Game).category.toLowerCase()) + " " + t("games")) ||
-                        ""}
+                    <h1 className="text-xl sm:text-2xl font-bold text-lime-400 w-max">{(gameDetail as Game).sub_name ? (gameDetail as Game).sub_name : (gameDetail as Game).name}</h1>
+                    {gameDetail.platform && <h2 className="text-xs sm:text-sm px-2 py-1 mx-1 text-white">Platforms: {gameDetail.platform}</h2>}
+                    <div className="flex flex-wrap justify-start text-sm sm:text-base text-white mt-1">
+                      {
+                        (gameDetail as Game).category &&
+                        <h2 className="text-sm text-white  rounded-full px-2  mx-1 ">
+                          {categoryT((gameDetail as Game).category.toLowerCase()) + " " + t("games") || ""}
+                        </h2>
+                      }
 
                       {(gameDetail as Game).tags &&
                         gameDetail.tags?.split(",").map((tag: string) => {
                           return (
-                            <span key={tag} className="text-xs sm:text-sm text-white  rounded-full px-2 py-1 mx-1">
+                            <h2 key={tag} className="text-sm text-white  rounded-full px-2 mx-1 ">
                               {tag}
-                            </span>
+                            </h2>
                           );
                         })
                       }
-                    </p>
+                    </div>
                   </div>
                 </div>
 
@@ -286,11 +321,13 @@ export default async function Name({
                       <h2 className="text-lg sm:text-xl font-semibold text-gray-800 mb-3">
                         {"Game Screenshots"}
                       </h2>
+
                       <GameScreenshotsCarousel screenshots={(gameDetail as Game).screenshots || []} />
                     </div>
                   )}
-                  <h2 className="text-lg sm:text-xl font-semibold text-gray-800 mb-3">{t("gameIntro")}</h2>
-                  {/* <p className="text-sm sm:text-base text-gray-700 mb-4">{(gameDetail as Game).desc_text || ""}</p> */}
+
+                  {/* <h1 className="text-lg sm:text-2xl font-semibold text-gray-800 mb-3">{(gameDetail as Game).sub_name || ""} – Free Online {(gameDetail as Game).category} Game </h1> */}
+
                   <div>
                     <MarkdownRenderer content={(gameDetail as Game).desc_text || ""} />
 
@@ -310,7 +347,8 @@ export default async function Name({
                             return (
                               <div key={index} className="mb-4">
                                 <h2 className="text-lg sm:text-xl font-semibold text-gray-800 mb-3">{item.question}</h2>
-                                <p className="text-sm sm:text-base text-gray-700 mb-4"> {item.answer}</p>
+                                <MarkdownRenderer content={item.answer} />
+
                               </div>
                             )
 

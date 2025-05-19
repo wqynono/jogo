@@ -55,7 +55,7 @@ export default function GameGrid({
                   <div className="relative aspect-square overflow-hidden rounded-lg w-full h-full">
                     <Image
                       src={game.icon || "/placeholder.svg"}
-                      alt={game.name}
+                      alt={game.sub_name || game.name}
                       fill
                       sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                       className="object-cover"
@@ -65,7 +65,7 @@ export default function GameGrid({
                       placeholder="blur" // 添加模糊占位符
                       blurDataURL="/placeholder.svg" // 小尺寸占位图像
                     />
-                    <div className="game-card-title">{game.name}</div>
+                    <div className="game-card-title">{game.sub_name || game.name}</div>
                     {game.isfunny && (
                       <div className="absolute top-0 left-0 bg-red-500 text-white text-xs font-bold px-2 py-0.5 rounded">
                         Fun
@@ -82,13 +82,13 @@ export default function GameGrid({
                     <div className="relative aspect-square overflow-hidden rounded-lg w-full h-full">
                       <Image
                         src={game.icon || "/placeholder.svg"}
-                        alt={game.name}
+                        alt={game.sub_name || game.name}
                         fill
                         sizes="(100vw - 16px) 100vw"
                         quality={70}
                         className="object-cover"
                       />
-                      <div className="game-card-title">{game.name}</div>
+                      <div className="game-card-title">{game.sub_name || game.name}</div>
                       {game.isfunny && (
                         <div className="absolute top-0 left-0 bg-red-500 text-white text-xs font-bold px-2 py-0.5 rounded">
                           Fun

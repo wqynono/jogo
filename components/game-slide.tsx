@@ -110,7 +110,7 @@ export default function GameSlide({ name, games, viewAllLink = "" }: GameSlidePr
             <div className="relative aspect-square overflow-hidden rounded-lg">
               <Image
                 src={game.icon || "/placeholder.svg"}
-                alt={game.name}
+                alt={game.sub_name || game.name}
                 width={146}
                 height={146}
                 quality={70}
@@ -118,7 +118,7 @@ export default function GameSlide({ name, games, viewAllLink = "" }: GameSlidePr
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent">
                 <div className="absolute bottom-2 left-2 right-2 font-bold text-white text-sm line-clamp-2">
-                  {game.name}
+                  {game.sub_name || game.name}
                 </div>
               </div>
               {game.isfunny && (

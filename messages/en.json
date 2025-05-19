@@ -36,6 +36,7 @@
     "popularGamesDesc": "Some of the most popular games include hits like",
     "andMore": "and many more. Fans of classic games can enjoy online favorites such as",
     "searchFor": "Search for",
+    "searchResultsFormat": "{searchValue} Games",
     "games": "Games"
   },
   "Footer": {

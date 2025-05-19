@@ -20,10 +20,7 @@ const kanit = Kanit({
 })
 export const metadata: Metadata = {
   metadataBase: new URL(siteMetadata.siteUrl),
-  title: {
-    default: siteMetadata.title,
-    template: `%s | ${siteMetadata.title}`,
-  },
+  title: siteMetadata.title,
   keywords: siteMetadata.keyWords,
   description: siteMetadata.description,
   authors: [{ name: 'Jbuid' }],
@@ -32,10 +29,7 @@ export const metadata: Metadata = {
   manifest: '/manifest.json',
 
   openGraph: {
-    title: {
-      default: siteMetadata.title,
-      template: `%s | ${siteMetadata.title}`,
-    },
+    title: siteMetadata.title,
     description: siteMetadata.description,
     url: siteMetadata.siteUrl,
     siteName: siteMetadata.siteName,
@@ -54,10 +48,7 @@ export const metadata: Metadata = {
 
   twitter: {
     card: 'summary_large_image',
-    title: {
-      default: siteMetadata.title,
-      template: `%s | ${siteMetadata.title}`,
-    },
+    title: siteMetadata.title,
     description: siteMetadata.description,
     site: '@Jbuid',
     // images: [

@@ -2,6 +2,9 @@ type Game = {
        "id": Number,
        "name": string,
        "sub_name": string,
+
+       "title"?: string,
+       "meta_desc"?: string,
        "desc_text": string,
        "icon": string,
        "html": string,
@@ -34,6 +37,9 @@ const defaultGamelist: Game[] = [
               "id": 2,
               "name": "RichGirlMallShoppingGame",
               "sub_name": "Rich Girl Mall Shopping Game",
+              "title": "Rich Girl Mall Shopping Game – Luxury Fashion & Dress-up Simulation Free Apk | Jbuid.top",
+              "meta_desc": "Play Rich Girl Mall Shopping Game free online - the ultimate rich girl crazy shopping fashion game with VIP treatments, glam outfits, and makeovers. Shop at fancy stores, get styled by personal stylists, and join fashion shows. Experience the high life in this popular shopping mall girl game",
+
               "icon": "https://cdn.pokiter.com/google/Rich Girl Mall - Shopping Game/icon.png",
               "html": "https://play.google.com/store/apps/details?id=com.cocoplay.richgirl",
               "platform": "web,Mobile",
@@ -77,7 +83,9 @@ const defaultGamelist: Game[] = [
        {
               "id": 2511,
               "name": "TapRoad",
-              "sub_name": "",
+              "sub_name": "Tap Road",
+              "title": "Tap Road - Free Online Endless Runner Game Unblocked | Jbuid.top",
+              "meta_desc": "Play Tap Road unblocked - the addictive endless runner where you guide a ball through neon-lit roads. Tap to switch lanes, avoid obstacles, collect gems, and improve your reflexes. No download needed for this exciting Tap Road IO game. Perfect for players looking for Tap Road AZ games with quick, challenging gameplay!",
               "icon": "https://taproad.io/cache/data/image/game/tap-road-sr1-f180x180.jpg",
               "html": "https://azgames.io/game/tap-road/",
               "platform": "web,Mobile",
@@ -135,6 +143,8 @@ const defaultGamelist: Game[] = [
               "id": 2509,
               "name": "BasketBattle",
               "sub_name": "Basket Battle",
+              "title": "Basket Battle – Free Online Basketball Shooting Game | Jbuid.top",
+              "meta_desc": "Play Basket Battle free online – the ultimate website game with no need for redeem codes, no codes, and no interruptions. Enjoy a seamless, ad-free, and code-free experience in this fast-paced basketball challenge at Jbuid! 🎮🏀",
               "desc_text": "## 🏀 Basket Battle – Free Online Basketball Shooting Game\n\n**Basket Battle** is an exciting 1v1 basketball shooting game where your goal is to outscore your opponent by sinking the ball into the hoop first! Whether you're enjoying a casual match or unlocking exciting features in **Basket Battle Unlocked**, the game offers endless fun with every level.\n\nEnjoy **Basket Battle Free** with **no ads**, **no need for redeem codes**, and **no code** required to access all the action. It's all about fast-paced gameplay, simple tap-to-throw controls, and a smooth, distraction-free experience. You don't need to worry about downloads, APKs, or logins—just jump into the game directly on your browser with **no need for APK**.\n\nPerfect for basketball fans and anyone looking for a quick online challenge, **Basket Battle** is the ideal arcade-style game for both casual and competitive players. Whether you're playing **Basket Battle 1** or battling in **Basket Battles**, the game’s mechanics and difficulty levels will keep you hooked.\n\n ## Controls\n\n**Tap to Throw**: Simply tap the screen or mouse to throw the basketball. Adjust the timing for precision and power! 🖱️\n\n**Swipe to Aim**: Swipe left or right to adjust the throwing angle for perfect shots! 🔄\n\n ## Basket Battle Game's Key Features\n\n- Realistic basketball throwing mechanics 🏀\n- **1v1 battle gameplay** – outsmart and outscore your opponent! 🏆\n- **No download needed** – play instantly in your browser 🌐\n- **No ads** for a smooth gaming experience 🚫\n- Play without the need for **redeem codes** or extra software 🎮\n- **No login required** – just jump in and play! 🚶‍♂️\n- Ideal for sports enthusiasts and fans of online arcade basketball games 🏅\n\n### 🏆 Play **Basket Battle** now – the ultimate **website game** with **no need for redeem codes**, **no codes**, and no interruptions. Enjoy a seamless, ad-free, and code-free experience in this fast-paced basketball challenge!  ",
               "icon": "https://cdn.pokiter.com/html5New/BasketBattle/icon.png",
               "html": "https://cdn.pokiter.com/html5New/BasketBattle/index.html",
@@ -198,9 +208,11 @@ const defaultGamelist: Game[] = [
               "Japanese": null
        },
        {
-              "id": 1,
+              "id": 3,
               "name": "TwistedTangle",
               "sub_name": "Twisted Tangle",
+              "title": "wisted Tangle - Free Rope Untangling Online Puzzle Game | Jbuid.top",
+              "meta_desc": "Play Basket Battle free online – the ultimate website game with no need for redeem codes, no codes, and no interruptions. Enjoy a seamless, ad-free, and code-free experience in this fast-paced basketball challenge at Jbuid! 🎮🏀",
               "icon": "https://imgs.crazygames.com/twisted-tangle-nmt_16x9/20250409111646/twisted-tangle-nmt_16x9-cover?metadata=none&quality=70&width=587.5",
               "html": "https://www.crazygames.com/embed/twisted-tangle-nmt",
               "platform": "web,Mobile",
@@ -243,9 +255,371 @@ const defaultGamelist: Game[] = [
 
        },
        {
+              "id": 1,
+              "name": "BlumgiSlime",
+              "sub_name": "Blumgi Slime",
+              "title": "Blumgi Slime - Free Physics Platformer | Slime Games | Jbuid.top",
+              "meta_desc": "Play Blumgi Slime free online - the vibrant platformer where you control a bouncy slime through creative levels. With elastic movement, puzzle solving, and power-ups, it's one of the best slime games available. Perfect for fans of skill games, arcade games, and difficult games that work on both mobile and web!",
+
+              "icon": "https://cdn.pokiter.com/html5New/blumgi-slime/icon.webp",
+              "html": "https://cdn.pokiter.com/html5New/blumgi-slime/index.html",
+              "platform": "web,Mobile",
+              "category": "Puzzle",
+              "tags": "Skill Game,Arcade Game,2 Player Games,Slime Games,Popular Games,New Games,Mobile Games,Difficult Games,PvP Games,solo Games",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.4",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "26/3/2025 17:50:51",
+              "isfunny": "1",
+              "Japanese": null,
+              "desc_text": "## 🎮 Introduction to Blumgi Slime\n*Blumgi Slime* is a vibrant and engaging platformer that combines strategic thinking 🤔 with dynamic movement 🏃‍♂️. Players control a playful, gelatinous slime, navigating through creatively designed levels filled with obstacles, puzzles, and hidden secrets 🗝️. It’s one of the best *Slime Games* you can play online, and if you're looking for an exciting *Puzzle* experience, *Blumgi Slime* fits perfectly! Whether you're in the mood for *Mobile Games* or *Web* games, this game delivers. With intuitive controls and physics-based mechanics, it’s easy to pick up but hard to put down!\n## 🧪 Core Mechanics\n- **Elastic Movement** 🦘: \n  - Jumping & Sticking: Leap across gaps and cling to walls, ceilings, and platforms\n  - Momentum-Based Physics: Enjoy fluid, slingshot-like jumps and bouncy interactions\n- **Puzzle Solving** 🧩: \n  - Manipulate switches, trampolines, and destructible blocks\n  - Solve timing-based challenges using the slime's adhesive properties\n- **Upgrades & Power-Ups** ⚡: \n  - Unlock double jumps, dash moves and more\n  - Collect temporary boosts like speed and invincibility\n## 🌈 Key Features\n- **Visuals & Animation** 🎨: \n  - Bright, cartoon-style graphics with squishy animations\n  - Dynamic, interactive environments\n- **Sound & Music** 🎵: \n  - Upbeat, adaptive soundtrack\n  - Satisfying sound effects for every action\n- **User Experience** 👆: \n  - Simple tap/hold controls with customization\n  - Clean, distraction-free UI\n- **Replayability** 🔄: \n  - Time trials and hidden challenges\n  - Global leaderboards for competitive play\n## 🏆 Solo Games? Whether you enjoy *PvP Games* or prefer *Solo Games*, *Blumgi Slime* offers an experience that can fit both play styles. Test your skills in this *Difficult Game* and join global leaderboards, or just have fun enjoying the colorful world at your own pace.\n### 🏅 Conclusion\n*Blumgi Slime* is one of the *Popular Games* that blends platforming with puzzle-solving in a colorful, physics-driven world 🌍. With its increasing difficulty and fun mechanics, it offers lasting appeal for players of all skill levels. New players and experienced gamers alike will find enjoyment in this *New Game*. Don't miss out!",
+              "videoUrl": "https://youtu.be/5gJHewM1NP0?si=z1V-9bZ7apA-DKtN",
+              "videoEmbedUrl": "https://www.youtube.com/embed/5gJHewM1NP0?si=z1V-9bZ7apA-DKtN",
+              "videoThumbnail": "https://img.youtube.com/vi/5gJHewM1NP0/maxresdefault.jpg",
+              "FAQS": [
+                     {
+                            "question": "Q: Why should I play Blumgi Slime?",
+                            "answer": "A: There are many great reasons to play Blumgi Slime: - Fun and addictive gameplay with unique slime mechanics. - Local multiplayer mode for playing with friends. - Engaging puzzles and challenges for all ages. - Play for free on Jbuid.top, accessible on both desktop and mobile devices. - No ads or annoying interruptions—just pure fun!"
+                     },
+                     {
+                            "question": "Q: How can I play Blumgi Slime on mobile?",
+                            "answer": "A: Blumgi Slime is fully optimized for mobile play. Simply visit Jbuid.top on your smartphone or tablet, and start playing immediately. The controls are simple and intuitive, perfect for on-the-go gaming!"
+                     },
+                     {
+                            "question": "Q: Can I play Blumgi Slime with my friends?",
+                            "answer": "A: Absolutely! Blumgi Slime supports local multiplayer, so you and your friends can have fun together on the same device. Grab your friends and see who’s the best at solving the slimy challenges!"
+                     },
+                     {
+                            "question": "Q: What makes Blumgi Slime different from other slime games?",
+                            "answer": "A: Blumgi Slime offers a unique blend of fun and strategy with its slime-based mechanics. Unlike other slime games, it features dynamic puzzles, smooth controls, and a local multiplayer option for a more interactive experience. Plus, it’s completely free to play on Jbuid.top!"
+                     },
+                     {
+                            "question": "Q: Is Blumgi Slime available on both desktop and mobile?",
+                            "answer": "A: Yes, Blumgi Slime is available on both desktop and mobile devices, so you can play anywhere, anytime. Whether you’re using a computer, phone, or tablet, you’ll have a seamless experience. Just head to Jbuid.top to start playing!"
+                     },
+                     {
+                            "question": "Conclusion",
+                            "answer": "Blumgi Slime is the perfect game for puzzle lovers and anyone looking for fun, strategic gameplay. Whether you're playing solo or with friends, it’s a great way to pass the time. Visit Jbuid.top and start playing today!"
+                     }
+              ],
+
+              "review": "Blumgi Slime is honestly one of those games you can’t stop playing! The controls are simple, but the level design is really challenging. The jumping and sticking mechanics are super fun, and you need to think a bit to get through some of the puzzles. The difficulty ramps up as you go, so it’s both relaxing and challenging at the same time. Overall, it’s a creative and fun game that’s quickly become one of my favorites!"
+
+       },
+       {
+              "id": 5,
+              "name": "HorseSimulator3D",
+              "sub_name": "Horse Simulator 3D",
+              "title": "Play Horse Simulator 3D Online for Free – Free Horse Riding Simulation Game in 3D",
+              "meta_desc": "Enjoy Horse Simulator 3D online for free! Ride realistic horses across stunning 3D landscapes, complete fun missions, and experience immersive gameplay. No downloads or ads. Play now in your browser and start your adventure!",
+              "icon": "https://imgs.crazygames.com/horse-family-animal-simulator-3d_16x9/20231107025956/horse-family-animal-simulator-3d_16x9-cover?metadata=none&quality=70&width=587.5",
+              "html": "https://www.crazygames.com/embed/horse-family-animal-simulator-3d",
+              "platform": "web,Mobile",
+              "category": "Action",
+              "tags": "Adventure,3D Game,1 Player,Simulation,Survival,Animal,Hunting",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.8",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "29/4/2025 17:50:51",
+              "isfunny": "1",
+              "Japanese": null,
+              "desc_text": "# **Horse Simulator 3D** – Free Online **Horse Simulation Game** at Jbuid.top\n\nWelcome to the thrilling world of **Horse Simulator 3D**, an exciting online **horse simulation game** where you can experience life as a majestic horse! Whether you’re a **horse lover**, an adventure seeker, or a fan of casual **simulation games**, this free online **horse simulator 3D game** lets you live the adventure of riding across vast 3D landscapes, completing fun-filled missions, and enjoying immersive gameplay. Now available for you to play instantly at Jbuid.top!\n\n## 🌟Horse Simulator 3D free game - Game Features\n\n- Play **Horse Simulator 3D unblocked** for free—no downloads, logins, or restrictions! 🐴\n- Enjoy a funny **horse simulator 3D** experience with humorous, light-hearted gameplay and unique horse behaviors. 😄\n- Immerse yourself in a relaxing and enjoyable **riding game** experience—perfect for de-stressing and winding down. 🌅\n- Take on exciting **puzzle game** missions that challenge your skills while keeping you entertained. 🧩\n- **Horse Simulator 3D unblocked games** are available, giving you the freedom to play from any device, anytime! 📱💻\n- Free, fun, and engaging **horse simulation 3D game** with no ads or interruptions. 🚫\n\n## 📖Mobile Friendly -  Step-by-Step Game Guide\n\n### Step 1: Start Your Adventure\nClick the “Play” button at Jbuid.top to instantly begin your **Horse Simulator 3D** journey. No downloads or logins needed—just click and play! 🐎\n\n### Step 2: Select Your Horse\nChoose your favorite **horse breed**, from speedy Arabians to sturdy Draft horses, and start your adventure in the vast open world. Each horse comes with unique abilities and animations, making your **horse racing** and **simulation experience** even more exciting! 🐴\n\n### Step 3: Explore the Open World\nGallop through lush forests, open fields, and explore new locations in a beautifully designed 3D environment. Ride freely and interact with the world, or engage in fun **puzzle game** challenges like treasure hunts and obstacle courses! 🌳\n\n### Step 4: Complete Missions and Challenges\nTake on exciting challenges like racing, treasure hunts, and obstacle courses to earn rewards and level up your horse. Each mission is designed to be fun and engaging, perfect for both quick breaks and long gaming sessions. 🏆\n\n### Step 5: Unlock New Features\nAs you progress, unlock new areas, power-ups, and upgrades for your horse, making your adventure even more exciting and rewarding. 🌟\n\n## 🎮 Simulation games Bonus Features\n\n- **Horse Simulator 3D unblocked**: Play anytime, anywhere, with no restrictions! 🌍\n- Casual relax game experience: Perfect for winding down and enjoying peaceful rides through the 3D world. 🧘‍♂️\n- Funny **Horse Simulator 3D**: Light-hearted and entertaining gameplay with quirky animations! 🤣\n- **Riding game** **Horse Simulator 3D**: Feel like a true horse rider as you gallop through the stunning 3D world. 🐎\n- No login required: Start playing instantly with no registration needed! 🎮\n- Play **Horse Simulator 3D** on mobile and desktop: Smooth gameplay on all devices, anytime, anywhere! 📱💻\n\n## Ready to begin your adventure?\nExplore the world of **Horse Simulator 3D** at Jbuid.top today and experience the fun, relaxing, and adventurous life of a horse in a 3D world! 🌄\n\n### Try other free online **simulation games** at Jbuid.top!\nExplore even more **simulation games** and embark on new exciting adventures right here at Jbuid.top.",
+              "videoUrl": "https://youtu.be/kWStRbwl7PI?si=bZX670QcUvkhbjuU",
+              "videoEmbedUrl": "https://www.youtube.com/embed/kWStRbwl7PI?si=bZX670QcUvkhbjuU",
+              "videoThumbnail": "https://img.youtube.com/vi/kWStRbwl7PI/maxresdefault.jpg",
+              "FAQS": [
+                     {
+                            "question": "Q: What is Horse Simulator 3D?",
+                            "answer": "A: Horse Simulator 3D is an immersive horse riding simulation game where players can ride realistic horses across beautiful 3D landscapes, complete exciting challenges, and explore vast worlds. It's perfect for horse lovers and simulation game enthusiasts."
+                     },
+                     {
+                            "question": "Q: How do I play Horse Simulator 3D?",
+                            "answer": "A: To play Horse Simulator 3D, simply choose your horse, explore the 3D world, and complete missions such as racing through obstacle courses, solving puzzles, and uncovering hidden secrets. You can play directly in your browser with no downloads required."
+                     },
+                     {
+                            "question": "Q: Can I play Horse Simulator 3D on mobile?",
+                            "answer": "A: Yes! Horse Simulator 3D is optimized for both mobile and desktop devices. Enjoy smooth controls and high-quality graphics whether you're on a smartphone, tablet, or computer."
+                     },
+                     {
+                            "question": "Q: What makes Horse Simulator 3D different from other horse simulation games?",
+                            "answer": "A: Horse Simulator 3D stands out with its realistic horse behaviors, fluid movement, and vast 3D landscapes. It offers an authentic horse riding experience with dynamic challenges and multiple horse breeds to choose from."
+                     },
+                     {
+                            "question": "Q: Is Horse Simulator 3D free to play?",
+                            "answer": "A: Yes, Horse Simulator 3D is completely free to play. There's no need for downloads or sign-ins, and you can enjoy the game with no ads or interruptions. Just start playing in your browser!"
+                     },
+                     {
+                            "question": "Conclusion",
+                            "answer": "Horse Simulator 3D offers a thrilling horse riding experience with realistic controls, stunning 3D environments, and endless challenges. It's perfect for horse enthusiasts and simulation fans. Start your adventure now and become the ultimate horse rider!"
+                     }
+              ],
+
+
+              "review": "Blumgi Slime is honestly one of those games you can’t stop playing! The controls are simple, but the level design is really challenging. The jumping and sticking mechanics are super fun, and you need to think a bit to get through some of the puzzles. The difficulty ramps up as you go, so it’s both relaxing and challenging at the same time. Overall, it’s a creative and fun game that’s quickly become one of my favorites!"
+
+       },
+       {
+              "id": 7,
+              "name": "Paperio2",
+              "sub_name": "Paper.io 2",
+              "title": "Play Paper.io 2 Online for Free — Territory Battle Game | Jbuid.top",
+              "meta_desc": "Play Paper.io 2 online for free on JBuid! Conquer territory, outsmart rivals, and expand your colored zone in this fast-paced multiplayer game. No download needed—start drawing and dominating the arena now at Jbuid!",
+              "icon": "https://imgs.crazygames.com/paper-io-2_16x9/20250214024143/paper-io-2_16x9-cover?metadata=none&quality=70&width=587.5",
+              "html": "https://www.crazygames.com/embed/paper-io-2",
+              "platform": "web,Mobile",
+              "category": "Action",
+              "tags": "Casual,3D Game,Battle,Building,Color,Collect,Stickman",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.8",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "29/5/2025 17:50:51",
+              "isfunny": "1",
+              "Japanese": null,
+              "desc_text": "# **Paper.io 2: Dominate the Arena and Paint Your Victory** at Jbuid.top\n\nStep into the fast-paced world of **Paper.io 2**, a thrilling real-time multiplayer game where your goal is to conquer and expand territory by painting the map in your color. Outwit rivals as you navigate the arena, claiming new spaces while defending your own. The challenge? Other players are constantly eyeing your land, and only the smartest strategist will dominate the leaderboard!\n\n# 🌟 How to Play – **Master the Map in Paper.io 2**\n\nIn **Paper.io 2**, you control your character using the mouse, and your objective is to color the map with your hue. Move across empty spaces or areas already claimed by other players, and create a connection back to your own territory to seize control of new areas. The twist? You can eliminate opponents by crashing into their exposed trail, which destroys their progress and grants you their land.\n\nHowever, as you venture out of your territory, your tail becomes vulnerable. If another player collides with it, your entire area could be wiped out in an instant. Stay sharp and think strategically to secure your position!\n\n# 💡 Pro Tips for Mastering Paper.io 2\n\n- **Patience over greed**: Always be cautious when expanding your territory. The longer your tail is exposed, the higher the risk of being taken down by an opponent.\n- **Time your attacks**: Watch for moments when your opponents leave their tails open and go for the kill! Quickly take over their space and claim what’s left.\n- **Expand wisely**: While the urge to paint the map can be strong, always ensure you’re close enough to your original territory to retreat if needed.\n- **Stay near the edges**: Staying along the edges of the map minimizes your vulnerability, allowing you to safely increase your domain while avoiding unnecessary risks.\n\n# 🔥 More Games Like Paper.io 2\nIf you love the competitive, multiplayer action in **Paper.io 2**, check out other fun games in our **.io** section! Popular titles like **Shell Shockers**, **Wormate.io**, and **Gulper.io** await. Dive into more exciting real-time battles and strategy-based gameplay right here at **Jbuid.top**!\n\n# 🎮 Features of **Paper.io 2**\n\n- **Real-time multiplayer action**: Compete in dynamic, fast-paced matches against players around the world.\n- **Custom skins**: Personalize your character’s look to make a unique mark on the battlefield.\n- **Addictive gameplay**: Enjoy endless fun as you battle for supremacy in this thrilling arena-style game.\n\n# 📅 Release Dates\n\n- **iOS**: August 2018\n- **Android**: September 2018\n- **HTML5**: March 2019\n\n# 🏆 Developer\n**Paper.io 2** is developed by **Voodoo**, known for their fun and engaging games.\n\n# 🖥️ Available Platforms\n\n- **Web Browser** (desktop and mobile)\n- **Android**\n- **iOS**\n\n# 🔄 Last Updated\nFebruary 14, 2025\n\n# 🎮 Controls\nUse your mouse to move and drag to control your path.",
+              "videoUrl": "https://youtu.be/M4pG5nroaeU?si=ZBCQPKX57sQYDhaC",
+              "videoEmbedUrl": "https://www.youtube.com/embed/M4pG5nroaeU?si=ZBCQPKX57sQYDhaC",
+              "videoThumbnail": "https://img.youtube.com/vi/ZBCQPKX57sQYDhaC/maxresdefault.jpg",
+              "FAQS": [
+                     {
+                            "question": "Q: How do you play Paper.io 2 online for free?",
+                            "answer": "A: To play Paper.io 2, visit Jbuid.top and click the Play button. Control your character using the mouse or arrow keys to expand your territory by drawing loops and connecting them back to your area."
+                     },
+                     {
+                            "question": "Q: How can I eliminate opponents in Paper.io 2?",
+                            "answer": "A: You can defeat other players by cutting through their trail while they are expanding. Colliding with their exposed tail removes them from the game and allows you to take their territory."
+                     },
+                     {
+                            "question": "Q: Is it possible to conquer 100% of the map in Paper.io 2?",
+                            "answer": "A: Yes, although it is very challenging. To cover the entire map, players must carefully claim every area without leaving vulnerabilities, often starting from the outer edges and working inward."
+                     },
+                     {
+                            "question": "Q: Can I play Paper.io 2 without downloading?",
+                            "answer": "A: Absolutely! Paper.io 2 is a browser-based game that works directly on both desktop and mobile devices at Jbuid.top—no downloads or installations required."
+                     },
+                     {
+                            "question": "Q: What devices support Paper.io 2?",
+                            "answer": "A: Paper.io 2 can be played on web browsers, Android smartphones, and iOS devices, offering a seamless cross-platform experience anytime, anywhere."
+                     }
+              ],
+
+
+              "review": "Paper.io 2 is a fast-paced multiplayer territory game where you capture land by drawing loops with your trail. The simple concept makes it easy to learn, but challenging opponents keep every match exciting. You compete against real players, trying to expand your territory while avoiding being hit on your trail."
+
+       },
+       {
+              "id": 6,
+              "name": "TileJumper3D",
+              "sub_name": "Tile Jumper 3D",
+              "title": "Tile Jumper 3D – Free Rhythm and Reflex Jumping Game | Jbuid.top",
+              "meta_desc": "Play Tile Jumper 3D – the ultimate rhythm-based jumping game that tests your reflexes and timing. Jump across colorful tiles synced with exciting music beats. No download or login required. Enjoy endless fun and challenge your reaction skills in this free online **music rhythm game** at Jbuid.top!",
+              "icon": "https://imgs.crazygames.com/tile-jumper-3d_16x9/20250422031431/tile-jumper-3d_16x9-cover?metadata=none&quality=70&width=485",
+              "html": "https://www.crazygames.com/embed/tile-jumper-3d",
+              "platform": "web,Mobile",
+              "category": "Action",
+              "tags": "Adventure,3D Game,1 Player,Simulation,Survival,Animal,Hunting",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.8",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "29/4/2025 17:50:51",
+              "isfunny": "1",
+              "Japanese": null,
+              "desc_text": "## **Tile Jumper 3D – Free Online Rhythm & Reflex Game** at Jbuid.top\n\nWelcome to the thrilling world of **Tile Jumper 3D**, the **2025 best music game** that combines fast-paced **rhythm-based reflex gameplay** with colorful tiles and energetic **music beats**! Whether you're a fan of **music-based timing games** or you're looking for a fun **reaction-based rhythm game**, this free online **tile jumping game** will challenge your reflexes while keeping you in sync with the music. Play now and experience the ultimate **2025 perfect rhythm game** at **Jbuid.top**!\n\n## 🌟 Game Features – Why Play **Tile Jumper 3D**?\n\n- **Rhythm-based jumping game**: Jump from tile to tile, perfectly timed to the **music beats** 🎶\n- **2025 best music game** that tests your reflexes with fast-paced action ⚡\n- Enjoy an **endless 3D jumping game** where speed and precision matter 🎮\n- Play this **music reaction game** on mobile and desktop with smooth performance 📱💻\n- No downloads or logins needed—just pure fun and music-driven gameplay! 🚀\n- Engaging **tile jumping experience** with challenging speed and rhythmic puzzles 🎵\n\n## 📖 How to Play – **Step-by-Step Guide to Tile Jumper 3D**\n\n### Step 1: Start the Rhythm Game\nClick the “Play” button at **Jbuid.top** to jump into **Tile Jumper 3D**, the **2025 perfect rhythm game** that lets you enjoy the **music-driven gameplay** instantly. No registration required, just click and start!\n\n### Step 2: Focus on the Music and Tiles\nThe key to mastering the game is to match your jumps perfectly to the **music beats**. Each tile has a rhythm, and your jump timing must be in sync with the music to keep progressing.\n\n### Step 3: Increase Your Speed\nAs you continue, the tiles move faster and the music picks up pace, making each jump even more challenging. Can you keep up with the beat? ⚡\n\n### Step 4: Score High with Perfect Timing\nPerfect your jumps to earn higher scores and climb the leaderboard. With each level, the challenge intensifies, offering a fun, engaging experience for all skill levels 🏆.\n\n### Step 5: Enjoy the Visuals and Music\nImmerse yourself in the colorful, dynamic world of **Tile Jumper 3D**, where **music-based jumping** combines with stunning **3D visuals** for an unforgettable gaming experience 🎮.\n\n## 🎮 Bonus Features of **Tile Jumper 3D**\n\n- **2025 best music game**: Rhythm-based jumping with exciting **music beats** and visual effects 🎶\n- **Perfect rhythm game** experience: Match your jumps to the beat and test your reflexes with each level 🌟\n- Play anywhere: **Mobile and desktop** compatibility for the ultimate convenience 📱💻\n- No ads or sign-ins required—just jump and enjoy the music 🎵\n- **Free online game** with seamless performance and fast load times 🚀\n\n## 🎧 Ready to Jump to the Beat?\nExperience the **2025 perfect rhythm game** and become a **Tile Jumper** in this exciting **music-driven jumping game**. Play now at **Jbuid.top** and see if you can master the rhythm!\n\n### Try Other **Music Rhythm Games** at Jbuid.top!\nExplore even more **2025 best music games** and **reaction-based rhythm challenges** right here at **Jbuid.top**!",
+              "videoUrl": "https://youtu.be/2jp4u7Xmqm4?si=UDXfleQItcTwBKSL",
+              "videoEmbedUrl": "https://www.youtube.com/embed/kWStRbwl7PI?si=bZX670QcUvkhbjuU",
+              "videoThumbnail": "https://www.youtube.com/embed/2jp4u7Xmqm4?si=UDXfleQItcTwBKSL",
+              "FAQS": [
+                     {
+                            "question": "Q: How would you describe Tile Jumper 3D?",
+                            "answer": "A: Tile Jumper 3D is a fast-paced rhythm game where players leap across 3D platforms in perfect sync with the music. Time your jumps, hit the beats, and climb the leaderboards in this high-energy musical challenge."
+                     },
+                     {
+                            "question": "Q: What’s the best way to master Tile Jumper 3D?",
+                            "answer": "A: Focus on the rhythm—listen closely to the music and tap in time with the beat. The better your timing, the higher your score. Start slow, then speed up as you get comfortable with the patterns!"
+                     },
+                     {
+                            "question": "Q: Does Tile Jumper 3D work on phones and tablets?",
+                            "answer": "A: Absolutely! The game runs smoothly on mobile and desktop, with touch-friendly controls for phones and keyboard support for PC players. Jump anytime, anywhere!"
+                     },
+                     {
+                            "question": "Q: What sets Tile Jumper 3D apart from other rhythm games?",
+                            "answer": "A: Unlike traditional rhythm games, Tile Jumper 3D combines 3D platforming with music synchronization. The dynamic tile layouts and beat-driven gameplay create a fresh, immersive experience."
+                     },
+                     {
+                            "question": "Q: Is there any cost to play Tile Jumper 3D?",
+                            "answer": "A: Nope—it’s 100% free! No downloads, no ads, no paywalls. Just open your browser and start jumping to the beat."
+                     },
+                     {
+                            "question": "Final Thoughts",
+                            "answer": "Tile Jumper 3D blends rhythm and precision movement into an addictive challenge. Whether you're a music lover or a competitive gamer, this game tests your reflexes and timing. How far can your rhythm take you?"
+                     }
+              ],
+
+
+              "review": "Tile Jumper 3D is a high-energy rhythm game where timing is everything. Hit the beats, nail the jumps, and keep the music flowing. Race against the clock, climb the global leaderboards, and prove your skills."
+
+       },
+       {
+              "id": 8,
+              "name": "ScreamingChicken",
+              "sub_name": "Screaming Chicken",
+              "title": "Play Chicken Scream — Fun Voice Control Screaming Chicken Game | Jbuid.top",
+              "meta_desc": "Play Chicken Scream, the voice controlled jumping game! Enjoy scream chicken online, scream chicken jumpy run, voice challenge mini game & chicken scream simulator at Jbuid!",
+              "icon": "https://imgs.crazygames.com/paper-io-2_16x9/20250214024143/paper-io-2_16x9-cover?metadata=none&quality=70&width=587.5",
+              "html": "https://www.crazygames.com/embed/paper-io-2",
+              "platform": "web,Mobile",
+              "category": "Action",
+              "tags": "Casual,3D Game,Battle,Building,Color,Collect,Stickman",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.8",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "29/5/2025 17:50:51",
+              "isfunny": "1",
+              "Japanese": null,
+              "desc_text": "# **Paper.io 2: Dominate the Arena and Paint Your Victory** at Jbuid.top\n\nStep into the fast-paced world of **Paper.io 2**, a thrilling real-time multiplayer game where your goal is to conquer and expand territory by painting the map in your color. Outwit rivals as you navigate the arena, claiming new spaces while defending your own. The challenge? Other players are constantly eyeing your land, and only the smartest strategist will dominate the leaderboard!\n\n# 🌟 How to Play – **Master the Map in Paper.io 2**\n\nIn **Paper.io 2**, you control your character using the mouse, and your objective is to color the map with your hue. Move across empty spaces or areas already claimed by other players, and create a connection back to your own territory to seize control of new areas. The twist? You can eliminate opponents by crashing into their exposed trail, which destroys their progress and grants you their land.\n\nHowever, as you venture out of your territory, your tail becomes vulnerable. If another player collides with it, your entire area could be wiped out in an instant. Stay sharp and think strategically to secure your position!\n\n# 💡 Pro Tips for Mastering Paper.io 2\n\n- **Patience over greed**: Always be cautious when expanding your territory. The longer your tail is exposed, the higher the risk of being taken down by an opponent.\n- **Time your attacks**: Watch for moments when your opponents leave their tails open and go for the kill! Quickly take over their space and claim what’s left.\n- **Expand wisely**: While the urge to paint the map can be strong, always ensure you’re close enough to your original territory to retreat if needed.\n- **Stay near the edges**: Staying along the edges of the map minimizes your vulnerability, allowing you to safely increase your domain while avoiding unnecessary risks.\n\n# 🔥 More Games Like Paper.io 2\nIf you love the competitive, multiplayer action in **Paper.io 2**, check out other fun games in our **.io** section! Popular titles like **Shell Shockers**, **Wormate.io**, and **Gulper.io** await. Dive into more exciting real-time battles and strategy-based gameplay right here at **Jbuid.top**!\n\n# 🎮 Features of **Paper.io 2**\n\n- **Real-time multiplayer action**: Compete in dynamic, fast-paced matches against players around the world.\n- **Custom skins**: Personalize your character’s look to make a unique mark on the battlefield.\n- **Addictive gameplay**: Enjoy endless fun as you battle for supremacy in this thrilling arena-style game.\n\n# 📅 Release Dates\n\n- **iOS**: August 2018\n- **Android**: September 2018\n- **HTML5**: March 2019\n\n# 🏆 Developer\n**Paper.io 2** is developed by **Voodoo**, known for their fun and engaging games.\n\n# 🖥️ Available Platforms\n\n- **Web Browser** (desktop and mobile)\n- **Android**\n- **iOS**\n\n# 🔄 Last Updated\nFebruary 14, 2025\n\n# 🎮 Controls\nUse your mouse to move and drag to control your path.",
+              "videoUrl": "https://youtu.be/M4pG5nroaeU?si=ZBCQPKX57sQYDhaC",
+              "videoEmbedUrl": "https://www.youtube.com/embed/M4pG5nroaeU?si=ZBCQPKX57sQYDhaC",
+              "videoThumbnail": "https://img.youtube.com/vi/ZBCQPKX57sQYDhaC/maxresdefault.jpg",
+              "FAQS": [
+                     {
+                            "question": "Q: How do you play Paper.io 2 online for free?",
+                            "answer": "A: To play Paper.io 2, visit Jbuid.top and click the Play button. Control your character using the mouse or arrow keys to expand your territory by drawing loops and connecting them back to your area."
+                     },
+                     {
+                            "question": "Q: How can I eliminate opponents in Paper.io 2?",
+                            "answer": "A: You can defeat other players by cutting through their trail while they are expanding. Colliding with their exposed tail removes them from the game and allows you to take their territory."
+                     },
+                     {
+                            "question": "Q: Is it possible to conquer 100% of the map in Paper.io 2?",
+                            "answer": "A: Yes, although it is very challenging. To cover the entire map, players must carefully claim every area without leaving vulnerabilities, often starting from the outer edges and working inward."
+                     },
+                     {
+                            "question": "Q: Can I play Paper.io 2 without downloading?",
+                            "answer": "A: Absolutely! Paper.io 2 is a browser-based game that works directly on both desktop and mobile devices at Jbuid.top—no downloads or installations required."
+                     },
+                     {
+                            "question": "Q: What devices support Paper.io 2?",
+                            "answer": "A: Paper.io 2 can be played on web browsers, Android smartphones, and iOS devices, offering a seamless cross-platform experience anytime, anywhere."
+                     }
+              ],
+
+
+              "review": "Paper.io 2 is a fast-paced multiplayer territory game where you capture land by drawing loops with your trail. The simple concept makes it easy to learn, but challenging opponents keep every match exciting. You compete against real players, trying to expand your territory while avoiding being hit on your trail."
+
+       },
+       {
+              "id": 9,
+              "name": "DoodleRoad",
+              "sub_name": "Doodle Road",
+              "title": "Play Doodle Road Game Online – Best Casual Game of 2025 | Jbuid.top",
+              "meta_desc": "Play Doodle Road, the best casual game Doodle Road 2025, online for free! Enjoy the endless runner game with smooth performance on PC and mobile. Doodle Road unblocked game for school available now. Challenge your reflexes in Doodle Road online multiplayer mode!",
+              "icon": "https://imgs.crazygames.com/doodle-road_16x9/20240912101139/doodle-road_16x9-cover?metadata=none&quality=70&width=587.5",
+              "html": "https://www.crazygames.com/embed/doodle-road",
+              "platform": "web,Mobile",
+              "category": "Action",
+              "tags": "Casual,Car Game,Physics,Drawing,obstacle,Arcade",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.8",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "29/5/2025 17:50:51",
+              "isfunny": "1",
+              "Japanese": null,
+              "desc_text": "## **Play Doodle Road Online – Best Free Endless Runner Game for PC and Mobile**\n\n**Doodle Road** is the **best casual game Doodle Road 2025**, offering fast-paced action and endless fun for players of all ages. Whether you're looking for a **Doodle Road endless runner game** to kill time or a competitive multiplayer experience, **Doodle Road game online** has everything you need. Play on your **PC or mobile** anytime, anywhere, and enjoy the fun of the **Doodle Road game free online** with no sign-ins required.\n\n## 🌟 Why is **Doodle Road** the Best Casual Game of 2025?\n\n- **Endless Runner Gameplay**: Test your reflexes with a dynamic, fast-paced action as you navigate through an unpredictable road.\n- **Cross-Platform Play**: Play **Doodle Road game for PC and mobile** seamlessly on all your devices.\n- **Unblocked Game for School**: **Doodle Road unblocked game for school** lets you play anytime, anywhere, even on school networks.\n- **Multiplayer Fun**: Compete with friends in the **Doodle Road online multiplayer** mode for exciting challenges.\n- **Free to Play**: Enjoy the **Doodle Road game free download** and **Doodle Road game free online** with no sign-ups needed.\n\n## 📖 How to Play **Doodle Road Game**?\n\n1️⃣ **Start the Game**: Click **Play** to jump into the action and start playing **Doodle Road game online** instantly.\n\n2️⃣ **Control Your Doodle**: Use your mouse, arrow keys, or touchscreen to guide your character along the road.\n\n3️⃣ **Avoid Falling**: Keep your balance and avoid falling off the road as it twists and turns faster.\n\n4️⃣ **Collect Stars**: Grab stars and boosts to score higher and gain an advantage.\n\n## 🎮 **Controls**\n\n- **Left mouse button** to draw a line and guide your character.\n- **Restart button** or **R** to restart the game.\n- **Start button** or **Space** to begin the game.\n\n## 🚀 Features of **Doodle Road Game**\n\n- **Free Online Gameplay**: Play **Doodle Road free game online** with no downloads required.\n- **Optimized for All Devices**: Smooth gameplay on **PC and mobile** for the best user experience.\n- **Download Option**: For offline play, try the **Doodle Road game free download**.\n- **Unblocked at School**: Enjoy **Doodle Road unblocked game for school** with no restrictions.\n\n## 🎮 Ready to Take on the Challenge?\nPlay the **best casual game Doodle Road 2025** today! Test your reflexes in the **Doodle Road endless runner game** and aim for high scores. Whether you’re playing solo or competing in **Doodle Road online multiplayer** mode, the excitement never ends. Play now at **Jbuid.top**!",
+              "videoUrl": "https://youtu.be/p98Nm155RhE?si=wfJXxzC7BWqgT7in",
+              "videoEmbedUrl": "https://www.youtube.com/embed/p98Nm155RhE?si=zU3ISeW1nwhL6Pz1",
+              "videoThumbnail": "https://img.youtube.com/vi/wfJXxzC7BWqgT7in/maxresdefault.jpg",
+
+
+              "FAQS": [
+                     {
+                            "question": "Q: How to play Doodle Road game?",
+                            "answer": "A: To play Doodle Road game, simply click the Play button on Jbuid.top and guide your doodle character along the endless road using your mouse or arrow keys. Stay on the road, avoid falling off, collect stars and boosts, and try to travel as far as possible for the highest score. It’s an easy-to-learn casual game that gets more challenging as you progress!"
+                     },
+                     {
+                            "question": "Q: How to play Doodle Road game with engines off?",
+                            "answer": "A: Playing Doodle Road game with engines off means navigating the course without relying on speed boosts. Focus on smooth, careful turns and avoid unnecessary risks. Slower, controlled movement can help you travel further safely. Use minimal acceleration and concentrate on balance to master Doodle Road even without extra speed boosts!"
+                     }
+              ],
+
+
+              "review": "Doodle Road is a simple yet surprisingly addictive casual game that’s perfect for quick gaming sessions.I found the Doodle Road game easy to pick up with its intuitive controls, but challenging enough to keep me coming back.The hand- drawn sketch style makes the visuals charming, and the endless runner gameplay adds a fun layer of reflex - testing action.One of the best parts is that Doodle Road unblocked runs smoothly on both desktop and mobile, so I could play for free anywhere without hassle.As the road twists and speeds up, it takes sharp focus to stay on track, making each attempt feel rewarding.Whether you’re looking for a light game to pass time or something to challenge your high score skills, Doodle Road game online is a solid choice.Overall, it’s a well - balanced casual game that’s easy to enjoy and hard to master.Highly recommended if you like endless runners."
+
+       },
+       {
+              "id": 10,
+              "name": "JetpackJump",
+              "sub_name": "Jetpack Jump",
+              "title": "Play Jetpack Jump Game Online – Free, Unblocked & Best Casual Game 2025 | Jbuid.top",
+              "meta_desc": "Play Jetpack Jump game online for free! Enjoy the best casual game Jetpack Jump 2025 with upgrades, endless jumps & multiplayer. Unblocked for school too.",
+              "icon": "https://imgs.crazygames.com/jetpack-jump_16x9/20240215072853/jetpack-jump_16x9-cover?metadata=none&quality=70&width=587.5",
+              "html": "https://www.crazygames.com/embed/jetpack-jump",
+              "platform": "web,Mobile",
+              "category": "Action",
+              "tags": "Casual,3D Game,Jumping,Skill,Mouse",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.8",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "29/5/2025 17:50:51",
+              "isfunny": "1",
+              "Japanese": null,
+              "desc_text": "# 🕹️ **Play Jetpack Jump Game Online — Best Free Unblocked Casual Jetpack Adventure Game**\n\nIf you’re searching for an exciting, fast-paced **casual jumping game** that’s easy to learn yet highly addictive, **Jetpack Jump game** is the perfect choice. As one of the most **popular game Jetpack Jump** titles in recent years, this **casual game Jetpack Jump** combines the thrill of a **jetpack adventure** with the competitive excitement of a high score challenge. \n\nWith simple one-click controls, vibrant graphics, and endless upgrade opportunities, **Jetpack Jump game online** lets you jump farther, fly higher, and compete for new records. Whether you're on a quick break or want an Olympic-style jumping challenge, **play Jetpack Jump game online** now and enjoy the **Jetpack Jump unblocked game**, no downloads required.\n\n## 🚀 **What is Jetpack Jump? — A Casual Jetpack Game to Test Reflexes**\n\n**Jetpack Jump** is a one-click **jumping game** where players launch a character equipped with a jetpack to soar across long distances. Tap to jump and activate the jetpack, maximizing distance while collecting coins. As a **casual game Jetpack Jump**, it tests both timing and strategy, making it perfect for all ages. \n\nEarn coins to unlock upgrades and improve performance, helping you jump farther and explore new areas in the **Jetpack Jump game online**. Whether you’re after a casual **jetpack adventure** or a challenge to beat your high score, **Jetpack Jump game** has you covered.\n## 🕹️ **How to Play Jetpack Jump Game Online — Controls & Gameplay Guide**\n\nMastering **how to play Jetpack Jump game** is simple:\n\n- **Left mouse button / Tap screen**: Jump.\n- **Click/Tap again mid-air**: Activate jetpack for extra boost.\n\n🛠️ **Tips**:\n- Perfect timing to jump and boost maximizes distance.\n- Collect coins to upgrade your jetpack and improve stats.\n\n## ⚙️ **Upgrades & Strategies — Improve Your Jetpack Jump Game**\n\nUse coins in **Jetpack Jump game online** to upgrade:\n\n- **Jetpack Power**: Fly farther.\n- **Speed**: Gain more momentum.\n- **Bounce**: Jump higher.\n\n✅ **Best strategies for Jetpack Jump**:\n- Priitize jetpack upgrades.\n- Balance speed and bounce early.\n- Replay rounds to earn coins faster.\n\n## ⭐ **Why Play Jetpack Jump Game Online Free at Jbuid.top?**\n\n- **Jetpack Jump unblocked game**: Play anytime at school or work.\n- **No downloads or accounts**: Simply **play Jetpack Jump game online** instantly.\n- **Works on PC & Mobile**: Enjoy **Jetpack Jump mobile game online free**.\n- **Endless Replay**: **Play for free Jetpack Jump** as much as you like.\n\nReady to soar? Experience why **Jetpack Jump** is the **best casual game Jetpack Jump 2025**. **Play Jetpack Jump game online free** at **Jbuid.top** today!",
+              "videoUrl": "https://youtu.be/rlXsA8l1tv0?si=yyJyIE527AyoFnTm",
+              "videoEmbedUrl": "https://www.youtube.com/embed/rlXsA8l1tv0?si=VxoHIrcnO24myMQp",
+              "videoThumbnail": "https://img.youtube.com/vi/rlXsA8l1tv0/maxresdefault.jpg",
+
+              "FAQS": [
+                     {
+                            "question": "Q: Is there an end to Jetpack Jump?",
+                            "answer": "A:Jetpack Jump is a 'beat your own score' game that challenges you to jump as far as possible with just a few clicks. The game has no official ending."
+                     },
+                     {
+                            "question": "Q: Is Jetpack Jump free?",
+                            "answer": "A: Jetpack Jump is free to play online at Jbuid.top!"
+                     }
+              ],
+
+
+              "review": "Jetpack Jump is an exciting, addictive casual jumping game where you control a character with a jetpack. Test your reflexes as you jump farther, collect coins, and upgrade your jetpack. Play for free online!"
+
+       },
+       {
               "id": 2507,
               "name": "supermarket-simulator",
-              "sub_name": "",
+              "sub_name": "Supermarket Simulator",
               "desc_text": "A dynamic retail experience where you juggle cashier duties and store management. Scan items, process payments, and keep customers happy.",
               "icon": "https://cdn.pokiter.com/html5New/supermarket-simulator/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/supermarket-simulator/index.html",
@@ -267,7 +641,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2508,
               "name": "troll-level",
-              "sub_name": "",
+              "sub_name": "Troll Level",
               "desc_text": "Troll Level stands out with its clever traps and trolling mechanics. It's not just about completing the levels but also being ready for the unexpected and ...",
               "icon": "https://cdn.pokiter.com/html5New/troll-level/icon.avif",
               "html": "https://cdn.pokiter.com/html5New/troll-level/index.html",
@@ -289,7 +663,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2491,
               "name": "boxing-stars",
-              "sub_name": "",
+              "sub_name": "Boxing Stars",
               "desc_text": "Begin your journey in the streets as an underdog fighter, and rise to become the ultimate boxing champion. Enter the ring, unleash powerful punches, and dominate thrilling battles. This is your chance to prove yourself as a true hero of the ring and claim the championship belt in this epic real boxing game!",
               "icon": "https://cdn.pokiter.com/html5New/boxing-stars/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/boxing-stars/index.html",
@@ -311,7 +685,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2492,
               "name": "fantasy-tower-defense",
-              "sub_name": "",
+              "sub_name": "Fantasy Tower Defense",
               "desc_text": "Go back to your castle before rushing enemies arrive there and defend it in the final battle! Customize your tactic depending on enemies you encounter.",
               "icon": "https://cdn.pokiter.com/html5New/fantasy-tower-defense/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/fantasy-tower-defense/index.html",
@@ -333,7 +707,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2493,
               "name": "hero-rush-tower-defense",
-              "sub_name": "",
+              "sub_name": "Hero Rush Tower Defense",
               "desc_text": "Hero Rush Tower Defense is a 2D strategy game where your primary mission is to build and upgrade towers in order to defend your land.",
               "icon": "https://cdn.pokiter.com/html5New/hero-rush-tower-defense/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/hero-rush-tower-defense/index.html",
@@ -355,7 +729,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2494,
               "name": "squid-race-simulator",
-              "sub_name": "",
+              "sub_name": "Squid Race Simulator",
               "desc_text": "Squid Race Simulator offers the guarantee of fun in unexpected ways. Its frivolity is shown in the rules that present a past most played games.",
               "icon": "https://cdn.pokiter.com/html5New/squid-race-simulator/icon.png",
               "html": "https://cdn.pokiter.com/html5New/squid-race-simulator/index.html",
@@ -377,7 +751,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2495,
               "name": "stick-guys-defense",
-              "sub_name": "",
+              "sub_name": "Stick Guys Defense",
               "desc_text": "Stick Guys Defense is a strategy game with the goal of upgrading your units and surviving as long as you can.",
               "icon": "https://cdn.pokiter.com/html5New/stick-guys-defense/icon.avif",
               "html": "https://cdn.pokiter.com/html5New/stick-guys-defense/index.html",
@@ -399,7 +773,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2496,
               "name": "monster-survivors",
-              "sub_name": "",
+              "sub_name": "Monster Survivors",
               "desc_text": "\"Monster Survivors: Last Stand\" is a thrilling action-packed game that challenges you to outlive the hordes of terrifying monsters. With its unique blend of strategy and fast-paced combat, this game puts your survival skills to the ultimate test.",
               "icon": "https://cdn.pokiter.com/html5New/monster-survivors/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/monster-survivors/index.html",
@@ -424,12 +798,13 @@ const defaultGamelist: Game[] = [
               "id": 2497,
               "name": "kawaii-shooter-Freezenova",
               "sub_name": "Freezenova Kawaii Shooter",
-              "desc_text": "## 🎯 Freezenova Kawaii Shooter – Free Online Shooting Game\n\n**Kawaii Shooter** is a fun and action-packed shooting game that challenges your aim and reflexes! Your goal is to take down enemies with your kawaii-themed weapons while avoiding obstacles in a colorful, anime-inspired world. Whether you're playing **Freezenova Kawaii Shooter Unblocked** at school, unlocking new features in **Kawaii Shooting Star**, or enjoying the fast-paced action of **Unblocked Shooter** games, **Kawaii Shooter** guarantees hours of thrilling fun.\n\nEnjoy **Kawaii Shooter** with **no ads**, **no login**, and **no need for APK**—just dive into the game right from your browser with **no download required**. The gameplay is simple yet challenging, and the cute characters and environments will keep you coming back for more.\n\nPerfect for fans of **shooter unblocked games** and anyone looking for a quick online gaming challenge, **Kawaii Shooter** combines arcade-style shooting action with adorable visuals. Whether you're playing on your desktop or mobile device, **Kawaii Shooter** is designed for a seamless gaming experience with easy access from your browser.\n\n## \n\n### Controls\n\n**Mouse to Aim**: Move your mouse to aim your weapon at targets. 🖱️\n\n**WASD to Move**: Use **WASD** to navigate your character across the battlefield. 🔫\n\n**Space to Shoot**: Press the spacebar to shoot your weapon at enemies. 💣\n\n## Key Features\n\n- Cute anime-style graphics and characters 🎀\n- **Kawaii-themed shooter gameplay** for fans of **Black Rock Shooter Kawaii** 💖\n- **No download needed** – play instantly in your browser 🌐\n- **No ads** for uninterrupted gameplay 🚫\n- Play without the need for **redeem codes** or extra software 🎮\n- **No login required** – just jump in and play! 🚶‍♀️\n- Ideal for fans of **unblocked shooter games** and **WASD games unblocked** 🔫\n\n🏆 Play **Kawaii Shooter** now – the ultimate **H5 game** with **no need for redeem codes**, **no login**, and no interruptions. Enjoy a seamless, ad-free, and code-free experience in this action-packed, kawaii-inspired shooter challenge! For more games, visit [Freezenova Kawaii Shooter on JBUID](https://jbuid.top/).",
+              "title": "Freezenova Kawaii Shooter – Play No Downloads No Login Online Anime Shooting Game | Jbuid.top",
+              "meta_desc": "Experience the ultimate Freezenova Kawaii Shooter, a fast-paced, mobile-friendly anime shooting game with cute characters and kawaii-themed weapons! Play instantly with no downloads or logins required. Perfect for quick fun during breaks, this free game features action-packed gameplay and challenging missions. Enjoy hours of fun on both mobile and desktop – start playing now!",
               "icon": "https://cdn.pokiter.com/html5New/kawaii-shooter/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/kawaii-shooter/index.html",
               "platform": "web,Mobile",
               "category": "Shooting",
-              "tags": "",
+              "tags": "First Person Shooter,1 Player,3D,Action,Battle,Free,Weapon",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -441,13 +816,21 @@ const defaultGamelist: Game[] = [
               "create_time": "26/3/2025 17:50:50",
               "isfunny": "1",
               "Japanese": null,
+              "desc_text": "# Freezenova Kawaii Shooter – Free Online Shooting Game\n\n Welcome to the thrilling world of **Freezenova Kawaii Shooter**, where you can **play kawaii shooting games instantly** without any downloads or logins! This **free online anime shooting game** is packed with action, cute graphics, and fast-paced gameplay that will keep you entertained for hours. Whether you're on your mobile or desktop, it's the perfect **mobile-friendly anime shooting game** for both casual players and anime game enthusiasts.\n\n## 🌟 Game Highlights\n\n- **Play kawaii shooting games instantly** with no downloads and no ads! 🎯\n- Enjoy fast-paced **anime shooting games** with adorable kawaii-themed weapons. 💖\n- Casual shooting games perfect for quick breaks or long gaming sessions. 🕹️\n- **Mobile-friendly anime shooting games** designed for both phone and desktop users. 📱💻\n- Free, fun, and engaging gameplay that doesn’t require any sign-ins. 🔓\n\n## 📖 Mobile friendly game -  Step-by-Step Game Guide\n\n### Step 1: Dive into the Action\nClick the “Play” button and start **playing kawaii shooting games instantly**. No downloads, no sign-ups—just pure fun.\n\n### Step 2: Choose Your Character\nPick your favorite character from the anime-inspired cast and prepare for battle!\n\n### Step 3: Take Down Enemies\nUse your kawaii weapons to shoot down enemies while dodging obstacles in the colorful world. It’s an action-packed experience! 💥\n\n### Step 4: Collect Power-ups\nAs you progress, collect power-ups and enhance your weapons to tackle tougher challenges.\n\n### Step 5: Master Your Aiming Skills\nThe difficulty increases as you advance, requiring sharp reflexes and aiming skills to keep up with the fast-moving enemies.\n\n### Bonus Features\n- **Free online shooting games no login required**: Start playing instantly! 🎮\n- **Casual shooting games for quick fun**: Perfect for short gaming sessions during breaks. 🍩\n- **Anime shooting games on mobile**: Optimized for smooth gameplay on your mobile device. 📲\n\nReady to join the action and experience one of the best **anime shooting games for mobile**? Start now!",
               "FAQS": [
                      {
-                            "question": "Q: 🎮 How to Play Freezenova Kawaii Shooter Online Game?",
-                            "answer": "A: Here's a quick guide to get you started! 🖱️ Aim and Shoot: Use your mouse or WASD keys to aim and shoot at enemies. 💥 🏃‍♂️ Avoid Obstacles: Dodge incoming projectiles and avoid dangerous traps to stay alive. 💨 ⚡ Collect Power-ups: Collect power-ups and bonuses to increase your damage and speed. 🎯 Defeat Enemies: Eliminate enemies in each level to progress and unlock new challenges!"
+                            "question": "Q: 🎯 Why Play Freezenova Kawaii Shooter?",
+                            "answer": "A: **Freezenova Kawaii Shooter** is the ultimate choice for fans of **kawaii shooting games**. Here’s why you should play:\n\n1. **Play kawaii shooting games instantly** with no downloads, no logins, and no ads!\n2. Enjoy fast-paced, action-packed gameplay in a colorful, anime-inspired world.\n3. Perfect for **casual shooting games for quick fun**, whether you're on mobile or desktop.\n4. Accessible for all players, whether you're looking for **anime shooting games** or something to pass the time.\n\nJump into the action now and experience one of the best **free online shooting games** available!"
+                     },
+                     {
+                            "question": "Q: 🕹️ How to Play Freezenova Kawaii Shooter?",
+                            "answer": "A: Here's a quick guide to get started:\n\n1. **Choose your character**: Select your favorite kawaii character and get ready for battle.\n2. **Use your mouse to aim**: Aim your weapon using the mouse and shoot with the spacebar.\n3. **Dodge and shoot**: Navigate through the colorful world and shoot down enemies while avoiding obstacles.\n4. **Collect power-ups**: Enhance your weapons and abilities as you progress through levels.\n5. **Enjoy the challenge**: The difficulty increases, so be quick and sharp with your aim!\n\nIt's easy to get started but challenging to master, making it perfect for fans of **best anime shooting games for mobile**."
+                     },
+                     {
+                            "question": "Q: ✨ What makes Freezenova Kawaii Shooter different from other shooting games?",
+                            "answer": "A: Unlike other shooting games, **Freezenova Kawaii Shooter** offers the unique ability to **play kawaii shooting games instantly**—no downloads, no sign-ups, and no ads. It's the ideal game for casual players looking for quick and fun gameplay, all while enjoying an anime-inspired world full of cute characters and exciting challenges. Plus, it's **mobile-friendly** and works seamlessly on both mobile and desktop devices!"
                      }
               ],
-
 
               "videoUrl": "https://youtu.be/qUC8WiaYQ_0?si=zbXxNRFE_xXe-GOx",
               "videoEmbedUrl": "https://www.youtube.com/embed/qUC8WiaYQ_0?si=LnUbaAclpURNds5Y",
@@ -455,9 +838,97 @@ const defaultGamelist: Game[] = [
               "review": "Freezenova Kawaii Shooter is a fun and colorful shooting game with a charming, cute art style. Players control a character to shoot and defeat waves of enemies while collecting power-ups. The game gradually increases in difficulty, offering a good balance of challenge and entertainment. With its adorable design and engaging gameplay, it's a great pick for fans of casual shooters and kawaii aesthetics."
        },
        {
+              "id": 4,
+              "name": "Enemy-Strike",
+              "sub_name": "Enemy Strike",
+              "icon": "https://cdn.pokiter.com/html5New/Enemy-Strike/icon.avif",
+              "html": "https://cdn.pokiter.com/html5New/kawaii-shooter/index.html",
+              "platform": "web,Mobile",
+              "category": "Shooting",
+              "tags": "First Person Shooter,1 Player,3D,Action,Battle,Free,Weapon",
+              "type": 1,
+              "is_use": "0",
+              "google_play": true,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.9",
+              "file_size": "",
+              // "screenshots": [],
+              "screenshots": ["https://cdn.pokiter.com/html5New/Enemy-Strike/screenshots1.webp", "https://cdn.pokiter.com/html5New/Enemy-Strike/screenshots2.webp", "https://cdn.pokiter.com/html5New/Enemy-Strike/screenshots3.webp", "https://cdn.pokiter.com/html5New/Enemy-Strike/screenshots4.webp", "https://cdn.pokiter.com/html5New/Enemy-Strike/screenshots5.webp"],
+              "create_time": "26/3/2025 17:50:50",
+              "isfunny": "1",
+              "Japanese": null,
+              "desc_text": "Welcome to the world of **Enemy Strike**, an immersive first-person shooter (**FPS**) game designed for Android and iOS devices. Whether you're looking for the **latest Enemy Strike APK download for free**, tips on how to **unlock unlimited coins** and **gold** with the **Enemy Strike mod APK**, or discovering the **best shooting games like Enemy Strike for Android**, this guide will help you dive right into the action.\n\n## 🌟 **Game Highlights**\n\n- **Enemy Strike APK** provides stunning graphics and intense **combat** that you can experience on-the-go with **Android** and **iOS** devices. 💥\n- **Enemy Strike 2** brings fresh maps, **weapons**, and new challenges for you to explore in the second installment of the series. 🔫\n- With the **Enemy Strike mod APK**, enjoy **unlimited gold** and **coins** to upgrade your gear and weapons instantly. 💰\n- **Enemy Strike 3** features even more advanced **gameplay mechanics**, new enemies, and fresh **game modes** for you to conquer. 🚀\n\n## 📖 **Step-by-Step Game Guide**\n\n### Step 1: **Install Enemy Strike APK**\nTo get started, download the **latest Enemy Strike APK** from trusted sources or the **Google Play Store**. If you're looking for **free FPS games similar to Enemy Strike without download**, there are alternatives available for instant play.\n\n### Step 2: **Choose Your Mission**\nPick a mission from a variety of exciting challenges that test your tactical and combat skills.\n\n### Step 3: **Upgrade Your Weapons**\nCustomize your loadout with the **best weapons** and equipment. As you progress, unlock new **guns**, **armor**, and **special gear**.\n\n### Step 4: **Engage the Enemy**\nTake on enemies in highly detailed environments, using cover, aiming for critical hits, and completing **missions**.\n\n### Step 5: **Earn Rewards**\nEarn valuable rewards after completing missions, including **new weapons**, experience points, and in-game currency. Use **Enemy Strike mod APK** to access **unlimited gold** and **coins** for the best experience.\n\n### **Bonus Features**\n- **Enemy Strike APK download**: Get the latest version of **Enemy Strike APK** from trusted sources or use the **mod APK** to unlock **unlimited resources**.\n- **Enemy Strike 3 tips**: Master the **advanced tactics** and **game mechanics** introduced in **Enemy Strike 3**.\n- If you enjoy **best shooting games like Enemy Strike for Android**, check out other similar games for more FPS action.\n\nReady to take on the challenge? Download **Enemy Strike 2 APK** now for Android mobile devices and begin your journey in the most intense **FPS game** available!",
+              "FAQS": [
+                     {
+                            "question": "Q: 💥 How do I download Enemy Strike APK?",
+                            "answer": "A: You can download the **Enemy Strike APK** directly from the **Google Play Store** or use the **mod APK** to get **unlimited gold** and **coins** for free. The mod APK allows you to access all premium features right away."
+                     },
+                     {
+                            "question": "Q: 🔥 How do I unlock unlimited coins and gold in Enemy Strike?",
+                            "answer": "A: To unlock **unlimited gold** and **coins** in **Enemy Strike**, you can use the **Enemy Strike mod APK**, which provides access to all the resources you need to upgrade your weapons and gear without any restrictions."
+                     },
+                     {
+                            "question": "Q: 📲 Can I play Enemy Strike without downloading?",
+                            "answer": "A: No, to enjoy **Enemy Strike** on your device, you'll need to download the game either from the **Play Store** or use the **Enemy Strike APK** to install it directly. If you're looking for other free **FPS games** without downloads, check out some alternatives that offer instant gameplay."
+                     },
+                     {
+                            "question": "Q: 🕹️ What are the key differences between Enemy Strike 2 and Enemy Strike 3?",
+                            "answer": "A: **Enemy Strike 2** introduces **new maps**, **weapons**, and **missions**, whereas **Enemy Strike 3** takes the action further with more complex **gameplay mechanics**, new **game modes**, and even tougher enemies. Both versions offer **unlimited resources** when using the **mod APK**."
+                     }
+              ],
+
+              "appConfig": [{
+                     platform: "Google Play",
+                     url: "https://play.google.com/store/apps/details?id=com.gamedevltd.modernstrike",
+              }],
+              "videoUrl": "https://youtu.be/azPzyd-2ckg?si=ZTyzi3Vk4l4tQVmd",
+              "videoEmbedUrl": "https://www.youtube.com/embed/azPzyd-2ckg?si=ZTyzi3Vk4l4tQVmd",
+              "videoThumbnail": "https://img.youtube.com/vi/azPzyd-2ckg/maxresdefault.jpg",
+              "review": "Enemy Strike is an action packed game that combines immersive 3D environments with intense FPS gameplay. A brutal alien invasion has destroyed much of Earth's human population. You are defending one of the last remaining cities. Grab your gun and prepare for epic warfare against a relentless enemy with artificial intelligence, snipers, alien gunships, and battle tanks."
+
+       },
+       {
+              "id": 2325,
+              "name": "WaterSortMapleMatchOnline",
+              "sub_name": "Water Sort: maple match online",
+              "desc_text": "## 🎯 Water Sort: Maple Match – Free Online Puzzle Game\n\n**Water Sort Maple Match** is an exciting and brain-teasing **water sort puzzle** that challenges your logic and problem-solving skills! Your goal is to sort colored liquids into separate bottles, ensuring each bottle holds only one color. As you progress through each level, the puzzles become more intricate, requiring clever strategies to complete. Whether you're playing **Water Sort Maple Match online**, unlocking new challenges, or simply enjoying a relaxing **water sort puzzle** experience, this game offers endless fun.\n\nEnjoy **Water Sort Maple Match** with **no ads**, **no login**, and **no download required**—just jump into the game directly from your browser on **jbuid.top**. The gameplay is easy to learn but becomes increasingly difficult as you move through the levels. The smooth and intuitive mechanics will keep you coming back for more!\n\nPerfect for fans of **water sort puzzle games** and anyone looking for a quick online challenge, **Water Sort Maple Match** is ideal for both casual players and puzzle enthusiasts. Whether you're playing on your desktop or mobile device, enjoy a seamless experience with easy access from your browser.\n\n## 🎮 **Controls**\n\n- **Mouse to Move Bottles**: Click and drag to move liquids between bottles.\n- **Touch to Move on Mobile**: Tap and slide on your mobile device to rearrange the bottles.\n\n## ✔️ Key Features\n\n- Relaxing and challenging **water sort puzzle** gameplay 🧠\n- Play **Water Sort Maple Match online** without **no download** 🖥️\n- **No ads** for a smooth, uninterrupted experience 🚫\n- **No login required** – jump in and play! 🚶‍♀️\n- Accessible on **desktop and mobile devices** 🌐\n- Featuring **water color sort** mechanics for an engaging and colorful puzzle-solving experience 🎨\n\n ### 🏆 Start playing **Water Sort Maple Match** now – the ultimate **water sort puzzle** game with **no ads**, **no login**, and **no download** required! Enjoy a seamless and ad-free experience!",
+              "icon": "https://cdn.pokiter.com/html5New/Water Sort/icon.webp",
+              "html": "https://cdn.pokiter.com/html5New/Water Sort/index.html",
+              "platform": "web,Mobile",
+              "category": "Strategy",
+              "tags": "Puzzle,Sorting,Classification,Leisure,Fantasy sport",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.9",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "5/2/2025 09:54:21",
+              "isfunny": "1",
+              "Japanese": "ウォーターソート",
+              "FAQS": [
+                     {
+                            "question": "Q: 🎮 How to Play Water Sort: maple match Online Game?",
+                            "answer": "A: Here's a quick guide to get you started . 💧 Sort Liquids: Drag and drop liquids into the correct containers. Only matching colors can be poured together.🛑 Avoid Mixing Colors: Don’t mix different colors in the same container unless it's empty.🎯 Use Empty Containers: Keep one container empty to help with sorting the liquids easily."
+                     },
+                     {
+                            "question": "Q: 👉 How many levels are there in Water Sort: maple match?",
+                            "answer": "A: There are  more than 40 levels in Water Sort: maple match. Each level has a different set of colors and shapes to sort. The difficulty increases as you progress through the levels."
+                     }
+              ],
+              "videoUrl": "https://youtu.be/RMc2m_fMITk?si=1ztGAfT0IKCCeCxt",
+              "videoEmbedUrl": "https://www.youtube.com/embed/RMc2m_fMITk?si=1ztGAfT0IKCCeCxt",
+              "videoThumbnail": "https://img.youtube.com/vi/RMc2m_fMITk/maxresdefault.jpg",
+              "review": "I like to pass the time with Water Sort: maple match Online Game, especially since it's a puzzle game. When I'm feeling frustrated with my advanced math problems, I always play this game to help calm my mood."
+
+       },
+       {
               "id": 2498,
               "name": "warstrike",
-              "sub_name": "",
+              "sub_name": "Warstrike",
               "desc_text": "WarStrike is a thrilling first-person shooter (FPS) game that allows you to experience the thrill and excitement of battle like never before.",
               "icon": "https://cdn.pokiter.com/html5New/warstrike/icon.avif",
               "html": "https://cdn.pokiter.com/html5New/warstrike/index.html",
@@ -479,7 +950,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2499,
               "name": "stickman-fight-ragdoll-v2",
-              "sub_name": "",
+              "sub_name": "Stickman Fight: Ragdoll V2",
               "desc_text": "Stickman Fight: Ragdoll is a skill game where you need to control a floppy stickman ragdoll in intense battles against both enemies and physics!",
               "icon": "https://cdn.pokiter.com/html5New/stickman-fight-ragdoll-v2/icon.avif",
               "html": "https://cdn.pokiter.com/html5New/stickman-fight-ragdoll-v2/index.html",
@@ -501,7 +972,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2500,
               "name": "love-tester-story",
-              "sub_name": "",
+              "sub_name": "Love Tester Story",
               "desc_text": "The ultimate love compatibility game that combines fun, excitement and a touch of romance. Discover how compatible you are with your crush or partner.",
               "icon": "https://cdn.pokiter.com/html5New/love-tester-story/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/love-tester-story/index.html",
@@ -523,7 +994,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2501,
               "name": "nuts-and-bolts-puzzle",
-              "sub_name": "",
+              "sub_name": "Nuts and Bolts Puzzle",
               "desc_text": "Bolts and Nuts is a simple and fun puzzle game in which you test your logic and strategic thinking by solving unique puzzles.",
               "icon": "https://cdn.pokiter.com/html5New/nuts-and-bolts-puzzle/icon.avif",
               "html": "https://cdn.pokiter.com/html5New/nuts-and-bolts-puzzle/index.html",
@@ -545,7 +1016,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2502,
               "name": "social-media-snake",
-              "sub_name": "",
+              "sub_name": "Social Media Snake",
               "desc_text": "Tap and drag to make the little snake follow you. Point it in the direction of social media icons. The more the snake eats, the longer it gets.",
               "icon": "https://cdn.pokiter.com/html5New/social-media-snake/icon.png",
               "html": "https://cdn.pokiter.com/html5New/social-media-snake/index.html",
@@ -567,7 +1038,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2503,
               "name": "8-ball-pool-billiard",
-              "sub_name": "",
+              "sub_name": "8 Ball Pool Billiard",
               "desc_text": "8 Ball Pool is an addictive challenging game based on real 3D pool games, where you will challenge your friends online.",
               "icon": "https://cdn.pokiter.com/html5New/8-ball-pool-billiard/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/8-ball-pool-billiard/index.html",
@@ -589,7 +1060,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2504,
               "name": "geometry-dash-freezenova",
-              "sub_name": "",
+              "sub_name": "Geometry Dash Freezenova",
               "desc_text": "Challenge your reflexes in Geometry Dash, a rhythm-based action platformer with endless player-created levels! Jump, fly & conquer unique challenges.",
               "icon": "https://cdn.pokiter.com/html5New/geometry-dash-freezenova/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/geometry-dash-freezenova/index.html",
@@ -611,7 +1082,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2490,
               "name": "endless-siege",
-              "sub_name": "",
+              "sub_name": "Endless Siege",
               "desc_text": "Play Endless Siege on GameSnacks, a bite-sized online gaming site you can play on your phone and desktop without installing anything.",
               "icon": "https://cdn.pokiter.com/html5New/endless-siege/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/endless-siege/index.html",
@@ -633,7 +1104,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2489,
               "name": "squad-shooter",
-              "sub_name": "",
+              "sub_name": "Squad Shooter",
               "desc_text": "*Use Squad Shooter | Template + Editor from Watermelon Games* to elevate your next project",
               "icon": "https://cdn.pokiter.com/html5New/squad-shooter/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/squad-shooter/index.html",
@@ -655,7 +1126,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2467,
               "name": "bacon-may-die",
-              "sub_name": "",
+              "sub_name": "Bacon May Die",
               "desc_text": "Bacon May Die is a fast paced 2D fighting and shooting game in which angry pig Bacon must brawl with army of bacon hungry zombie bunnies and kill hordes of monsters, survive boss fights and unlock tons of weapons and outfits!\r\n\r\nFrom the developer of Iron Snout comes an action packed sidescrolling fighting game with responsive thumb combat controls, 100 unlockable outfits and weapons, boss fights, charming cartoon 2D graphics and smooth run and gun game play.",
               "icon": "https://cdn.pokiter.com/html5New/bacon-may-die/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/bacon-may-die/index.html",
@@ -677,7 +1148,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2468,
               "name": "castle-wars-middle-ages",
-              "sub_name": "",
+              "sub_name": "Castle Wars: Middle Ages",
               "desc_text": "Castle Wars: Middle Ages is a 2-player castle-based battle game that sets in the Middle Ages era.",
               "icon": "https://cdn.pokiter.com/html5New/castle-wars-middle-ages/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/castle-wars-middle-ages/index.html",
@@ -699,7 +1170,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2469,
               "name": "raft-wars-2",
-              "sub_name": "",
+              "sub_name": "Raft Wars 2",
               "desc_text": "Try the Raft Wars 2 game to help Simon and his brother destroy the waterpark sitting on their treasure. Use your raft to shoot anyone trying to stop you!",
               "icon": "https://cdn.pokiter.com/html5New/raft-wars-2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/raft-wars-2/index.html",
@@ -721,7 +1192,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2470,
               "name": "2020-game",
-              "sub_name": "",
+              "sub_name": "2020 Game",
               "desc_text": "You can now play 2020 Game .io on GamePix. This particular platformer game follow all the tragic events happened during 2020 year: the wildfires in Australia, the 5G, the fall of stock markets, the pandemy due to COVID-19 virus, USA elections (Trump vs Biden) and many others. A mix of conspiracy and reality follow the story of this simple but addicting game! 2020 Game .io can be played on any device directly inside the browser. The author of the game is MAX GARKAVYY and you can support him by making a donation on the offical website. Enjoy 2020 Game .io!",
               "icon": "https://cdn.pokiter.com/html5New/2020-game/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/2020-game/index.html",
@@ -743,7 +1214,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2471,
               "name": "flip-bottle",
-              "sub_name": "",
+              "sub_name": "Flip Bottle",
               "desc_text": "Flip Bottle is a simple but challenging one-button game. Flip the bottle and make it jump from object to object to reach the final platform.",
               "icon": "https://cdn.pokiter.com/html5New/flip-bottle/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/flip-bottle/index.html",
@@ -765,7 +1236,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2472,
               "name": "flip-master",
-              "sub_name": "",
+              "sub_name": "Flip Master",
               "desc_text": "The ULTIMATE TRAMPOLINE GAME on Mobile!\r\n\r\nMaster the trampoline with Frontflips, Backflips, Gainers, Layouts, Jumps and Bounces on your backyard, gym or circus trampolines and train to be the Master of Trampoline!\r\n\r\nWith a custom physics engine and animated Ragdoll Physics, Flip Master is the most dynamic and entertaining Trampoline experience",
               "icon": "https://cdn.pokiter.com/html5New/flip-master/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/flip-master/index.html",
@@ -787,7 +1258,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2459,
               "name": "ronaldo-kickn-run",
-              "sub_name": "",
+              "sub_name": "Ronaldo Kick'n Run",
               "desc_text": "In these confinement times Cristiano Ronaldo finds himself alone running in the empty streets of Paris! Help him cross obstacles and cover the longest distance possible in the game Ronaldo Kick'n Run. Dodge right, left, jump and slide to avoid the many objects that will be scattered along your route. You can also make a powerful shot with your ball to knock over obstacles and thus clear the way or open new passages. Run as long as possible without stopping to get the highest score.",
               "icon": "https://cdn.pokiter.com/html5New/ronaldo-kickn-run/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/ronaldo-kickn-run/index.html",
@@ -809,7 +1280,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2460,
               "name": "stickman-parkour-2",
-              "sub_name": "",
+              "sub_name": "Stickman Parkour 2",
               "desc_text": "Stickman Parkour 2: Lucky Block is a 2D stickman parkour game where you flip, ledge jump and double jump your way through 80 unique levels!",
               "icon": "https://cdn.pokiter.com/html5New/stickman-parkour-2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/stickman-parkour-2/index.html",
@@ -828,10 +1299,11 @@ const defaultGamelist: Game[] = [
               "isfunny": null,
               "Japanese": null
        },
+
        {
               "id": 2461,
               "name": "city-car-stunt-2",
-              "sub_name": "",
+              "sub_name": "City Car Stunt 2",
               "desc_text": "City Car Stunt saga continues with the 2nd game of the series. Brand new modern city and futuristic super-sports vehicles are waiting for you. Apart from the vehicles in the first game of the series, you can start Stunt shows by using 7 completely unique amazing vehicles that could be customized by the newest skins. We revamped the game physics, now you can control the vehicles on air. You will enjoy the game even more thanks to improved controls.\r\n\r\nThe newly added Nitro feature will provide more power for traps and ramps. You can play the game in both single and 2 Player modes. You will also have the \"Free Driving\" option to perform freestyle shows as in the previous game. Try to complete 6 different routes in the game before time runs out! Each level unlocks a new car and makes you more powerful for upcoming levels!",
               "icon": "https://cdn.pokiter.com/html5New/city-car-stunt-2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/city-car-stunt-2/index.html",
@@ -853,7 +1325,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2462,
               "name": "retro-racing-double-dash",
-              "sub_name": "",
+              "sub_name": "Retro Racing: Double Dash",
               "desc_text": "Retro Racing: Double Dash is an arcade Formula 1 racing game that combines classic 3D pixel art graphics with fast-paced gameplay reminiscent of the golden age of racing games. The game is a project created for the 32bit Spring Cleaning event. Its precise and dynamic gameplay, along with minimalist 3D graphics, may remind older players of the groundbreaking racing game Virtua Racing, released on the Megadrive in 1994. Retro Racing: Double Dash allows you to experience thrilling moments as a driver on 6 technical circuits set in different environments. Discover them through 3 exciting game modes:",
               "icon": "https://cdn.pokiter.com/html5New/retro-racing-double-dash/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/retro-racing-double-dash/index.html",
@@ -875,7 +1347,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2463,
               "name": "madness-sherrifs-compound",
-              "sub_name": "",
+              "sub_name": "Madness: Sherrifs Compound",
               "desc_text": "Madness: Sheriff’s Compound is an electrifying 3D first-person shooter that throws you straight into the heart of relentless action. Packed with intense battles and fast-paced combat, this game challenges your skills as you face off against waves of enemies in a chaotic, unforgiving environment. Whether you're navigating complex terrains or executing precision shots, every moment keeps you on edge.\r\n\r\nIdeal for fans of high-energy shooting games, Madness tests your reflexes, strategy, and accuracy. Immerse yourself in an explosive world where quick thinking and sharp aim are your only chances for survival. Step into the madness, conquer the Sheriff’s Compound, and prove you have what it takes to dominate the battlefield!",
               "icon": "https://cdn.pokiter.com/html5New/madness-sherrifs-compound/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/madness-sherrifs-compound/index.html",
@@ -897,7 +1369,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2464,
               "name": "drift-hunters",
-              "sub_name": "",
+              "sub_name": "Drift Hunters",
               "desc_text": "Drift Hunters is a free-to-play car 3D game that lets you experience the art of drifting with an impressive range of tuned-up cars and dynamic tracks. Choose from a wide selection of customizable rides, fine-tune your engine, and hit the gas as you glide around corners and perfect your drift technique in 10 unique and challenging locations. Get ready to leave your mark on the asphalt, literally!",
               "icon": "https://cdn.pokiter.com/html5New/drift-hunters/icon.png",
               "html": "https://cdn.pokiter.com/html5New/drift-hunters/index.html",
@@ -919,7 +1391,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2465,
               "name": "ping-pong-go",
-              "sub_name": "",
+              "sub_name": "Ping Pong Go",
               "desc_text": "Ping Pong Go is the ultimate table tennis experience that elevates your favorite sport to exhilarating new heights! Get ready to dive into fast-paced matches that will keep your adrenaline pumping across a diverse range of dynamic game modes.\r\n\r\nIn Arcade Mode, sharpen your skills and conquer increasingly challenging levels.",
               "icon": "https://cdn.pokiter.com/html5New/ping-pong-go/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/ping-pong-go/index.html",
@@ -941,7 +1413,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2466,
               "name": "stickman-sports-badminton",
-              "sub_name": "",
+              "sub_name": "Stickman Sports Badminton",
               "desc_text": "Stick Figure Badminton is a sport badminton game where you must get the first 7 points to win the game.",
               "icon": "https://cdn.pokiter.com/html5New/stickman-sports-badminton/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/stickman-sports-badminton/index.html",
@@ -963,7 +1435,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2456,
               "name": "monkey-mart",
-              "sub_name": "",
+              "sub_name": "Monkey Mart",
               "desc_text": "Welcome to Monkey Mart, where you transform from a rookie store manager to a retail tycoon! In this addictive online game, you'll start with a tiny shop and grow it into a bustling supermarket empire.\r\n\r\nGame Highlights (Version 6.3r Update)\r\nNew Features in Version 6.3r\r\nEnhanced Customer AI: Shoppers now have more complex shopping behaviors\r\nDynamic Pricing System: Adjust prices in real-time based on market demand\r\nExpanded Product Categories: Added specialty sections like organic foods and tech gadgets",
               "icon": "https://cdn.pokiter.com/html5New/monkey-mart/icon.png",
               "html": "https://cdn.pokiter.com/html5New/monkey-mart/index.html",
@@ -985,7 +1457,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2457,
               "name": "toca-life-unlimited",
-              "sub_name": "",
+              "sub_name": "Toca Life Unlimited",
               "desc_text": "Step into the limitless world of Toca Life Unlimited, where imagination knows no bounds! This exciting version lets you design your dream life, complete with personalized characters, stunning houses, and endless customization options. From trendy clothes to chic furniture, everything is unlocked and ready for you to create a world that’s truly yours.",
               "icon": "https://cdn.pokiter.com/html5New/toca-life-unlimited/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/toca-life-unlimited/index.html",
@@ -1007,7 +1479,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2458,
               "name": "zombie-derby-pixel-survival",
-              "sub_name": "",
+              "sub_name": "Zombie Derby: Pixel Survival",
               "desc_text": "Get into the driver’s seat and put the pedal to the metal! The next part in the legendary Zombie Derby series is already here!\r\n\r\nSmash your way through hordes of zombies and countless obstacles in a rip-roaring racing arcade. Experience the zombie apocalypse like you’ve never seen it before. Eradicating zombies has never been so colorful, exciting, and engaging before.\r\n\r\n🧟Crush zombies and blow through 🚧obstacles",
               "icon": "https://cdn.pokiter.com/html5New/zombie-derby-pixel-survival/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/zombie-derby-pixel-survival/index.html",
@@ -1029,7 +1501,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2445,
               "name": "polywar-2",
-              "sub_name": "",
+              "sub_name": "Polywar 2",
               "desc_text": "Try to finish all of the missions in this very well made game. There’s a ton of unique and creative weapons. There’s also great 3D graphics awaiting you. Try to blow your opponents up at all cost. For instance, you find yourself in Normandy on D-Day. Start playing and try to defend your territory. A great game where you’ll show your skills. There’s a ton of weapons and numerous friends awaiting you.",
               "icon": "https://cdn.pokiter.com/html5New/polywar-2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/polywar-2/index.html",
@@ -1051,7 +1523,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2446,
               "name": "station-saturn",
-              "sub_name": "",
+              "sub_name": "Station Saturn",
               "desc_text": "A Fast-Paced Endless First Person Shooter where you go from room to room battling evil robots.\r\n\r\nScreenshots are from a standalone Windows version which features enchanced graphics!\r\nPlease comment if you liked the game or have any feedback! \r\n\r\nYou can also download a standalone Windows and Android versions below!",
               "icon": "https://cdn.pokiter.com/html5New/station-saturn/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/station-saturn/index.html",
@@ -1073,7 +1545,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2447,
               "name": "30464",
-              "sub_name": "",
+              "sub_name": "30464",
               "desc_text": "Bejeweled is a popular game series that was first released by EA and PopCap Games in 2001. Originally created for gameplay on computers, the franchise has evolved over the years so that users can enjoy the game on their smartphones as well. As of 2021, the game has over 250,000 reviews averaging 4.4 stars (out of 5) on the Google Play store.\r\n\r\nThis brief article will describe how the game is played and also provide a review for those interested in trying Bejeweled for themselves.",
               "icon": "https://cdn.pokiter.com/html5New/30464/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/30464/index.html",
@@ -1095,7 +1567,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2448,
               "name": "adventure-capitalist",
-              "sub_name": "",
+              "sub_name": "AdVenture Capitalist",
               "desc_text": "Hey there Fancy Pants!\r\n\r\nHave you ever found yourself queuing up for your favourite interactive adventure, only to wish for something to fill the empty space while you’re waiting? Well have WE got a deal for you!\r\n\r\nIntroducing AdVenture Capitalist - the game you play while playing other, better games!\r\n\r\nAdVenture Capitalist is the world’s greatest capitalism simulator. Start with a humble lemonade stand, and squeeze your way to total fiscal domination! Earn ridiculous sums of cash, diversify your investments, and attract smarmy Angel Investors to give your businesses a boost!\r\n\r\nAnd the best part is, AdVenture Capitalist can even play itself! Get your businesses booming, then hire a manager to keep making the dough while you’re gone. Money keeps accumulating while you’re offline, just waiting for you to come back and spend spend spend! IT’s so easy, even a socialist could do it!\r\n\r\nThe Job Creator was within you all along... now show the rest of the world what you're made of! (Hint: it's money!)\r\n\r\nStart your rags to riches adventure - Only in AdVenture Capitalist!",
               "icon": "https://cdn.pokiter.com/html5New/adventure-capitalist/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/adventure-capitalist/index.html",
@@ -1117,7 +1589,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2449,
               "name": "cards-plus-1",
-              "sub_name": "",
+              "sub_name": "Cards +1",
               "desc_text": "Cards +1 is an original puzzle game that will require you to make combinations of similar numbers by at least four in order to make them disappear from the screen and score points. On each turn you can perform 4 actions, each of them can increase the number of a tile by 1. The goal will therefore be to chain combinations without getting stuck. It will be necessary to plan your actions and think carefully in what order to carry them out. What will be your best score?",
               "icon": "https://cdn.pokiter.com/html5New/cards-plus-1/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/cards-plus-1/index.html",
@@ -1139,7 +1611,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2450,
               "name": "jellotetrix",
-              "sub_name": "",
+              "sub_name": "JelloTetrix",
               "desc_text": "JelloTetrix is a game where you must put blocks densely in a row for them to disappear. More rows at once is a way to get higher score, but it will be definitely more tricky due to jello effect.",
               "icon": "https://cdn.pokiter.com/html5New/jellotetrix/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/jellotetrix/index.html",
@@ -1161,7 +1633,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2451,
               "name": "tomb-run",
-              "sub_name": "",
+              "sub_name": "Tomb Run",
               "desc_text": "Tomb Run (Tomb of the Mask) is the free browser version of Tomb of the Mask, an extremely popular arcade game for iOS and Android. Dash your way through a series of maze-like levels, collect dots and see if you can make it to the end.",
               "icon": "https://cdn.pokiter.com/html5New/tomb-run/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/tomb-run/index.html",
@@ -1183,7 +1655,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2452,
               "name": "train-snake",
-              "sub_name": "",
+              "sub_name": "Train Snake",
               "desc_text": "In Train Snake, you need to pick-up passengers and deliver them safely to their destinations without hitting any obstacle.",
               "icon": "https://cdn.pokiter.com/html5New/train-snake/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/train-snake/index.html",
@@ -1205,7 +1677,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2453,
               "name": "euro-soccer-forever",
-              "sub_name": "",
+              "sub_name": "Euro Soccer Forever",
               "desc_text": "Euro Soccer Forever is an engaging online soccer game that allows players to showcase their football skills in a fun and competitive environment. Released in 2016 by Miniclip, but no longer available, the game invites players to take on the role of a soccer player aiming to score as many goals as possible against a challenging goalkeeper. Utilizing simple mouse controls, players can aim and kick the ball with precision, attempting to outsmart the goalie and find the back of the net. The game emphasizes skill enhancement, encouraging players to improve their shooting techniques and speed to achieve higher scores. With its straightforward mechanics and addictive gameplay, Euro Soccer Forever provides an entertaining experience for soccer enthusiasts and casual gamers alike, making it an enjoyable way to celebrate the excitement of European football championships. Whether playing solo or competing for high scores, players can immerse themselves in the thrill of scoring goals and mastering their soccer skills.\r\n\r\nJust have a fun time!",
               "icon": "https://cdn.pokiter.com/html5New/euro-soccer-forever/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/euro-soccer-forever/index.html",
@@ -1227,7 +1699,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2454,
               "name": "kity-builder",
-              "sub_name": "",
+              "sub_name": "Kity Builder",
               "desc_text": "Decorate islands and build cute cat cities\r\nCreate beautiful settlements and watch the kitizens living and playing in them.\r\n\r\nHelp your neighbors and make them happy\r\nA happy city needs a lot of work! Luckily, you have help from several cat friends, like a scientist, a mermaid or... A ghost?!\r\n\r\nThe mayor, Mewyor, is very demanding, but Kity is more than capable!\r\n\r\nEvery building is a toy\r\nEvery blueprint you find is a new building type you can build. You'll have to try them and find out how to get utility (or fun!) out of them.  \r\n\r\nNo limits. No pressure.\r\nYou can build and remove anything as many times as you want. There's no wrong way to play and you can't lose. Go at your own pace and enjoy your time around!",
               "icon": "https://cdn.pokiter.com/html5New/kity-builder/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/kity-builder/index.html",
@@ -1249,7 +1721,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2455,
               "name": "level-devil-v2",
-              "sub_name": "",
+              "sub_name": "Level Devil V2",
               "desc_text": "Level Devil 2 is a platformer game where players must run, jump, and overcome unexpected challenges to reach the exit and complete levels. The game features different challenging levels with increasing difficulty. Take your character through the levels to reach the exit door!\r\n\r\nWhat is Level Devil?\r\nLevel Devil is an attractive platformer game released by Unept Studios in 2023. Since its launch, the game has quickly attracted many players. The goal is very simple: you control the character to reach the door at each level. However, you will not know in advance what challenges you will face. From deep holes and sharp spikes to suddenly collapsing ceilings, all prevent you from reaching the door in the levels.",
               "icon": "https://cdn.pokiter.com/html5New/level-devil-v2/icon.png",
               "html": "https://cdn.pokiter.com/html5New/level-devil-v2/index.html",
@@ -1271,7 +1743,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2440,
               "name": "bonefields",
-              "sub_name": "",
+              "sub_name": "Bonefields",
               "desc_text": "Ancient Grudges: Bonefields is a skirmish game set in the blasted realm\r\nof Grimgard where two ancient forces have been fighting an unending\r\nwar for longer than any can remember. So long, in fact, that there are\r\nbarely any left alive on either side. Spurred to dark magic to continue\r\ntheir ancestral grudgematch, necromancers from both sides now\r\nwander the sundered realm accompanied by entourages of undead\r\nwarriors, each hoping to find some lost magical artefact or source of\r\npower that might return them to their former glory…",
               "icon": "https://cdn.pokiter.com/html5New/bonefields/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/bonefields/index.html",
@@ -1293,7 +1765,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2441,
               "name": "tanuki-sunset",
-              "sub_name": "",
+              "sub_name": "Tanuki Sunset",
               "desc_text": "Tanuki Sunset is a downhill skateboarding game with a raccoon protagonist called Tanuki. Master the corners and do skateboard tricks to earn points. Enjoy an excellent soundtrack and colorful visuals as you control the coolest raccoon down winding roads into the sunset.",
               "icon": "https://cdn.pokiter.com/html5New/tanuki-sunset/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/tanuki-sunset/index.html",
@@ -1315,7 +1787,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2442,
               "name": "heartlake-rush",
-              "sub_name": "",
+              "sub_name": "Heartlake Rush",
               "desc_text": "LEGO® Friends Heartlake Rush invites kids to join a group of best friends in their missions around Heartlake City. Race around town and play as any of the Friends - from Stephanie, Ethan, Mia, Olivia, Andrea, Emma and Liam, to Daniel in a hot dog costume! See how each character’s unique personality can spark creativity and imagination. Expression is essential! Transform characters’ vehicles with a huge library of special items. Hunt for special collectibles as you drive, fly, jump, duck and dodge your way around the city.\r\n\r\n-DRIVE through LEGO® Heartlake City as your favorite LEGO® Friends character!",
               "icon": "https://cdn.pokiter.com/html5New/heartlake-rush/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/heartlake-rush/index.html",
@@ -1337,7 +1809,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2443,
               "name": "irrational-karate",
-              "sub_name": "",
+              "sub_name": "Irrational Karate",
               "desc_text": "The annual Karate tournament has started! Show your fighting skills and defeat all your opponents to win the Karate trophy.",
               "icon": "https://cdn.pokiter.com/html5New/irrational-karate/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/irrational-karate/index.html",
@@ -1359,7 +1831,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2444,
               "name": "bank-robbery-2",
-              "sub_name": "",
+              "sub_name": "Bank Robbery 2",
               "desc_text": "Bank Robbery 2 is an FPS game where you must rob the bank with your partner. Remember that every new robbery is a new challenge. Take your ammunition, assemble your team, and lead the assault on the bank. Break into the vaults, take all the jewels, and defend yourself from the security guards. Make your robbery truly epic!\r\n",
               "icon": "https://cdn.pokiter.com/html5New/bank-robbery-2/icon.png",
               "html": "https://cdn.pokiter.com/html5New/bank-robbery-2/index.html",
@@ -1381,7 +1853,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2431,
               "name": "extreme-thumb-war",
-              "sub_name": "",
+              "sub_name": "Extreme Thumb War",
               "desc_text": "Take part in ruthless thumb battles and try to knock out your opponent in the game Extreme Thumb War. Alone against the AI or facing a friend by playing both on the same device, the objective will be to try to catch or hit your opponent's thumb when it's lowered to inflict damage. To win a round you need to fully empty the life bar of the opposing thumb. If you succeed in trapping your opponent's thumb he will loose more life, but beware of the counter-attack which can be dangerous! Each game is played in three winning rounds. You can choose the look of your thumb from the 20 characters available.",
               "icon": "https://cdn.pokiter.com/html5New/extreme-thumb-war/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/extreme-thumb-war/index.html",
@@ -1403,7 +1875,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2432,
               "name": "getaway-shootout",
-              "sub_name": "",
+              "sub_name": "Getaway Shootout",
               "desc_text": "Be the first to join the exit in crazy and completely chaotic races with the platform game Getaway Shootout. Compete against the AI or a friend by playing two on the same computer and use all ways to pass ahead your opponents. Collect bonuses and weapons that will help beat your opponent, and be agile enough to master the physics of the game and thus accurately control your movements. Getaway Shootout offers a multitude of original levels and dozens of characters to unlock as you progress.",
               "icon": "https://cdn.pokiter.com/html5New/getaway-shootout/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/getaway-shootout/index.html",
@@ -1425,7 +1897,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2433,
               "name": "stickman-rope",
-              "sub_name": "",
+              "sub_name": "Stickman Rope",
               "desc_text": "Swing at the end of your rope like Spider-man and try to cross the obstacles of each level without falling in Stickman Rope. The game offers dozens of levels and challenges requiring reflex, agility and dexterity with your mouse. Will you be able to cross all levels in just one time? Use your speed, bumpers and other elements to reach the finish line as quickly as possible. Will you be able to finish all the levels?\r\n\r\n",
               "icon": "https://cdn.pokiter.com/html5New/stickman-rope/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/stickman-rope/index.html",
@@ -1447,7 +1919,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2434,
               "name": "stick-fighter",
-              "sub_name": "",
+              "sub_name": "Stick Fighter",
               "desc_text": "In the skilled fighting game Stick Fight 2 you will have to hit and knock the enemiest that will surge over you. Simple but addictive, the game requires coordination at all times to achieve your targets and hit them with the perfect timing. If you have the misfortune to miss a shot, your character will be blocked briefly, but enough to make you overwhelmed by your enemies. How many will you defeat? You can buy other weapons and hats that will improve your skills.",
               "icon": "https://cdn.pokiter.com/html5New/stick-fighter/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/stick-fighter/index.html",
@@ -1469,7 +1941,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2435,
               "name": "drunken-duel",
-              "sub_name": "",
+              "sub_name": "Drunken Duel",
               "desc_text": "After a festive evening, the Stickman decided to face off in a pistol duel! Take control of one of them in the game Drunken Duel and try to shoot your opponent to make him lose energy. The first player who succeeds in bringing the other's energy bar to zero wins a round. A match is played in 5 winning rounds. Use the physics of the game to aim your opponent, an headshot will make him lose all its energy. Drunken Duel offers two game modes, solo against the AI or a two players mode wich allow to play against a friend on the same device.",
               "icon": "https://cdn.pokiter.com/html5New/drunken-duel/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/drunken-duel/index.html",
@@ -1491,7 +1963,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2436,
               "name": "stick-merge",
-              "sub_name": "",
+              "sub_name": "Stick Merge",
               "desc_text": "The Stick Merge Game offers a plethora of exciting features, making it a highly enjoyable experience. It boasts excellent graphics and can be played offline, providing accessibility anytime, anywhere. With various levels to conquer, players can progressively challenge themselves.\r\n\r\nPlaying the game is straightforward: simply click the play button, choose a level, and dive into the action. Players assemble teams, engage rival teams using a range of weapons, and strive to complete each level. Overall, the game promises an engaging and",
               "icon": "https://cdn.pokiter.com/html5New/stick-merge/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/stick-merge/index.html",
@@ -1513,7 +1985,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2437,
               "name": "geometry-vibes-v11",
-              "sub_name": "",
+              "sub_name": "Geometry Vibes V11",
               "desc_text": "Geometry Vibes is an arcade and skill game where you must precisely control an arrow to guide it through levels filled with obstacles and traps. The goal is to reach the end of each level while keeping the arrow on the path without ever hitting an obstacle. The gameplay is easy to pick up but hard to master, and the catchy or relaxing music will gently accompany you to help you complete each challenge.\r\nThere are several different game modes:\r\n\r\nClassic Mode: 10 levels with increasing difficulty. The first levels will be easy and will allow you to learn the basic mechanics of the game, then the difficulty will gradually increase to offer more and more complex challenges that will require a lot of skill and mastery.\r\n\r\nEndless Mode: Test your concentration and skill by trying to cover the longest distance possible without hitting obstacles or traps.\r\n\r\nRace Mode (2 players and more): Challenge your friends in the classic levels by racing. This mode can be played with up to 4 players on the same device for fun and intense moments! Be the first player to reach the finish line to claim victory.",
               "icon": "https://cdn.pokiter.com/html5New/geometry-vibes-v11/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/geometry-vibes-v11/index.html",
@@ -1535,7 +2007,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2438,
               "name": "regular-show-fist-punch-2",
-              "sub_name": "",
+              "sub_name": "Regular Show: Fist Punch 2",
               "desc_text": "Ribgy and Mordecai, the two heroes of the Regular Show will still have to show all their talents to carry out a new mission of the utmost importance. In the fighting / beat'em up game Fist Punch 2 you will battle against Punks, Evil Unicorns, Demonic destroyers and many other dangerous creatures. Hit with your fists and foots, take and use the weapons of your enemies and perform devastating special attacks to beat the toughest enemies and the many bosses of the game. No less than 30 places can be visited in a long and rich adventure !",
               "icon": "https://cdn.pokiter.com/html5New/regular-show-fist-punch-2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/regular-show-fist-punch-2/index.html",
@@ -1557,7 +2029,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2439,
               "name": "tag234",
-              "sub_name": "",
+              "sub_name": "Tag 2 3 4 Players",
               "desc_text": "Tag 2 3 4 Players is a fun multiplayer game of tag and chase that you can play with up to four friends on the same device! If you are the chaser, set off to catch the other players. If you are being chased, run as fast as you can to escape. When you chase and you cross paths with another player, small clouds will appear and he will become the chaser in turn, with a small white arrow above their head. Matches last 90 seconds, and the player who is the chaser at the end of the time loses. Explore and play in three different environments, one level in the forest, one in the snow, and one in the desert. In each stage, players can interact with various objects such as trampolines, teleporters, or buffs that will give you an advantage. Each match will always be different and will offer moments that are both funny and intense. Implement unexpected strategies to surprise your opponents and show cunning and cleverness to catch or dodge the other competitors",
               "icon": "https://cdn.pokiter.com/html5New/tag234/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/tag234/index.html",
@@ -1579,7 +2051,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2421,
               "name": "funny-shooter-bro",
-              "sub_name": "",
+              "sub_name": "Funny Shooter Bro",
               "desc_text": "Funny Shooter Bro is a shooting game that stands out for its quirky humor and colorful graphic style. Players take on the roles of wacky characters and will engage in frantic battles against various enemies (the Redmen) in fun and dynamic cartoon environments. The gameplay focuses on simple yet addictive shooting mechanics, where players must eliminate waves of enemies while avoiding their attacks. The levels are often filled with obstacles and power-ups that add a strategic dimension to the game. Be careful not to get overwhelmed or surrounded by the Redmen, and keep an eye on your health bar to avoid taking risks and stay alive. You will have access to different weapons and skills, allowing you to customize your playstyle according to your preferences. In the shop, you can acquire more powerful weapons and also upgrade your character's abilities. Funny Shooter Bro offers around ten missions to complete, culminating in a showdown against a powerful and formidable boss.",
               "icon": "https://cdn.pokiter.com/html5New/funny-shooter-bro/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/funny-shooter-bro/index.html",
@@ -1601,7 +2073,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2420,
               "name": "crossy-road",
-              "sub_name": "",
+              "sub_name": "Crossy Road",
               "desc_text": "Crossy Road—The 8-bit endless arcade hopper that started it all. Collect custom characters and navigate freeways, railroads, rivers and much more.",
               "icon": "https://cdn.pokiter.com/html5New/crossy-road/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/crossy-road/index.html",
@@ -1623,7 +2095,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2419,
               "name": "eat-blobs-simulator-v01s",
-              "sub_name": "",
+              "sub_name": "Eat Blobs Simulator V01s",
               "desc_text": "The battle of the blobs and slimes is beginning in this great eating simulator. Pick your slime character and start competing against others. Eat smaller blobs and slimes, and make yours bigger than the others. Become the king of the blob arena!\r\nType your nickname and join the blob eating arena with your slime. Buy various blob skins during the game. On each game, receive various rewards with the blob sizes and coins. Chase smaller blobs and eat them. Collect blobs around and increase your score. Become the king of the blob arena!",
               "icon": "https://cdn.pokiter.com/html5New/eat-blobs-simulator-v01s/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/eat-blobs-simulator-v01s/index.html",
@@ -1645,7 +2117,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2417,
               "name": "Bubble Shooter Candy",
-              "sub_name": "",
+              "sub_name": "Bubble Shooter Candy",
               "desc_text": "Bubble Shooter Candy is an incredible arcade game in which the objective is to eliminate the board by matching bubbles of the same color and then shooting those bubbles.",
               "icon": "https://cdn.pokiter.com/html5New/Bubble Shooter Candy/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/Bubble Shooter Candy/index.html",
@@ -1667,7 +2139,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2413,
               "name": "GooberDash",
-              "sub_name": "",
+              "sub_name": "Goober Dash",
               "desc_text": "Goober Dash is inspired by Geometry Dash and adheres to the same principles. All you have to do to win this game is dash your opponents and collect money to unlock fun and unique outfits. You also climb the seasonal leaderboards, both internationally and in your own country, with the highest score. Try to cross the finish line without a single scratch right now!",
               "icon": "https://cdn.pokiter.com/html5New/GooberDash/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/GooberDash/index.html",
@@ -1689,7 +2161,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2412,
               "name": "cubinko",
-              "sub_name": "",
+              "sub_name": "Cubinko",
               "desc_text": "Cubinko is a new easy and addicting puzzle game with cubes in which players must clear all cubes on the board and get the best score.",
               "icon": "https://cdn.pokiter.com/html5New/cubinko/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/cubinko/index.html",
@@ -1711,7 +2183,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2408,
               "name": "rvvASMiM",
-              "sub_name": "",
+              "sub_name": "rvvASMiM",
               "desc_text": "The rules are simple: you must control a triangular character on the platform while avoiding collisions with blocks, walls, pillars, and spikes. This is auto-down, so you can make it up with your mouse. If your character touches any obstacles, you will lose the game and have to start over.",
               "icon": "https://cdn.pokiter.com/html5New/rvvASMiM/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/rvvASMiM/index.html",
@@ -1733,7 +2205,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2407,
               "name": "suikagame1724",
-              "sub_name": "",
+              "sub_name": "Suika Game",
               "desc_text": "Suika Game: Watermelon is an online puzzle game that we hand picked for Lagged.com. This is one of our favorite mobile puzzle games that we have to play. Simply click the big play button to start having fun. If you want more titles like this, then check out Perfect Cream or Thief Puzzle.",
               "icon": "https://cdn.pokiter.com/html5New/suikagame1724/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/suikagame1724/index.html",
@@ -1755,7 +2227,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2397,
               "name": "jacko-gunn",
-              "sub_name": "",
+              "sub_name": "Jacko Gunn",
               "desc_text": "Run and gun your way through an apocalyptic wasteland in this spooky action game! Avoid skeletons at all costs or it's game over! Destroy each level's quota to complete the level. Upgrade your gun's firepower and use turrets to your advantage to fight against the onslaught of the undead!",
               "icon": "https://cdn.pokiter.com/html5New/jacko-gunn/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/jacko-gunn/index.html",
@@ -1777,7 +2249,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2398,
               "name": "mobio5",
-              "sub_name": "",
+              "sub_name": "Mobio 5",
               "desc_text": "Step onto the battlefield and fight for your life in this insane action game! Move around and use cover to your advantage while you shoot enemies and build up your strength by upgrading your turret. Strategy is essential so be sure to construct a plan before heading into battle!",
               "icon": "https://cdn.pokiter.com/html5New/mobio5/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/mobio5/index.html",
@@ -1799,7 +2271,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2399,
               "name": "robot-butcher",
-              "sub_name": "",
+              "sub_name": "Robot Butcher",
               "desc_text": "A human outpost was attacked by an army of robots out of control, but it's not over yet! The human resistance has an ultimate weapon to counteract the advance of the crazy robots: the Robo-butcher, a robot made with the sole purpose of protecting humans from other robots.",
               "icon": "https://cdn.pokiter.com/html5New/robot-butcher/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/robot-butcher/index.html",
@@ -1821,7 +2293,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2400,
               "name": "shootloot",
-              "sub_name": "",
+              "sub_name": "Shootloot",
               "desc_text": "Warp your way through hyperspace in this addicting shooter! Journey through the galaxy taking down foes every chance you get! Defeat all enemies to conquer a planet or body of mass. Earn upgrades to turn your space ship into a state-of-the-art killing machine! See what adventure lies in wait!",
               "icon": "https://cdn.pokiter.com/html5New/shootloot/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/shootloot/index.html",
@@ -1843,7 +2315,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2401,
               "name": "alex-and-steve-nether",
-              "sub_name": "",
+              "sub_name": "Alex and Steve Nether",
               "desc_text": "In the 2nd adventure of the beloved couple alex and steven, the portal door suddenly opens to the nether map, which is covered with dangers full of red. You have to help them survive. alex needs you steve , stevin needs you alex you two should go back to your world together. You have to go back to your own world. be careful everywhere is full of tnt.",
               "icon": "https://cdn.pokiter.com/html5New/alex-and-steve-nether/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/alex-and-steve-nether/index.html",
@@ -1865,7 +2337,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2402,
               "name": "puppets-cemetery",
-              "sub_name": "",
+              "sub_name": "Puppets Cemetery",
               "desc_text": "In Puppets Cemetery you are an armed human-pumpkin trapped in a cemetery full of zombie puppets. Try to survive as long as you can, pick up new weapons, avoid the enemy attacks and collect money. Try to collect as much skin as you can in this challenging game!",
               "icon": "https://cdn.pokiter.com/html5New/puppets-cemetery/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/puppets-cemetery/index.html",
@@ -1887,7 +2359,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2403,
               "name": "santa-chase",
-              "sub_name": "",
+              "sub_name": "Santa Chase",
               "desc_text": "Take a wild ride this holiday season in this insane action game! Ride around in a sleigh as Santa Claus collecting presents, knocking over traffic cones and avoiding police cars, light poles and other hazards. Avoid running into your trail of presents, that will end your run as well!",
               "icon": "https://cdn.pokiter.com/html5New/santa-chase/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/santa-chase/index.html",
@@ -1909,7 +2381,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2405,
               "name": "mahjong-deluxe",
-              "sub_name": "",
+              "sub_name": "Mahjong Deluxe",
               "desc_text": "Mahjong Deluxe is an online puzzle game that we hand picked for Lagged.com. This is one of our favorite mobile puzzle games that we have to play. Simply click the big play button to start having fun. If you want more titles like this, then check out St Patricks Mahjong or Dominos Pirates.",
               "icon": "https://cdn.pokiter.com/html5New/mahjong-deluxe/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/mahjong-deluxe/index.html",
@@ -1931,7 +2403,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2406,
               "name": "save-the-doge2",
-              "sub_name": "",
+              "sub_name": "Save the Doge 2",
               "desc_text": "Save the Doge 2 is an online puzzle game that we hand picked for Lagged.com. This is one of our favorite mobile puzzle games that we have to play. Simply click the big play button to start having fun. If you want more titles like this, then check out Joystick Creator Studio or Drawmaster. Developed by Dongqi Gong.",
               "icon": "https://cdn.pokiter.com/html5New/save-the-doge2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/save-the-doge2/index.html",
@@ -1975,7 +2447,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2388,
               "name": "jet-boi3",
-              "sub_name": "",
+              "sub_name": "Jet Boi 3",
               "desc_text": "An action packed rooftop style battle game where your goal is to gun your opponent off of the roof. Jump and shoot as you try to score more points than your opponent before the timer expires. Watch your jet fuel as you fly around, collect new weapons and keep shooting as you try to win the match. Play single player or two player mode in this crazy online game.",
               "icon": "https://cdn.pokiter.com/html5New/jet-boi3/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/jet-boi3/index.html",
@@ -1997,7 +2469,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2390,
               "name": "mike-amp-munk",
-              "sub_name": "",
+              "sub_name": "Mike & Munk",
               "desc_text": "You will have the chance to control 2 unique characters; a boy of superhuman intelligence (Mike) and an agile and resourceful squirrel (Munk); Together they will be completely unstoppable! Solve unique puzzles, activate switches, open hidden hatches and overcome dangerous deadly traps through 30 levels of the most disturbing gameplay. Are you ready to have a good time?",
               "icon": "https://cdn.pokiter.com/html5New/mike-amp-munk/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/mike-amp-munk/index.html",
@@ -2019,7 +2491,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2391,
               "name": "metal-guns-fury--beat-em-up",
-              "sub_name": "",
+              "sub_name": "Metal Guns Fury: Beat Em Up",
               "desc_text": "Get your metal guns ready and engage in the best shooting and action arcade game. It's time to call your soldiers to do their duty, as an army of renegade slugs has invaded an island and took control of it. Play with 4 brave soldiers, an epic squad of glorious commandos, heroes of previous war conflicts, choose your weapons, your vehicules (tanks, mechas...) and attack the ennemy in destructing battles.",
               "icon": "https://cdn.pokiter.com/html5New/metal-guns-fury--beat-em-up/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/metal-guns-fury--beat-em-up/index.html",
@@ -2041,7 +2513,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2392,
               "name": "noobhood",
-              "sub_name": "",
+              "sub_name": "Noobhood",
               "desc_text": "The whole world is covered with zombies and zombies have evolved into very different creatures. Stretch your bow and shoot arrow to kill them all. Kill them all. Each level is full of different challenges so you have to be careful. 20 different chapters and each chapter is full of more challenging excitements.",
               "icon": "https://cdn.pokiter.com/html5New/noobhood/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/noobhood/index.html",
@@ -2063,7 +2535,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2393,
               "name": "skibidi-online",
-              "sub_name": "",
+              "sub_name": "Skibidi Online",
               "desc_text": "Multiplayer Skibidi shooter game! Defend against attacking Skibidi Toilets in PvP or CO-OP mode. Play on 10 different maps with melee and ranged weapons.",
               "icon": "https://cdn.pokiter.com/html5New/skibidi-online/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/skibidi-online/index.html",
@@ -2085,7 +2557,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2394,
               "name": "steves-world",
-              "sub_name": "",
+              "sub_name": "Steves World",
               "desc_text": "In this epic platform game, Steve will face many monsters and obstacles along the way, collect power ups and destroy monsters more easily! Collect coins and find hidden lives and stars in secret places to earn extra lives.",
               "icon": "https://cdn.pokiter.com/html5New/steves-world/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/steves-world/index.html",
@@ -2107,7 +2579,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2396,
               "name": "zombiegirlfriend4",
-              "sub_name": "",
+              "sub_name": "Zombie Girlfriend 4",
               "desc_text": "Kick and punch incoming zombie body parts while standing atop a moving vehicle in this whacky action game! Defend your girlfriend from severed zombie limbs by selecting the proper attack. Punch high, punch low or duck depending on the trajectory of the zombie limb. See if you have what it takes to get to safety!",
               "icon": "https://cdn.pokiter.com/html5New/zombiegirlfriend4/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/zombiegirlfriend4/index.html",
@@ -2129,7 +2601,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2378,
               "name": "boxing-hero--punch-champions",
-              "sub_name": "",
+              "sub_name": "Boxing Hero: Punch Champions",
               "desc_text": "In Boxing Hero : Punch Champions, fight 8 epic boxers in intense combats. Jab, cross, uppercut, use all possible tricks, give in all you have, but don’t forget to dodge or you'll be KO. Punch-out all opponents, and win the world belt in this superb arcade game.",
               "icon": "https://cdn.pokiter.com/html5New/boxing-hero--punch-champions/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/boxing-hero--punch-champions/index.html",
@@ -2151,7 +2623,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2379,
               "name": "cowboys-duel",
-              "sub_name": "",
+              "sub_name": "Cowboys Duel",
               "desc_text": "In this fast-paced cowboy showdown, players can either compete solo or engage in a thrilling duel against a friend, testing their reflexes and quick draw skills. The game features diverse costumes and multiple game modes, providing endless hours of entertainment and challenging players to improve their skills. As players progress, they'll be able to unlock new costumes and game modes, perfecting their aim and becoming the ultimate cowboy champion. Will you answer the call to become the fastest and most skilled cowboy around?",
               "icon": "https://cdn.pokiter.com/html5New/cowboys-duel/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/cowboys-duel/index.html",
@@ -2173,7 +2645,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2382,
               "name": "fall-beans",
-              "sub_name": "",
+              "sub_name": "Fall Beans",
               "desc_text": "You are randomly assigned a bean in the ultimate test of speed and wits. Move the bean past obstacles and try to outrun and outsmart the other beans. Try to beat all three levels of this wacky, three-dimensional bean-racing game and you could be the best bean!",
               "icon": "https://cdn.pokiter.com/html5New/fall-beans/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/fall-beans/index.html",
@@ -2195,7 +2667,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2383,
               "name": "guilty-sniper",
-              "sub_name": "",
+              "sub_name": "Guilty Sniper",
               "desc_text": "Guilty Sniper is a game where you have to recognize and eliminate the targets as fast as you can. Do not worry about the causalities but pay attention to your ammunitions! They won't last forever! Try your best and kill all the targets before the time runs out!",
               "icon": "https://cdn.pokiter.com/html5New/guilty-sniper/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/guilty-sniper/index.html",
@@ -2217,7 +2689,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2384,
               "name": "friends-battle-crepgun",
-              "sub_name": "",
+              "sub_name": "Friends Battle Crepgun",
               "desc_text": "Are you ready to battle with your friend? Arrows are coming from all directions, so be careful. If you want to defeat your friend, you must avoid the arrows. If you can go on without getting hit by arrows for 10 seconds, you win the game.",
               "icon": "https://cdn.pokiter.com/html5New/friends-battle-crepgun/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/friends-battle-crepgun/index.html",
@@ -2239,7 +2711,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2385,
               "name": "gun-battle-3zz",
-              "sub_name": "",
+              "sub_name": "Gun Battle 3zz",
               "desc_text": "Get lost in this incredible action game! 3D graphics, two game modes and robust gameplay mechanics will have you up for hours on end playing Gun Battle 3! Pickup new guns and armor scattered around the map and try your best to be the last one standing or try your hand at capture the flag!",
               "icon": "https://cdn.pokiter.com/html5New/gun-battle-3zz/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/gun-battle-3zz/index.html",
@@ -2261,7 +2733,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2367,
               "name": "cube8-v3",
-              "sub_name": "",
+              "sub_name": "Cube8 V3",
               "desc_text": "Take on an eight by eight grid in this brainy puzzle game! Fit the three pieces given into the eight by eight grid to reload and get new pieces. Complete a row or column to wipe the squares away. Use your pieces wisely because you never know when they will show up at your disposal again!",
               "icon": "https://cdn.pokiter.com/html5New/cube8-v3/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/cube8-v3/index.html",
@@ -2283,7 +2755,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2352,
               "name": "Stud Rider",
-              "sub_name": "",
+              "sub_name": "Stud Rider",
               "desc_text": "Stud Rider is a cool HTML5 bike riding game which was created by Freak X Apps! Racing Games · Motorbike Games · Bike Games · Driving ...",
               "icon": "https://cdn.pokiter.com/html5New/Stud Rider/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/Stud Rider/index.html",
@@ -2305,7 +2777,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2354,
               "name": "trendy-hauling3",
-              "sub_name": "",
+              "sub_name": "Trendy Hauling 3",
               "desc_text": "Try to deliver as much as the cargo as possible to the finish line in each of the ten levels. Slowly drive up and down the hills and over bridges as you keep the boxes in the back of your truck. If you drop too much cargo or crash your vehicle then you must restart the level and try again.",
               "icon": "https://cdn.pokiter.com/html5New/trendy-hauling3/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/trendy-hauling3/index.html",
@@ -2327,7 +2799,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2355,
               "name": "truck-driver-snowy-roads",
-              "sub_name": "",
+              "sub_name": "Truck Driver Snowy Roads",
               "desc_text": "Truck drivers are pushing limits on the snowy roads with various trucks in a huge country where you can either drive your truck freely or you can participate in missions, or even you can do some missions on a free drive map. A very long adventure beginning with the Truck Driver Snowy Roads game!",
               "icon": "https://cdn.pokiter.com/html5New/truck-driver-snowy-roads/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/truck-driver-snowy-roads/index.html",
@@ -2349,7 +2821,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2356,
               "name": "brawlguys2",
-              "sub_name": "",
+              "sub_name": "Brawl Guys 2",
               "desc_text": "Sync up and get ready for a brawl! Choose your character then jump into the arena as you try to be the first player to complete the goal of each game. Win the match to earn a trophy. Keep stacking up your trophies as you attempt to be the best player on the server in this fun online game similar to Brawl Stars.",
               "icon": "https://cdn.pokiter.com/html5New/brawlguys2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/brawlguys2/index.html",
@@ -2371,7 +2843,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2357,
               "name": "giant-wanted",
-              "sub_name": "",
+              "sub_name": "Giant Wanted",
               "desc_text": "Giants are terrorizing the metropolis in this action-packed sniping game! Use your scope to send shots into the giants and take them down before they cause too much property damage! Earn cash from each giant slayed and use the cash to upgrade your weapon's power and ammunition. See if your sharpshooting abilities are enough to save the city!",
               "icon": "https://cdn.pokiter.com/html5New/giant-wanted/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/giant-wanted/index.html",
@@ -2393,7 +2865,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2359,
               "name": "minecraftdropper",
-              "sub_name": "",
+              "sub_name": "Minecraft Dropper",
               "desc_text": "Freefall down a volcano in this spectacular Minecraft-themed action game! Avoid the volcano's obstacles or you will lose a heart. Hit three obstacles and it's game over! Dodge quickly to continue freefalling and rack up your score. See how long you can fall and how high you can score!",
               "icon": "https://cdn.pokiter.com/html5New/minecraftdropper/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/minecraftdropper/index.html",
@@ -2415,7 +2887,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2360,
               "name": "red-impostor-f2",
-              "sub_name": "",
+              "sub_name": "Red Impostor F2",
               "desc_text": "Play Among Us online! Try to find the imposter or be the imposter and try to sabotage the space ship without being caught. Play solo mode as you practice your skills before playing the real game. Try to beat the game as quickly as possible.",
               "icon": "https://cdn.pokiter.com/html5New/red-impostor-f2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/red-impostor-f2/index.html",
@@ -2437,7 +2909,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2361,
               "name": "super-oliver-world",
-              "sub_name": "",
+              "sub_name": "Super Oliver World",
               "desc_text": "Super Oliver World is an arcade game where you help little Oliver escape the dangers of a parallel world full of traps and dangerous enemies. Break blocks to find power-ups, coins, and other surprises along the way!",
               "icon": "https://cdn.pokiter.com/html5New/super-oliver-world/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/super-oliver-world/index.html",
@@ -2454,12 +2926,12 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "5/2/2025 09:54:24",
               "isfunny": "1",
-              "Japanese": "スーパー・オリバー・ワールド"
+              "Japanese": null
        },
        {
               "id": 2362,
               "name": "thiefpuzzle22b",
-              "sub_name": "",
+              "sub_name": "Thief Puzzle 22b",
               "desc_text": "Combine creativity and thievery in this funny puzzle game! Complete each level by capturing what is in the thief's thought bubble. Avoid hazards or getting caught or you will have to try again! Use levers to switch lasers off, keys to unlock safes and much more in this addicting logic game!",
               "icon": "https://cdn.pokiter.com/html5New/thiefpuzzle22b/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/thiefpuzzle22b/index.html",
@@ -2481,7 +2953,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2341,
               "name": "formularush",
-              "sub_name": "",
+              "sub_name": "Formula Rush",
               "desc_text": "Put the pedal to the metal in this high-octane racing game! Control a formula one car and race against many others in a winner-take-all championship. Rank third or better to move on to the next tournament. Be sure to turn quickly so you don't lose speed and try not to bump into other drivers too much or you will slow down!",
               "icon": "https://cdn.pokiter.com/html5New/formularush/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/formularush/index.html",
@@ -2503,7 +2975,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2343,
               "name": "monster-truck-madness2",
-              "sub_name": "",
+              "sub_name": "Monster Truck Madness 2",
               "desc_text": "Try to safely drive your monster truck up and over all of the crazy roads. Avoid bombs on the road, avoid crashing and make sure not to land at an odd angle. Collect stars along the way to the finish line. Can you safely navigate to the end of all 8 levels?",
               "icon": "https://cdn.pokiter.com/html5New/monster-truck-madness2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/monster-truck-madness2/index.html",
@@ -2520,12 +2992,12 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "5/2/2025 09:54:23",
               "isfunny": "1",
-              "Japanese": "モンスタートラックマッドネス2"
+              "Japanese": null
        },
        {
               "id": 2344,
               "name": "moto-line6",
-              "sub_name": "",
+              "sub_name": "Moto Line 6",
               "desc_text": "Try not to crash your bike as you master both modes in this fun driving game. Either race for a high score in normal mode or try to complete all of the levels and unlock all of the stars in level mode. Drive around the path, using obstacles and objects to your advantage. Flip and land upright as you try to get to the checkered flag.",
               "icon": "https://cdn.pokiter.com/html5New/moto-line6/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/moto-line6/index.html",
@@ -2542,12 +3014,12 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "5/2/2025 09:54:23",
               "isfunny": "1",
-              "Japanese": "モートライン6"
+              "Japanese": null
        },
        {
               "id": 2345,
               "name": "moto-rush2",
-              "sub_name": "",
+              "sub_name": "Moto Rush2",
               "desc_text": "Rush down the street as you try to take first place in this fun online racing game. Jump on your bike, then drive towards speed boosts and ramps. If you crash it is game over! Try to top the leaderboard in this fun high score game based on the popular app Bike Rush. Keep racing forward until you unlock all in game achievements. Addicting game play with cool 3D graphics will have you flipping your bike all day long.",
               "icon": "https://cdn.pokiter.com/html5New/moto-rush2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/moto-rush2/index.html",
@@ -2569,7 +3041,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2349,
               "name": "road-fight-tps",
-              "sub_name": "",
+              "sub_name": "Road Fight Tps",
               "desc_text": "",
               "icon": "https://cdn.pokiter.com/html5New/road-fight-tps/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/road-fight-tps/index.html",
@@ -2591,7 +3063,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2350,
               "name": "street-racing8",
-              "sub_name": "",
+              "sub_name": "Street Racing8",
               "desc_text": "Race your DeLorean vehicle down the street as you avoid all of the traffic on the roads. Collect coins for extra points and fuel so you can stay in the game longer. Pick up turbo boosts so you can fly through and rack up the points even faster. Keep driving for as long as possible in order to get to the top of the leaderboards.",
               "icon": "https://cdn.pokiter.com/html5New/street-racing8/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/street-racing8/index.html",
@@ -2613,7 +3085,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2328,
               "name": "ZIPPY PIXIE",
-              "sub_name": "",
+              "sub_name": "Zippy Pixie",
               "desc_text": "In Zippy Pixie, a highly engaging HTML5 puzzle game, you're immersed in a world filled with colorful fruits. With 55 levels to conquer, each with its own level ...",
               "icon": "https://cdn.pokiter.com/html5New/ZIPPY PIXIE/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/ZIPPY PIXIE/index.html",
@@ -2635,7 +3107,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2329,
               "name": "boom-wheels",
-              "sub_name": "",
+              "sub_name": "Boom Wheels",
               "desc_text": "Zoom! Pow! Vroom! Welcome to the wacky world of Boom Wheels, where kart racing has never been this cool or crazy! Get ready to hop into your supercharged go-kart and speed through the coolest tracks ever. An epic high quality online racing game that put your wits to the test.",
               "icon": "https://cdn.pokiter.com/html5New/boom-wheels/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/boom-wheels/index.html",
@@ -2657,7 +3129,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2330,
               "name": "car-park-3d",
-              "sub_name": "",
+              "sub_name": "Car Park 3d",
               "desc_text": "Grab the wheel and show off your parking skills in this addictive racing game! Complete each level by parking your vehicle within the green parking spot. Each level has a time limit so be sure you make your way there as quickly as possible. The car must be within the spot precisely so prepare to use your mirrors!",
               "icon": "https://cdn.pokiter.com/html5New/car-park-3d/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/car-park-3d/index.html",
@@ -2679,7 +3151,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2334,
               "name": "blazeracing",
-              "sub_name": "",
+              "sub_name": "Blazeracing",
               "desc_text": "Challenge yourself against the leaderboard in this high-octane racing game! Pass or destroy other racers' vehicles to get ahead. Pickup coins to boost your score. Be sure you do not fall off the edge or it will be game over! See if you have what it takes to keep pace with racers from around the world!",
               "icon": "https://cdn.pokiter.com/html5New/blazeracing/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/blazeracing/index.html",
@@ -2701,7 +3173,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2337,
               "name": "death-race3",
-              "sub_name": "",
+              "sub_name": "Death Race3",
               "desc_text": "Challenge other drivers to a death race! Try to smash the other cars while keeping your vehicle alive and working in this demolition derby game. Try to be the final player alive to unlock the winner trophy. The longer you survive the better your final score will be. On game over your best score will be submitted to the Lagged leaderboards.",
               "icon": "https://cdn.pokiter.com/html5New/death-race3/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/death-race3/index.html",
@@ -2723,7 +3195,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2339,
               "name": "drive-and-park2",
-              "sub_name": "",
+              "sub_name": "Drive And Park2",
               "desc_text": "Drift and park your cars safely into empty parking space. Park enough cars to complete each level. Try to unlock all 10 different vehicle skins in this super addicting online parking game. Keep parking your vehicle as you attempt to get a high score in order to get to the top of the leaderboards. Tap to get starts, then release to complete the park.",
               "icon": "https://cdn.pokiter.com/html5New/drive-and-park2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/drive-and-park2/index.html",
@@ -2745,7 +3217,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2317,
               "name": "tamachi-jump",
-              "sub_name": "",
+              "sub_name": "Tamachi Jump",
               "desc_text": "Battle against the evil boss while avoiding the deadly lava. Attempt to survive for as long as possible in this super fun old school style arcade game. Collect bombs to blow up platforms, run around collecting power ups and try to defeat the boss.",
               "icon": "https://cdn.pokiter.com/html5New/tamachi-jump/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/tamachi-jump/index.html",
@@ -2789,7 +3261,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2309,
               "name": "sling-tomb",
-              "sub_name": "",
+              "sub_name": "Sling Tomb",
               "desc_text": "Try to escape a waterlogged tomb in this addicting physics game! Sling your character up and away from the rising water! Avoid the water as well as other obstacles such as fire, blades and more or it'll be game over! Collect coins and jewels to increase your score and buy new skins. See how high you can sling!",
               "icon": "https://cdn.pokiter.com/html5New/sling-tomb/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/sling-tomb/index.html",
@@ -2811,7 +3283,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2310,
               "name": "slope-run6",
-              "sub_name": "",
+              "sub_name": "Slope Run6",
               "desc_text": "Roll down the slope as you try to survive for as long as possible. Avoid all of the red obstacles as you hit ramps and balance on top of the platforms. Keep rolling down hill as you try to score enough points to get to the top of the leaderboards. Each attempt gives you a new platforms and challenges, so keep playing as you try to get a high score in this addicting online game similar to Y8 Slope.",
               "icon": "https://cdn.pokiter.com/html5New/slope-run6/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/slope-run6/index.html",
@@ -2833,7 +3305,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2311,
               "name": "slope4",
-              "sub_name": "",
+              "sub_name": "Slope4",
               "desc_text": "Try to keep your ball in the sky for as long as possible. Keep one goal in mind as you roll down the slopes, take boosts and jump over ramps: do not fall out of the sky! Unlock new skins and come back daily for your rewards in order to unlock all of the unique skins. Control your ball as you strategically land on the right platforms in order to top the global leaderboards in this fun 3D game created just for Lagged.",
               "icon": "https://cdn.pokiter.com/html5New/slope4/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/slope4/index.html",
@@ -2855,7 +3327,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2314,
               "name": "Super Pixel Man",
-              "sub_name": "",
+              "sub_name": "Super Pixel Man",
               "desc_text": "Super Pixel Man is a retro free online game for fun. You need to help the Super Pixel Man escape the traps that stand in his way, taking care of flying ...",
               "icon": "https://cdn.pokiter.com/html5New/Super Pixel Man/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/Super Pixel Man/index.html",
@@ -2876,8 +3348,8 @@ const defaultGamelist: Game[] = [
        },
        {
               "id": 2299,
-              "name": "Jungle Bricks",
-              "sub_name": "",
+              "name": "JungleBricks",
+              "sub_name": "Jungle Bricks",
               "desc_text": "Jungle Bricks is a highly addictive game that comes with a Jungle theme in which a jungle boy collects lots of fruits(such as apples, grapes, cherries) in his pocket by breaking bricks.\r\n\r\nAim the target and shoot balls to break maximum bricks in one go to help the Jungle boy to get more fruits. You need to break all the bricks on the screen to complete the stage.",
               "icon": "https://cdn.pokiter.com/html5New/Jungle Bricks/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/Jungle Bricks/index.html",
@@ -2898,8 +3370,8 @@ const defaultGamelist: Game[] = [
        },
        {
               "id": 2301,
-              "name": "Papa Cherry Saga",
-              "sub_name": "",
+              "name": "PapaCherrySaga",
+              "sub_name": "Papa Cherry Saga",
               "desc_text": "Papa Cherry Saga is a matching puzzle game created by Robowhale. Help our chef sate his big appetite for sweets! Assist him in his journey to collect tons of delicious desserts in a magical kingdom full of candies. Join the chef while he matches up doughnuts and other sugary sweets.",
               "icon": "https://cdn.pokiter.com/html5New/Papa Cherry Saga/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/Papa Cherry Saga/index.html",
@@ -2921,7 +3393,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2290,
               "name": "falling-dash",
-              "sub_name": "",
+              "sub_name": "Falling Dash",
               "desc_text": "Avoid the spikes for as long as possible. Move the spikes over one position to allow the falling characters to pass through safely. Time your movements just right as you stay focused and try to rack up a high score. Try to top the leaderboards in this fast paced addingting game.",
               "icon": "https://cdn.pokiter.com/html5New/falling-dash/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/falling-dash/index.html",
@@ -2941,31 +3413,9 @@ const defaultGamelist: Game[] = [
               "Japanese": "ダッシュ-ダウン"
        },
        {
-              "id": 2291,
-              "name": "flappybirdy",
-              "sub_name": "",
-              "desc_text": "Fly through the tunnels to see how high of a score you can complete. Make sure to share the game with your friends to frustrate them and see if they can beat your high score.",
-              "icon": "https://cdn.pokiter.com/html5New/flappybirdy/icon.webp",
-              "html": "https://cdn.pokiter.com/html5New/flappybirdy/index.html",
-              "platform": "web",
-              "category": "Strategy",
-              "tags": "",
-              "type": 1,
-              "is_use": "0",
-              "google_play": false,
-              "app_store": "",
-              "other_platform": "",
-              "rating": "4.9",
-              "file_size": "",
-              "screenshots": null,
-              "create_time": "5/2/2025 09:54:18",
-              "isfunny": "1",
-              "Japanese": "フラッピーバーディー"
-       },
-       {
               "id": 2282,
               "name": "colorballrun",
-              "sub_name": "",
+              "sub_name": "Colorballrun",
               "desc_text": "Roll your way to victory in this colorful and musical arcade-style game! Complete each level by reaching the finish line. Pickup as many balls that match your color as possible to boost your score. Avoid other balls or you will have to start over! Sit back and relax to the jams while you roll right past!",
               "icon": "https://cdn.pokiter.com/html5New/colorballrun/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/colorballrun/index.html",
@@ -2987,7 +3437,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2269,
               "name": "Aidan--emma-dungeon-adventure",
-              "sub_name": "",
+              "sub_name": "Aidan Emma Dungeon Adventure",
               "desc_text": "Dungeon Adventure is an online puzzle game that we hand picked for Lagged.com. This is one of our favorite mobile puzzle games that we have to play. Simply click the big play button to start having fun. If you want more titles like this, then check out Doctor Acorn 3 or Icy Purple Head 3 Level Pack.",
               "icon": "https://cdn.pokiter.com/html5New/Aidan--emma-dungeon-adventure/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/Aidan--emma-dungeon-adventure/index.html",
@@ -3009,7 +3459,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2237,
               "name": "3d-space-shooter7",
-              "sub_name": "",
+              "sub_name": "3d Space Shooter7",
               "desc_text": "Lead your team to victory in this space themed shooter game. Run around the space station as you experience low gravity in this fun action packed game. Collect different guns, collect health packs and help your team earn more points than your opponents. Dodge bullets and gun down enemies as you try to win.",
               "icon": "https://cdn.pokiter.com/html5New/3d-space-shooter7/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/3d-space-shooter7/index.html",
@@ -3031,7 +3481,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2244,
               "name": "clash-of-vikings3",
-              "sub_name": "",
+              "sub_name": "Clash Of Vikings3",
               "desc_text": "Try to defeat your opponent in three minutes or less. Manage your deck and pick the correct army of cards to defeat your enemy. Choose from troop, hero and spell cards. Save enough mana then play cards from your deck. Defend your castle while trying to destroy your opponents in this game that plays on the Clash of Clans theme.",
               "icon": "https://cdn.pokiter.com/html5New/clash-of-vikings3/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/clash-of-vikings3/index.html",
@@ -3053,7 +3503,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2246,
               "name": "dexomon2",
-              "sub_name": "",
+              "sub_name": "Dexomon2",
               "desc_text": "Time to train your monsters as you try to defeat all of the other trainers in this Pokemon style game. Choose your starting Dexomon, then defeat other monsters so that you can add them to your collection. Fight trainers as you put your monsters to the test. Keep leveling up your fighters until you can complete all of the levels in this epic online game.",
               "icon": "https://cdn.pokiter.com/html5New/dexomon2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/dexomon2/index.html",
@@ -3075,7 +3525,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2217,
               "name": "ArchersKing",
-              "sub_name": "",
+              "sub_name": "Archers King",
               "desc_text": "Entering the surfing world with a twist of archery. Begin your amazing journey of surfing trough the waves and shooting down your enemies. Shoot as many and as quickly as you can, before they shoot you down. With the coins you earn you can purchase, different arrow upgrades during gameplay in order to score as many points as possible.Investing can be a powerful tool for achieving your long-term financial goals. However, it requires strategic planning and thoughtful decision-making. That`s where a financial advisor can be invaluable.To start, it`s important to create a financial plan and identify your goals. Retirement planning is a vital aspect of this, ensuring that you have a solid financial foundation for the future. A financial advisor can guide you through the various investment options available, from the stock market and real estate investment to mutual funds and private equity.Budgeting and debt repayment are also important components of financial planning, as is having an emergency fund. Credit history score awareness and risk control measures are crucial.Tax planning and estate planning can help you protect your assets, and insurance can offer additional financial security. Student loans debt repayment options and compound interest should not be overlooked, particularly as interest rates and market trends shift and change.Investment management is essential to managing your money effectively and achieving your goals. A financial advisor can work with you to create a financial Strategy that meets your needs and helps you achieve your financial outcomes. Whether you`re interested in hedge funds, futures trading, commodities trading, or foreign exchange (Forex), a financial advisor can walk you through the process step-by-step and help you make informed decisions.In the world of finance, having a strong understanding of options like credit cards, personal loans, savings accounts, banking, venture capital, Initial Public Offerings (IPOs), and cryptocurrency is also important. Taking the time to develop good money management habits is critical to achieving financial independence and reaching your long-term goals.So whether you`re just beginning your financial journey or you`re a seasoned investor, a financial advisor can offer value and guidance. Don`t hesitate to reach out and start building your path to financial success today.",
               "icon": "https://cdn.pokiter.com/html5/ArchersKing/icon.png",
               "html": "https://cdn.pokiter.com/html5/ArchersKing/index.html",
@@ -3097,7 +3547,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2218,
               "name": "BestSniper",
-              "sub_name": "",
+              "sub_name": "Best Sniper",
               "desc_text": "You are the best sniper. You need to snipe all the zombies and protect those who are running away.Investing can be a powerful tool for achieving your long-term financial goals. However, it requires strategic planning and thoughtful decision-making. That`s where a financial advisor can be invaluable.To start, it`s important to create a financial plan and identify your goals. Retirement planning is a vital aspect of this, ensuring that you have a solid financial foundation for the future. A financial advisor can guide you through the various investment options available, from the stock market and real estate investment to mutual funds and private equity.Budgeting and debt repayment are also important components of financial planning, as is having an emergency fund. Credit history score awareness and risk control measures are crucial.Tax planning and estate planning can help you protect your assets, and insurance can offer additional financial security. Student loans debt repayment options and compound interest should not be overlooked, particularly as interest rates and market trends shift and change.Investment management is essential to managing your money effectively and achieving your goals. A financial advisor can work with you to create a financial Strategy that meets your needs and helps you achieve your financial outcomes. Whether you`re interested in hedge funds, futures trading, commodities trading, or foreign exchange (Forex), a financial advisor can walk you through the process step-by-step and help you make informed decisions.In the world of finance, having a strong understanding of options like credit cards, personal loans, savings accounts, banking, venture capital, Initial Public Offerings (IPOs), and cryptocurrency is also important. Taking the time to develop good money management habits is critical to achieving financial independence and reaching your long-term goals.So whether you`re just beginning your financial journey or you`re a seasoned investor, a financial advisor can offer value and guidance. Don`t hesitate to reach out and start building your path to financial success today.",
               "icon": "https://cdn.pokiter.com/html5/BestSniper/icon.png",
               "html": "https://cdn.pokiter.com/html5/BestSniper/index.html",
@@ -3119,7 +3569,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2220,
               "name": "BraveAssassin",
-              "sub_name": "",
+              "sub_name": "Brave Assassin",
               "desc_text": "A shooting adventure game, players need to control the characters to break through the adventure, survive under the hail of bullets, and destroy all kinds of enemies!Investing can be a powerful tool for achieving your long-term financial goals. However, it requires strategic planning and thoughtful decision-making. That`s where a financial advisor can be invaluable.To start, it`s important to create a financial plan and identify your goals. Retirement planning is a vital aspect of this, ensuring that you have a solid financial foundation for the future. A financial advisor can guide you through the various investment options available, from the stock market and real estate investment to mutual funds and private equity.Budgeting and debt repayment are also important components of financial planning, as is having an emergency fund. Credit history score awareness and risk control measures are crucial.Tax planning and estate planning can help you protect your assets, and insurance can offer additional financial security. Student loans debt repayment options and compound interest should not be overlooked, particularly as interest rates and market trends shift and change.Investment management is essential to managing your money effectively and achieving your goals. A financial advisor can work with you to create a financial Strategy that meets your needs and helps you achieve your financial outcomes. Whether you`re interested in hedge funds, futures trading, commodities trading, or foreign exchange (Forex), a financial advisor can walk you through the process step-by-step and help you make informed decisions.In the world of finance, having a strong understanding of options like credit cards, personal loans, savings accounts, banking, venture capital, Initial Public Offerings (IPOs), and cryptocurrency is also important. Taking the time to develop good money management habits is critical to achieving financial independence and reaching your long-term goals.So whether you`re just beginning your financial journey or you`re a seasoned investor, a financial advisor can offer value and guidance. Don`t hesitate to reach out and start building your path to financial success today.",
               "icon": "https://cdn.pokiter.com/html5/BraveAssassin/icon.png",
               "html": "https://cdn.pokiter.com/html5/BraveAssassin/index.html",
@@ -3141,7 +3591,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2194,
               "name": "CrazyKart3D",
-              "sub_name": "",
+              "sub_name": "Crazy Kart3d",
               "desc_text": "Drive to the goal with your super racer! Press to go right and release to go left, collect more coins on your road, take care not to fall of the race track. The cars in your garage will make money for you, and you can assemble a better car with two same cars.Investing can be a powerful tool for achieving your long-term financial goals. However, it requires strategic planning and thoughtful decision-making. That`s where a financial advisor can be invaluable.To start, it`s important to create a financial plan and identify your goals. Retirement planning is a vital aspect of this, ensuring that you have a solid financial foundation for the future. A financial advisor can guide you through the various investment options available, from the stock market and real estate investment to mutual funds and private equity.Budgeting and debt repayment are also important components of financial planning, as is having an emergency fund. Credit history score awareness and risk control measures are crucial.Tax planning and estate planning can help you protect your assets, and insurance can offer additional financial security. Student loans debt repayment options and compound interest should not be overlooked, particularly as interest rates and market trends shift and change.Investment management is essential to managing your money effectively and achieving your goals. A financial advisor can work with you to create a financial Strategy that meets your needs and helps you achieve your financial outcomes. Whether you`re interested in hedge funds, futures trading, commodities trading, or foreign exchange (Forex), a financial advisor can walk you through the process step-by-step and help you make informed decisions.In the world of finance, having a strong understanding of options like credit cards, personal loans, savings accounts, banking, venture capital, Initial Public Offerings (IPOs), and cryptocurrency is also important. Taking the time to develop good money management habits is critical to achieving financial independence and reaching your long-term goals.So whether you`re just beginning your financial journey or you`re a seasoned investor, a financial advisor can offer value and guidance. Don`t hesitate to reach out and start building your path to financial success today.",
               "icon": "https://cdn.pokiter.com/html5/CrazyKart3D/icon.png",
               "html": "https://cdn.pokiter.com/html5/CrazyKart3D/index.html",
@@ -3163,7 +3613,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2196,
               "name": "FeverRacing",
-              "sub_name": "",
+              "sub_name": "Fever Racing",
               "desc_text": "The objective of the game is to get the highest score possible. By tapping and holding, along with sliding around the screen to steer the vehicle. Maneuver your way around the other cars, follow the green arrow to collect different abilities to defend yourself and continue to rank up the score.Investing can be a powerful tool for achieving your long-term financial goals. However, it requires strategic planning and thoughtful decision-making. That`s where a financial advisor can be invaluable.To start, it`s important to create a financial plan and identify your goals. Retirement planning is a vital aspect of this, ensuring that you have a solid financial foundation for the future. A financial advisor can guide you through the various investment options available, from the stock market and real estate investment to mutual funds and private equity.Budgeting and debt repayment are also important components of financial planning, as is having an emergency fund. Credit history score awareness and risk control measures are crucial.Tax planning and estate planning can help you protect your assets, and insurance can offer additional financial security. Student loans debt repayment options and compound interest should not be overlooked, particularly as interest rates and market trends shift and change.Investment management is essential to managing your money effectively and achieving your goals. A financial advisor can work with you to create a financial Strategy that meets your needs and helps you achieve your financial outcomes. Whether you`re interested in hedge funds, futures trading, commodities trading, or foreign exchange (Forex), a financial advisor can walk you through the process step-by-step and help you make informed decisions.In the world of finance, having a strong understanding of options like credit cards, personal loans, savings accounts, banking, venture capital, Initial Public Offerings (IPOs), and cryptocurrency is also important. Taking the time to develop good money management habits is critical to achieving financial independence and reaching your long-term goals.So whether you`re just beginning your financial journey or you`re a seasoned investor, a financial advisor can offer value and guidance. Don`t hesitate to reach out and start building your path to financial success today.",
               "icon": "https://cdn.pokiter.com/html5/FeverRacing/icon.png",
               "html": "https://cdn.pokiter.com/html5/FeverRacing/index.html",
@@ -3185,7 +3635,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2181,
               "name": "soldier-of-homeland",
-              "sub_name": "",
+              "sub_name": "Soldier Of Homeland",
               "desc_text": "",
               "icon": "https://cdn.pokiter.com/html5/soldier-of-homeland/icon.png",
               "html": "https://cdn.pokiter.com/html5/soldier-of-homeland/index.html",
@@ -3207,7 +3657,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2172,
               "name": "lands-of-blight",
-              "sub_name": "",
+              "sub_name": "Lands Of Blight",
               "desc_text": "Lands of Blight is an action adventure game where you take control of a character that automatically attacks every few seconds, and you need to survive the continuous waves of monsters.\r\nLevel up, unlock new powers and heroes, find chests and try to survive as long as you can!",
               "icon": "https://cdn.pokiter.com/html5/lands-of-blight/icon.jpg",
               "html": "https://cdn.pokiter.com/html5/lands-of-blight/index.html",
@@ -3229,7 +3679,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2179,
               "name": "seasonland",
-              "sub_name": "",
+              "sub_name": "Seasonland",
               "desc_text": "Discover this pixel platformer where you can control a very friendly alien instead of Super Mario. Spend your coins if you want to save and have fun crushing all sorts of enemies!",
               "icon": "https://cdn.pokiter.com/html5/seasonland/icon.png",
               "html": "https://cdn.pokiter.com/html5/seasonland/index.html",
@@ -3251,7 +3701,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2488,
               "name": "basket-random-pro",
-              "sub_name": "",
+              "sub_name": "Basket Random Pro",
               "desc_text": "Basket Random is the most popular and beloved sports game in the Random Sport Series produced by TwoPlayerGames. It is designed in pixel art and offers a gameplay that is quite simple to play but difficult to master! This game, which combines Ragdoll physics with basketball, is addictively fun and competitive. You can play against the CPU as a 1 Player or against your friend on a local computer as a 2 Player.",
               "icon": "https://cdn.pokiter.com/html5New/basket-random-pro/icon.png",
               "html": "https://cdn.pokiter.com/html5New/basket-random-pro/index.html",
@@ -3273,7 +3723,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2479,
               "name": "spiderdoll",
-              "sub_name": "",
+              "sub_name": "Spiderdoll",
               "desc_text": "SpiderDoll is a Spider Rope Hero game. Swing through New York City wrapping bad guys in your web and getting closer to saving Mary.",
               "icon": "https://cdn.pokiter.com/html5New/spiderdoll/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/spiderdoll/index.html",
@@ -3294,8 +3744,8 @@ const defaultGamelist: Game[] = [
        },
        {
               "id": 2480,
-              "name": "adventneon",
-              "sub_name": "",
+              "name": "AdventNeon",
+              "sub_name": "Advent NEON",
               "desc_text": "Hyperactive 2D action platformer with wicked fast attacks, omnidirectional dashing, and time-freezing! Play well enough to transform and unleash 100% power!",
               "icon": "https://cdn.pokiter.com/html5New/adventneon/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/adventneon/index.html",
@@ -3317,7 +3767,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2481,
               "name": "stick-slasher",
-              "sub_name": "",
+              "sub_name": "Stick Slasher",
               "desc_text": "Level Up Your Game! New weapons and foes are on the way! Grab Stick Slasher on Steam and get ready to unleash pistols, snipers and more!",
               "icon": "https://cdn.pokiter.com/html5New/stick-slasher/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/stick-slasher/index.html",
@@ -3339,7 +3789,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2482,
               "name": "stickman-boost",
-              "sub_name": "",
+              "sub_name": "Stickman Boost",
               "desc_text": "Stickman Boost is an exciting action game. Your mission is to control a stickman to avoid obstacles by moving, sliding, or jumping to reach the finish line.",
               "icon": "https://cdn.pokiter.com/html5New/stickman-boost/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/stickman-boost/index.html",
@@ -3361,7 +3811,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2483,
               "name": "boxing-physics-2",
-              "sub_name": "",
+              "sub_name": "Boxing Physics 2",
               "desc_text": "Here's more information the developer has provided about the kinds of data this app may collect and share, and security practices the app may follow.",
               "icon": "https://cdn.pokiter.com/html5New/boxing-physics-2/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/boxing-physics-2/index.html",
@@ -3383,7 +3833,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2484,
               "name": "trench-run",
-              "sub_name": "",
+              "sub_name": "Trench Run",
               "desc_text": "Fly into unknown territory, disable laser gates and locate central intelligence. It's up to you to win this space race!",
               "icon": "https://cdn.pokiter.com/html5New/trench-run/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/trench-run/index.html",
@@ -3405,7 +3855,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2485,
               "name": "pixel-road-taxi-depot",
-              "sub_name": "",
+              "sub_name": "Pixel Road Taxi Depot",
               "desc_text": "Since you're a taxi driver, you need to reach your destination as fast as possible. You'll be driving through some pretty heavy traffic, so try not to get hit by anything. Also, take care not to drive into an incoming train on the railway crosses. Finish individual missions and get enough coins to unlock all the necessary upgrades. It's very important to surpass everyone in the ladder boards. Become the best player around!",
               "icon": "https://cdn.pokiter.com/html5New/pixel-road-taxi-depot/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/pixel-road-taxi-depot/index.html",
@@ -3427,7 +3877,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2486,
               "name": "geometry-vibes-x-ball",
-              "sub_name": "",
+              "sub_name": "Geometry Vibes X Ball",
               "desc_text": "Geometry Vibes X-Ball is ready to give you a completely different gaming experience! After the first game of the series, interactive new levels, challenge section and completely new store are waiting for you in X-Ball mode.\r\n\r\nStart your new adventure now in Geometry Vibes X-Ball game where you will find yourself avoiding obstacles, traps and gears in each level!",
               "icon": "https://cdn.pokiter.com/html5New/geometry-vibes-x-ball/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/geometry-vibes-x-ball/index.html",
@@ -3449,7 +3899,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2487,
               "name": "get10",
-              "sub_name": "",
+              "sub_name": "Get10",
               "desc_text": "The objective of the game is simple, just get 10. Merge blocks with the same number to increase by 1 until you get 10. It may sound simple but may not be that simple.\r\n\r\nAlready got 10? Well, you can always challenge yourself to go higher ;)",
               "icon": "https://cdn.pokiter.com/html5New/get10/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/get10/index.html",
@@ -3471,7 +3921,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2473,
               "name": "obby-tower-parkour-climb-v01j",
-              "sub_name": "",
+              "sub_name": "Obby Tower Parkour Climb V01j",
               "desc_text": "Obby Tower Parkour Climb is the perfect game for you. Choose your character, and start jumping over the obstacles in one of the three levels!",
               "icon": "https://cdn.pokiter.com/html5New/obby-tower-parkour-climb-v01j/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/obby-tower-parkour-climb-v01j/index.html",
@@ -3493,7 +3943,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2474,
               "name": "final-ninja-zero",
-              "sub_name": "",
+              "sub_name": "Final Ninja Zero",
               "desc_text": "In this game, you assume the role of Takeshi, the same hero from the first Final Ninja game. It takes place forty years before the events of the Final Ninja.",
               "icon": "https://cdn.pokiter.com/html5New/final-ninja-zero/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/final-ninja-zero/index.html",
@@ -3515,7 +3965,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2476,
               "name": "neon-dash",
-              "sub_name": "",
+              "sub_name": "Neon Dash",
               "desc_text": "Dive into neon world to avoid obstacles, platforms and reach the last level for an epic boss battle! Additionally challenge yourself to get high score in Endless mode!",
               "icon": "https://cdn.pokiter.com/html5New/neon-dash/icon.png",
               "html": "https://cdn.pokiter.com/html5New/neon-dash/index.html",
@@ -3537,7 +3987,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2477,
               "name": "northern-heights",
-              "sub_name": "",
+              "sub_name": "Northern Heights",
               "desc_text": "Play Northern Heights on GameSnacks, a bite-sized online gaming site you can play on your phone and desktop without installing anything.",
               "icon": "https://cdn.pokiter.com/html5New/northern-heights/icon.png",
               "html": "https://cdn.pokiter.com/html5New/northern-heights/index.html",
@@ -3559,7 +4009,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2478,
               "name": "tap-tap-builder",
-              "sub_name": "",
+              "sub_name": "Tap Tap Builder",
               "desc_text": "Tap Tap City Builder invites you to build the city of your dreams and become its mayor! But before leaning back in a comfortable boss's chair, you'll have to roll up your sleeves and do some work. Want to build a skyscraper? Tap-tap and you're done! Not enough money? Tap-tap and earn some! A fire broke out? Tap-tap and save your people!\r\n\r\nLet's start working right now, tap-tap the DOWNLOAD button!",
               "icon": "https://cdn.pokiter.com/html5New/tap-tap-builder/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/tap-tap-builder/index.html",
@@ -3581,7 +4031,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2404,
               "name": "mrnoobsvsstickman",
-              "sub_name": "",
+              "sub_name": "Mr Noobs vs Stickman",
               "desc_text": "",
               "icon": "https://cdn.pokiter.com/html5New/mrnoobsvsstickman/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/mrnoobsvsstickman/index.html",
@@ -3603,7 +4053,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2386,
               "name": "huggy-wuggy-escape",
-              "sub_name": "",
+              "sub_name": "Huggy Wuggy Escape",
               "desc_text": "Find a gun, find some bullets, shoot down Huggy Wuggy and leave the factory before it explode. To kill Huggy you have to shoot him at least six times, but the bullets are rare, so you have to move around the complex looking for them. If Huggy catch you is game over. Once you shot him down, you have to reach the exit in less than 30 seconds, otherwise the bomb inside his body will explode, killing you.",
               "icon": "https://cdn.pokiter.com/html5New/huggy-wuggy-escape/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/huggy-wuggy-escape/index.html",
@@ -3625,7 +4075,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2389,
               "name": "meowfia-evolution",
-              "sub_name": "",
+              "sub_name": "Meowfia Evolution",
               "desc_text": "Evolve your cats into mafia bosses in this super unique evolution style incremental game. Your cats start at the bottom of the crime family but can slowly evolve into famous cat crime bosses. Save cats from the paper bags and then drag two of the same cats together to evolve them. Purchase upgrades like poop scoops and fish delivery to reach the ultimate Godpurrer cat.",
               "icon": "https://cdn.pokiter.com/html5New/meowfia-evolution/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/meowfia-evolution/index.html",
@@ -3647,7 +4097,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2395,
               "name": "zombie-survival",
-              "sub_name": "",
+              "sub_name": "Zombie Survival",
               "desc_text": "1231231232",
               "icon": "https://cdn.pokiter.com/html5New/zombie-survival/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/zombie-survival/index.html",
@@ -3669,7 +4119,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2374,
               "name": "star-run-3d-new3",
-              "sub_name": "",
+              "sub_name": "Star Run 3d New3",
               "desc_text": "Collect the objects of the same color as you, build your bridge and attempt to reach the finish line first in this fun online game. Be quick as you run around and attempt to 'bop' your opponents to give yourself an advantage.",
               "icon": "https://cdn.pokiter.com/html5New/star-run-3d-new3/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/star-run-3d-new3/index.html",
@@ -3691,7 +4141,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2375,
               "name": "shortcut-run3",
-              "sub_name": "",
+              "sub_name": "Shortcut Run3",
               "desc_text": "Time to race to the finish line. Be the first player to cross the line to win each of the races in this funny online game.",
               "icon": "https://cdn.pokiter.com/html5New/shortcut-run3/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/shortcut-run3/index.html",
@@ -3713,7 +4163,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2376,
               "name": "ultimate-pk",
-              "sub_name": "",
+              "sub_name": "Ultimate Pk",
               "desc_text": "Try to kick goals and save attempts in this ultimate penalty kicking soccer game. Choose your favorite player, then try to win all of your matches to become the champion. Play single player mode or challenge a friend in two player mode. Watch out for fake outs when you are playing as goal keeper.",
               "icon": "https://cdn.pokiter.com/html5New/ultimate-pk/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/ultimate-pk/index.html",
@@ -3800,8 +4250,8 @@ const defaultGamelist: Game[] = [
        },
        {
               "id": 2363,
-              "name": "Among Rescue",
-              "sub_name": "",
+              "name": "AmongRescue",
+              "sub_name": "Among Rescue",
               "desc_text": "The rules of the game are very simple. You analyze the thumbtack and the main thumbtack in the puzzle game situation, consider it carefully, and then decide which thumbtack to pull out. You have completed the challenge of the game. Move to the next level in Pull and Pull games.",
               "icon": "https://cdn.pokiter.com/html5New/Among Rescue/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/Among Rescue/index.html",
@@ -3954,8 +4404,8 @@ const defaultGamelist: Game[] = [
        },
        {
               "id": 2371,
-              "name": "Move The Pin",
-              "sub_name": "",
+              "name": "MoveThePin",
+              "sub_name": "Move The Pin",
               "desc_text": "Pull the pins to help the coloured balls get into the flask. You can turn the grey balls into coloured balls by mixing them together. Watch out for obstacles like bombs! And don't let any grey balls get into the flask or it's game over!",
               "icon": "https://cdn.pokiter.com/html5New/Move The Pin/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/Move The Pin/index.html",
@@ -3976,8 +4426,8 @@ const defaultGamelist: Game[] = [
        },
        {
               "id": 2372,
-              "name": "Sand Truck",
-              "sub_name": "",
+              "name": "SandTruck",
+              "sub_name": "Sand Truck",
               "desc_text": "Sand Truck is an online puzzle game that we hand picked for Lagged.com. This is one of our favorite mobile puzzle games that we have to play. Simply click the big play button to start having fun. If you want more titles like this, then check out Liquid Sort or Laser Maker.",
               "icon": "https://cdn.pokiter.com/html5New/Sand Truck/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/Sand Truck/index.html",
@@ -4394,8 +4844,8 @@ const defaultGamelist: Game[] = [
        },
        {
               "id": 2322,
-              "name": "Tomato Crush",
-              "sub_name": "",
+              "name": "TomatoCrush",
+              "sub_name": "Tomato Crush",
               "desc_text": "The controls of Tomato Crush are supremely simple – all you need to do is tap on the screen. As soon as you see a tomato appear, just tap on it to crush it.",
               "icon": "https://cdn.pokiter.com/html5New/Tomato Crush/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/Tomato Crush/index.html",
@@ -4457,28 +4907,6 @@ const defaultGamelist: Game[] = [
               "create_time": "5/2/2025 09:54:21",
               "isfunny": null,
               "Japanese": "ツーレックス"
-       },
-       {
-              "id": 2325,
-              "name": "Water Sort",
-              "sub_name": "",
-              "desc_text": "Water Sort is a fantastic color water sort puzzle game. Water sort puz is a relaxing color sort puzzle suitable for players of all ages. Many water sort quiz are waiting for you in our color water sort puzzle game!\r\n\r\nIn the water sort color pouring game, your aim is to sort colors by pour water until all the bottle fill with the same color. Color sort puzzle may sound simple, but as you play water sorr, advancing through the levels, these liquid games may be a great challenge water sort puzzle for you. Play water puzzle games, become a water sorter, and will testing your logical thinking and patience as you make",
-              "icon": "https://cdn.pokiter.com/html5New/Water Sort/icon.webp",
-              "html": "https://cdn.pokiter.com/html5New/Water Sort/index.html",
-              "platform": "web",
-              "category": "Strategy",
-              "tags": "",
-              "type": 1,
-              "is_use": "0",
-              "google_play": false,
-              "app_store": "",
-              "other_platform": "",
-              "rating": "4.9",
-              "file_size": "",
-              "screenshots": null,
-              "create_time": "5/2/2025 09:54:21",
-              "isfunny": null,
-              "Japanese": "ウォーターソート"
        },
        {
               "id": 2326,
@@ -5184,6 +5612,7 @@ const defaultGamelist: Game[] = [
               "isfunny": null,
               "Japanese": "ブロックブレイカー"
        },
+
        {
               "id": 2275,
               "name": "brickbreaker",
@@ -6198,9 +6627,9 @@ const defaultGamelist: Game[] = [
        },
        {
               "id": 2234,
-              "name": "Dress Up Gril",
-              "sub_name": "",
-              "desc_text": "DressUpGril is a fun and engaging dress-up game that allows players to express their creativity through fashion. With a wide selection of clothing items, accessories, and styles, players can create unique looks for their virtual models. The game is perfect for those who enjoy fashion and style, and it provides endless hours of enjoyment as you experiment with different combinations to create the perfect outfit.",
+              "name": "DressUpGril",
+              "sub_name": "Dress Up Gril",
+              "desc_text": "Dress Up Gril is a fun and engaging dress-up game that allows players to express their creativity through fashion. With a wide selection of clothing items, accessories, and styles, players can create unique looks for their virtual models. The game is perfect for those who enjoy fashion and style, and it provides endless hours of enjoyment as you experiment with different combinations to create the perfect outfit.",
               "icon": "https://cdn.pokiter.com/html5/DressUpGril/icon.png",
               "html": "https://cdn.pokiter.com/html5/DressUpGril/index.html",
               "platform": "web",
@@ -6265,7 +6694,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2214,
               "name": "BarbieArtisticEyeMakeup",
-              "sub_name": "",
+              "sub_name": "Barbie Artistic Eye Makeup",
               "desc_text": "There is a new beauty shop opened! It`s said that the makeup artist here can design any pattern you want.Barbie can`t wait to have a beautiful eye makeup.Can you help her?Choose your favorite pattern to start the game!Investing can be a powerful tool for achieving your long-term financial goals. However, it requires strategic planning and thoughtful decision-making. That`s where a financial advisor can be invaluable.To start, it`s important to create a financial plan and identify your goals. Retirement planning is a vital aspect of this, ensuring that you have a solid financial foundation for the future. A financial advisor can guide you through the various investment options available, from the stock market and real estate investment to mutual funds and private equity.Budgeting and debt repayment are also important components of financial planning, as is having an emergency fund. Credit history score awareness and risk control measures are crucial.Tax planning and estate planning can help you protect your assets, and insurance can offer additional financial security. Student loans debt repayment options and compound interest should not be overlooked, particularly as interest rates and market trends shift and change.Investment management is essential to managing your money effectively and achieving your goals. A financial advisor can work with you to create a financial Strategy that meets your needs and helps you achieve your financial outcomes. Whether you`re interested in hedge funds, futures trading, commodities trading, or foreign exchange (Forex), a financial advisor can walk you through the process step-by-step and help you make informed decisions.In the world of finance, having a strong understanding of options like credit cards, personal loans, savings accounts, banking, venture capital, Initial Public Offerings (IPOs), and cryptocurrency is also important. Taking the time to develop good money management habits is critical to achieving financial independence and reaching your long-term goals.So whether you`re just beginning your financial journey or you`re a seasoned investor, a financial advisor can offer value and guidance. Don`t hesitate to reach out and start building your path to financial success today.",
               "icon": "https://cdn.pokiter.com/html5/BarbieArtisticEyeMakeup/icon.png",
               "html": "https://cdn.pokiter.com/html5/BarbieArtisticEyeMakeup/index.html",
@@ -7211,7 +7640,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2175,
               "name": "PrincessCandy",
-              "sub_name": "",
+              "sub_name": "Princess Candy",
               "desc_text": "Princess Candy is a wildly addictive match-two puzzle game!",
               "icon": "https://cdn.pokiter.com/html5/PrincessCandy/icon.png",
               "html": "https://cdn.pokiter.com/html5/PrincessCandy/index.html",
@@ -10643,7 +11072,7 @@ const defaultGamelist: Game[] = [
        {
               "id": 2014,
               "name": "EmojiGame",
-              "sub_name": "",
+              "sub_name": "Emoji Game",
               "desc_text": "A new imagination game in which you need to connect pairs of emotions by associations. Think and find the idea of each puzzle. Just tap one by one on the elements from different columns to connect them with a line. Or drag to draw a line and connect elements from different columns. If you correctly connect all the elements, you pass the level. Harder than you think!",
               "icon": "https://cdn.pokiter.com/html5/EmojiGame/icon.png",
               "html": "https://cdn.pokiter.com/html5/EmojiGame/index.html",
@@ -10927,6 +11356,7 @@ const defaultGamelist: Game[] = [
               "Japanese": "ディフェンスを描く"
        }
 ]
+
 
 const actionGames = defaultGamelist.filter(game => game.category === 'Action')
 const puzzleGames = defaultGamelist.filter(game => game.category === 'Puzzle')

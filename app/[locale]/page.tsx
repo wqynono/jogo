@@ -28,7 +28,7 @@ export default function HomePage() {
         <div className="min-h-screen">
           <div className="min-h-screen max-w-12/12 m-0 mx-auto xl:max-w-11/12  ">
             <div className="mx-auto px-4 py-6">
-              <GameGrid gameMobileLength={30} gamePcLength={80} />
+              <GameGrid gameMobileLength={60} gamePcLength={80} />
               {/* <div className="bg-white shadow-md my-4 min-w-[320px]  min-h-[270px] border-1 border-gray-200 rounded-lg ">
                 <span className="text-xs text-gray-500 text-center w-full block bg-gray-200 p-1 ">
                   {t("advertisement")}</span>
