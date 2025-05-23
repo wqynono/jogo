@@ -5,7 +5,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { X, Heart, Clock } from "lucide-react"
 import { motion } from "framer-motion"
-import { useTranslations } from "next-intl"
+import { useTranslations, useLocale } from "next-intl"
 import { getRecentlyPlayedGames } from "@/utils/recently-plyed"
 import { getLikedGames } from "@/utils/like-game"
 import type { Game } from "@/data/game"
@@ -16,6 +16,7 @@ type MyGamesModalProps = {
 }
 
 export default function MyGamesModal({ onClose }: MyGamesModalProps) {
+  const locale = useLocale()
   const t = useTranslations("HomePage")
   const commonT = useTranslations("Common")
   const [activeTab, setActiveTab] = useState<"favorites" | "recent">("favorites")
@@ -92,7 +93,7 @@ export default function MyGamesModal({ onClose }: MyGamesModalProps) {
 
           {activeTab === "favorites" &&
             likedGames.map((game) => (
-              <Link key={`${game.id}`} href={`/game/${game.name}`} className="block group" onClick={onClose}>
+              <Link key={`${game.id}`} href={`/${locale}/game/${game.name}`} className="block group" onClick={onClose}>
                 <div className="relative aspect-square overflow-hidden rounded-lg">
                   <Image
                     src={game.icon || ""}
@@ -111,7 +112,7 @@ export default function MyGamesModal({ onClose }: MyGamesModalProps) {
 
           {activeTab === "recent" &&
             recentGames.map((game) => (
-              <Link key={`${game.id}`} href={`/game/${game.name}`} className="block group" onClick={onClose}>
+              <Link key={`${game.id}`} href={`/${locale}/game/${game.name}`} className="block group" onClick={onClose}>
                 <div className="relative aspect-square overflow-hidden rounded-lg">
                   <Image
                     src={game.icon || ""}

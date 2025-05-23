@@ -2,9 +2,11 @@ import Link from "next/link"
 import Image from "next/image"
 import { useTranslations } from "next-intl"
 import LanguageSelector from "@/components/LanguageSelector"
-import { categoryList } from "@/data/game"
-export default function Footer() {
-
+import { categoryList, defaultGamelist } from "@/data/game"
+export default function Footer({ locale }: { locale: string }) {
+  const arr = ["Ragdoll-hit", "DoodleRoad", "Paperio2", "tanks", "JetpackJump"]
+  const footerGameArr = defaultGamelist.filter((game) => arr.includes(game.name))
+  const recommendGameArr = defaultGamelist.slice(0, 10)
   const t = useTranslations("Footer")
   const homeT = useTranslations("HomePage")
 
@@ -58,22 +60,14 @@ export default function Footer() {
               </p>
               <p>
                 {homeT("popularGamesDesc")}{" "}
-                <Link href="/game/TapRoad" className="text-blue-600 hover:underline">
-                  Tap Road
-                </Link>
-                ,{" "}
-                <Link href="/game/block-blast" className="text-blue-600 hover:underline">
-                  Block Blast
-                </Link>
-                ,{" "}
-                <Link href="/game/ping-pong-go" className="text-blue-600 hover:underline">
-                  Ping Pong go
-                </Link>
-                {" "},
-                <Link href="/game/ronaldo-kickn-run" className="text-blue-600 hover:underline">
-                  Ronaldo Kickn Run
-                </Link>
-                ,{" "}
+
+                {recommendGameArr.map((game) => {
+                  return (
+                    <Link href={`/${locale}/game/${game.name}`} className="text-blue-600 hover:underline">
+                      {game.sub_name || game.name},{" "}
+                    </Link>
+                  )
+                })}
               </p>
             </section>
 
@@ -86,7 +80,7 @@ export default function Footer() {
                 {categoryList.map((category) => {
                   return (
                     <li key={category.name}>
-                      <Link href={category.href} className="text-blue-600 hover:underline">
+                      <Link href={`/${locale}${category.href}`} className="text-blue-600 hover:underline">
                         <span>{tCategories(category.name.toLowerCase())} {homeT("games")}</span>
                       </Link>
                     </li>
@@ -118,28 +112,42 @@ export default function Footer() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col">
             {/* 导航链接 - 移动端两列布局 */}
-            <div className="grid grid-cols-2 gap-x-4 gap-y-2 mb-8">
+            <div className="grid grid-cols-2 gap-x-4 gap-y-5 mb-8">
               <div>
-                <Link href="/top" className="block hover:text-white transition-colors">
-                  {t("topGames")}
-                </Link>
-              </div>
-              <div>
-                <Link href="/privacy" className="block hover:text-white transition-colors">
-                  {t("privacyPolicy")}
-                </Link>
+                <div>
+                  <Link href={`/${locale}/top`} className="block hover:text-white transition-colors">
+                    {t("topGames")}
+                  </Link>
+                </div>
+                <div>
+                  Recommend Games :
+                </div>
+                <div>
+                  {footerGameArr.map((game) => {
+                    return (
+                      <Link href={`/${locale}/game/${game.name}`} className="block hover:text-white transition-colors">
+                        {game.sub_name || game.name}
+                      </Link>
+                    )
+                  })}
+                </div>
               </div>
 
               <div>
-                <Link href="/categorias" className="block hover:text-white transition-colors">
-                  {t("categories")}
-                </Link>
-              </div>
-              <div>
-                <Link href="/about" className="block hover:text-white transition-colors">
+                <Link href={`/${locale}/about`} className="block hover:text-white transition-colors">
                   {t("aboutUs")}
                 </Link>
               </div>
+
+
+              {/* <div>
+                <Link href={`/${locale}/category`} className="block hover:text-white transition-colors">
+                  {t("categories")}
+                </Link>
+              </div> */}
+
+
+
             </div>
 
             {/* 版权信息和语言选择器 */}

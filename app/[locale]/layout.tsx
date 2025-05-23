@@ -24,7 +24,6 @@ export const metadata: Metadata = {
   keywords: siteMetadata.keyWords,
   description: siteMetadata.description,
   authors: [{ name: 'Jbuid' }],
-  themeColor: '#1E3A8A',
   applicationName: 'Jbuid',
   manifest: '/manifest.json',
 
@@ -73,14 +72,14 @@ export const metadata: Metadata = {
   },
 
   alternates: {
-    canonical: 'https://jbuid.com/',
+    canonical: 'https://jbuid.top/',
     languages: {
-      'en': 'https://jbuid.com/en',
-      'ja': 'https://jbuid.com/ja',
-      'ko': 'https://jbuid.com/ko',
-      'zh': 'https://jbuid.com/zh',
-      'ru': 'https://jbuid.com/ru',
-      'x-default': 'https://jbuid.com/en',
+      'en': 'https://jbuid.top/en',
+      'ja': 'https://jbuid.top/ja',
+      'ko': 'https://jbuid.top/ko',
+      'zh': 'https://jbuid.top/zh',
+      'ru': 'https://jbuid.top/ru',
+      'x-default': 'https://jbuid.top/en',
     },
   },
 
@@ -96,7 +95,10 @@ export const metadata: Metadata = {
     },
   },
 }
-
+// 新增 viewport 配置
+export const viewport = {
+  themeColor: '#1E3A8A',
+};
 export default async function LocaleLayout({
   children,
   params
@@ -117,14 +119,13 @@ export default async function LocaleLayout({
       className={`${kanit.variable} scroll-smooth`}
       suppressHydrationWarning
     >
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-000000000000"
-        crossOrigin="anonymous"></script>
+
       <body className="bg-white pl-[calc(100vw-100%)] text-black antialiased dark:bg-gray-950 dark:text-white">
         <NextIntlClientProvider>
           <ThemeProviders>
             <Header />
             <main className="mb-auto">{children}</main>
-            <Footer />
+            <Footer locale={locale} />
           </ThemeProviders>
         </NextIntlClientProvider>
       </body>

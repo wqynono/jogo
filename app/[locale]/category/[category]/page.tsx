@@ -24,7 +24,7 @@ export default async function Category({ params }: any) {
   const t = await getTranslations("HomePage")
   const tCategories = await getTranslations("Categories");
   const tDesc = await getTranslations("CategoriesDesc");
-  const { category } = params;
+  const { category } = await params;
   const gamelist = defaultGamelist.filter((game) => game.category === category)
 
   const jsonLd = {
@@ -48,19 +48,19 @@ export default async function Category({ params }: any) {
         />
       </section>
       <div className="max-w-12/12 m-0 mx-auto xl:max-w-11/12  ">
-        <div className="mx-auto px-4 py-6">
-          <h2 className="text-xl font-bold mb-4 font-sans">
-            {tCategories(params.category.toLowerCase())}
-          </h2>
+        <div className="mx-auto px-4 py-4">
+          <div className="text-2xl font-bold py-2.5 text-[#1E3A8A]">{tCategories(params.category.toLowerCase())}</div>
           <GameGrid gamelist={gamelist} gameMobileLength={gamelist.length} gamePcLength={gamelist.length} adSlot={adConfig.zfx[0]} />
-          <div className="bg-white shadow-md my-4 min-h-[270px] border-1 border-gray-200 rounded-lg ">
+          {/* <div className="bg-white shadow-md my-4 min-h-[270px] border-1 border-gray-200 rounded-lg ">
             <span className="text-xs text-gray-500 text-center w-full block bg-gray-200 p-1">
               {t("advertisement")}</span>
             <AdComponent data-ad-slot={adConfig.hx} data-ad-format={"auto"} data-full-width-responsive={true} />
-          </div>
+          </div> */}
 
           {/* 玩过的游戏 */}
-          <RecentlyPlayedSection />
+          <div className="mt-4">
+            <RecentlyPlayedSection />
+          </div>
         </div>
       </div>
     </div>

@@ -5,7 +5,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { X, HomeIcon as House, LayoutGrid, Sparkles } from "lucide-react"
 import { motion } from "framer-motion"
-import { useTranslations } from "next-intl"
+import { useTranslations, useLocale } from "next-intl"
 import { categoryList } from "../data/game"
 
 type MobileMenuProps = {
@@ -19,6 +19,7 @@ const pages = [
 ]
 
 export default function MobileMenu({ onClose }: MobileMenuProps) {
+  const locale = useLocale()
   const t = useTranslations("Common")
   const menuT = useTranslations("MobileMenu")
   const categoryT = useTranslations("Categories")
@@ -71,7 +72,7 @@ export default function MobileMenu({ onClose }: MobileMenuProps) {
                 transition={{ delay: index * 0.05 }}
               >
                 <Link
-                  href={category.href}
+                  href={`/${locale}${category.href}`}
                   className="flex items-center gap-3 text-white hover:text-blue-200 transition-colors duration-200 py-2"
                   onClick={onClose}
                 >
@@ -91,7 +92,7 @@ export default function MobileMenu({ onClose }: MobileMenuProps) {
                 transition={{ delay: (categoryList.length + index) * 0.05 }}
               >
                 <Link
-                  href={page.href}
+                  href={`/${locale}${page.href}`}
                   className="flex items-center gap-3 text-white hover:text-blue-200 transition-colors duration-200 py-2"
                   onClick={onClose}
                 >

@@ -6,7 +6,7 @@ import Link from "next/link"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 import { Game } from '@/data/game'
 import { useTranslations } from "next-intl"
-
+import { useLocale } from 'next-intl';
 type GameSlideProps = {
   name: string
   games: Game[]
@@ -19,7 +19,7 @@ export default function GameSlide({ name, games, viewAllLink = "" }: GameSlidePr
   const [showRightArrow, setShowRightArrow] = useState(true)
   const [isMobile, setIsMobile] = useState(false)
   const scrollContainerRef = useRef<HTMLDivElement>(null)
-
+  const locale = useLocale();
   useEffect(() => {
     const checkIfMobile = () => {
       setIsMobile(window.innerWidth < 768)
@@ -73,7 +73,7 @@ export default function GameSlide({ name, games, viewAllLink = "" }: GameSlidePr
       {/* 标题和查看更多 */}
       <div className="flex items-center justify-between mb-4">
         <Link
-          href={viewAllLink}
+          href={`/${locale}${viewAllLink}`}
           className="flex items-center gap-2 bg-white text-[#0B459C] px-3 py-1.5 rounded-lg hover:bg-[#0B459C] hover:text-white  transition-colors border-1"
         >
           <span className={`icon iconfont icon-${name} text-xl`}></span>
@@ -103,7 +103,7 @@ export default function GameSlide({ name, games, viewAllLink = "" }: GameSlidePr
         {games.slice(0, 20).map((game) => (
           <Link
             key={`${game.id}`}
-            href={`/game/${game.name}`}
+            href={`/${locale}/game/${game.name}`}
             className="block flex-shrink-0 group hover:scale-105 transition-transform duration-300"
             style={{ width: isMobile ? "calc(40% - 8px)" : "146px" }}
           >

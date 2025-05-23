@@ -6,13 +6,14 @@ import Image from "next/image"
 import Link from "next/link"
 import { Search, Heart, Menu, X } from "lucide-react"
 import { AnimatePresence, motion } from "framer-motion"
-import { useTranslations } from "next-intl"
+import { useTranslations, useLocale } from "next-intl"
 import SearchModal from "./search-modal"
 import MobileMenu from "./mobile-menu"
 import MyGamesModal from "./my-games-modal"
 import GameCategories from "./game-categories"
 
 export default function Header() {
+  const locale = useLocale()
   const t = useTranslations("HomePage")
   const [isSearchOpen, setIsSearchOpen] = useState(false)
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
@@ -95,7 +96,7 @@ export default function Header() {
             className={`container  mx-auto px-4 py-3 flex items-center justify-between  ${isMobile && isSearchOpen ? "fixed top-0 left-0 w-full z-40 bg-white" : "z-auto"}`}
           >
             <div className={`${isMobile && isSearchOpen ? "hidden" : "block"} `}>
-              <Link href="/" className="flex items-center">
+              <Link href={`/${locale}`} className="flex items-center">
                 <div className="relative w-12 mr-2 h-10">
                   <Image
                     src="/logo.svg"
@@ -109,7 +110,7 @@ export default function Header() {
               </Link>
             </div>
             <div className="hidden md:flex items-center space-x-4">
-              <Link href="/top" className="text-gray-700 hover:text-blue-500 transition-colors duration-200">
+              <Link href={`/${locale}/top`} className="text-gray-700 hover:text-blue-500 transition-colors duration-200">
                 {t("topGames")}
               </Link>
               <span className="text-gray-400">•</span>
@@ -151,7 +152,7 @@ export default function Header() {
                     </button>
                   )}
                   <Link
-                    href={`${searchQuery ? `/search/${encodeURIComponent(searchQuery)}` : "#"}`}
+                    href={`${searchQuery ? `/${locale}/search/${encodeURIComponent(searchQuery)}` : "#"}`}
                     className="absolute right-0 top-0 h-full px-3 flex items-center justify-center bg-[#5f9915] rounded-r-full"
                   >
                     <Search className="w-5 h-5 text-white" />

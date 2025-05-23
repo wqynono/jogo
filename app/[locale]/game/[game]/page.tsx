@@ -1,7 +1,6 @@
 import { getTranslations } from "next-intl/server"
 // import AdComponent from "@/components/ad"
 import { type Game, defaultGamelist } from "@/data/game"
-import adConfig from "@/data/adConfig"
 import React from "react"
 import Link from "next/link"
 import Image from "next/image"
@@ -13,21 +12,55 @@ import ReactMarkdown from "react-markdown"
 import type { Metadata } from "next"
 import GameScreenshotsCarousel from "@/components/game-screenshots-carousel"
 type Props = {
-  params: Promise<{ game: string }>
+  params: Promise<{ locale: string, game: string }>
 }
+
+export async function generateStaticParams() {
+  const locales = ['en', 'ja', 'ko', 'zh', 'ru']; // 支持的语言列表
+
+  return defaultGamelist.flatMap((game) =>
+    locales.map((locale) => ({
+      game: game.name,
+      locale,
+    }))
+  );
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { game } = await params
+  const { game, locale } = await params
   const gameDetail: Game = defaultGamelist.find((item) => item.name === game) as Game
   if (gameDetail.google_play) {
     return {
       title: gameDetail?.title ? gameDetail?.title : (gameDetail.sub_name || gameDetail.name) + `Download Enemy ${gameDetail.sub_name || gameDetail.name} for Android | ${gameDetail.sub_name || gameDetail.name}  Mod APK `,
       description: gameDetail?.meta_desc ? gameDetail?.meta_desc : `Download ${gameDetail.sub_name || gameDetail.name} for Android and dive into intense FPS action! Get the latest version of ${gameDetail.sub_name || gameDetail.name} game and enjoy unlimited money and gold with our mod APK. Fight enemies, complete missions, and become a hero in this thrilling ${gameDetail.category} game!`,
+      alternates: {
+        canonical: `${siteMetadata.siteUrl}/${locale}/game/${game}`,
+        languages: {
+          'en': `${siteMetadata.siteUrl}/en/game/${game}`,
+          'ja': `${siteMetadata.siteUrl}/ja/game/${game}`,
+          'ko': `${siteMetadata.siteUrl}/ko/game/${game}`,
+          'zh': `${siteMetadata.siteUrl}/zh/game/${game}`,
+          'ru': `${siteMetadata.siteUrl}/ru/game/${game}`,
+          'x-default': `${siteMetadata.siteUrl}/en/game/${game}`,
+        },
+      },
     }
   } else {
 
     return {
       title: gameDetail.title || (gameDetail.sub_name || gameDetail.name) + ` - Free Online Anime ${gameDetail.category} Game | Play Instantly on JBUID`,
       description: gameDetail.meta_desc || `Play ${gameDetail.sub_name || gameDetail.name} instantly in your browser, with no download or ads.Enjoy this fun anime-themed ${gameDetail.category} game with simple controls on mobile and desktop`,
+      alternates: {
+        canonical: `${siteMetadata.siteUrl}/${locale}/game/${game}`,
+        languages: {
+          'en': `${siteMetadata.siteUrl}/en/game/${game}`,
+          'ja': `${siteMetadata.siteUrl}/ja/game/${game}`,
+          'ko': `${siteMetadata.siteUrl}/ko/game/${game}`,
+          'zh': `${siteMetadata.siteUrl}/zh/game/${game}`,
+          'ru': `${siteMetadata.siteUrl}/ru/game/${game}`,
+          'x-default': `${siteMetadata.siteUrl}/en/game/${game}`,
+        },
+      },
     }
   }
 }
@@ -60,7 +93,7 @@ export default async function Name({
 }) {
   const t = await getTranslations("HomePage")
   const categoryT = await getTranslations("Categories")
-  const { game } = await params
+  const { game, locale } = await params
   const gameDetail: Game = defaultGamelist.find((item) => item.name === game) as Game
   const commonJsonLd = {
     "@context": "https://schema.org",
@@ -198,7 +231,7 @@ export default async function Name({
                   <React.Fragment key={String(game.id)}>
                     {/* 正常渲染游戏卡片 */}
                     <div className="game-card">
-                      <Link href={`/game/${game.name}`} className="block group w-full h-full">
+                      <Link href={`/${locale}/game/${game.name}`} className="block group w-full h-full">
                         <div className="relative aspect-square overflow-hidden rounded-lg w-full h-full">
                           <Image
                             src={game.icon || "/placeholder.svg"}
@@ -291,7 +324,7 @@ export default async function Name({
 
                   {/* 游戏标题和副标题 */}
                   <div className="relative z-10 h-full flex flex-col justify-center p-4 sm:p-6">
-                    <h1 className="text-xl sm:text-2xl font-bold text-lime-400 w-max">{(gameDetail as Game).sub_name ? (gameDetail as Game).sub_name : (gameDetail as Game).name}</h1>
+                    <div className="text-xl sm:text-2xl font-bold text-lime-400 w-max">{(gameDetail as Game).sub_name ? (gameDetail as Game).sub_name : (gameDetail as Game).name}</div>
                     {gameDetail.platform && <h2 className="text-xs sm:text-sm px-2 py-1 mx-1 text-white">Platforms: {gameDetail.platform}</h2>}
                     <div className="flex flex-wrap justify-start text-sm sm:text-base text-white mt-1">
                       {
@@ -315,7 +348,7 @@ export default async function Name({
                 </div>
 
                 {/* 游戏描述 */}
-                <div className="p-4 sm:p-6">
+                <div className="p-4 sm:p-6 game-desc-container">
                   {(gameDetail as Game).screenshots && (
                     <div>
                       <h2 className="text-lg sm:text-xl font-semibold text-gray-800 mb-3">
@@ -330,6 +363,19 @@ export default async function Name({
 
                   <div>
                     <MarkdownRenderer content={(gameDetail as Game).desc_text || ""} />
+                    <h2 className="text-xl font-semibold mt-6 mb-2">
+                      Similar Games:
+                      <div>
+                        <div className="flex flex-wrap justify-start text-sm sm:text-base  mt-1">
+                          <p className="mr-3">If you enjoy the {gameDetail?.category} game of {(gameDetail as Game).sub_name || (gameDetail as Game).name}, you might also love these exciting titles that each bring a unique twist to classic gaming.</p>
+                          {categoryGame.slice(0, 7).map((game, index) => {
+                            return (
+                              <Link key={index} href={`/${locale}/game/${game.name}`} className="text-blue-600 hover:underline mr-3">{game.sub_name || game.name}{index < 2 && ","}</Link>
+                            )
+                          })}
+                        </div>
+                      </div>
+                    </h2>
 
                   </div>
                   {/* Game Screenshots Carousel */}
@@ -356,10 +402,15 @@ export default async function Name({
                         }
                         <h2 className="text-lg sm:text-xl font-semibold text-gray-800 mb-3"></h2>
                       </div>
-                      <div className='w-full ml-0 mt-4 lg:w-[600px] flex-none lg:ml-6 lg:mt-0' >
-                        <h2 className="text-lg sm:text-xl font-semibold text-gray-800 mb-3">Featured Videos </h2>
-                        <iframe className='w-full' height={315} src={(gameDetail as Game).videoEmbedUrl} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-                      </div>
+                      {
+                        (gameDetail as Game).videoUrl && (
+                          <div className='w-full ml-0 mt-4 lg:w-[600px] flex-none lg:ml-6 lg:mt-0' >
+                            <h2 className="text-lg sm:text-xl font-semibold text-gray-800 mb-3">Featured Videos </h2>
+                            <iframe className='w-full' height={315} src={(gameDetail as Game).videoEmbedUrl} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+                          </div>
+                        )
+                      }
+
                     </div>
                   </div>
                 )

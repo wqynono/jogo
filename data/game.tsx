@@ -34,6 +34,106 @@ type Game = {
 
 const defaultGamelist: Game[] = [
        {
+              "id": 2361,
+              "name": "super-oliver-world",
+              "sub_name": "Super Oliver World Unblocked",
+              "desc_text": "# Super Oliver World Unblocked Online: Play the Ultimate Free Platform Action Game\n\n## 🎮 Game Description\n**Super Oliver World unblocked online** is a fast-paced and colorful **platform action game** that brings back the magic of classic side-scrollers. You control Oliver, a brave adventurer navigating through dangerous terrains filled with enemies, traps, and mystery blocks. This **super oliver world free online** version lets you play instantly at school, work, or anywhere access is normally restricted.\n\nIf you're a fan of old-school action games or enjoyed titles like **Super Oliver World 2**, this game delivers hours of exciting platforming gameplay. Whether you're dodging fireballs, jumping over pits, or collecting power-ups, **Super Oliver World Game** blends nostalgia with fast-paced fun.\n\n## 🧠 Strategy Games Aspect\nWhile action is the core, **Super Oliver World unblocked** includes strategic elements. You’ll need to time your jumps perfectly, master enemy patterns, and plan your moves carefully. Each level ramps up in difficulty, requiring both skill and forethought to win.\n\n## 🗓️ Release Date\nThe original version of **Super Oliver World** was released in **2023**, and quickly became popular in the browser game community. The unblocked and **super oliver world online** editions gained traction among students and casual gamers looking for easy, instant access.\n\n## 👨‍💻 Developer\nCreated by a passionate indie team, **Super Oliver World** is a tribute to retro platformers. The developers continue to support the **Super Oliver World unblocked** version to ensure a smooth, fun experience across all platforms.\n\n## 💻 Platform\n**Super Oliver World free online** is fully browser-based and requires no installation. It runs smoothly on desktop, laptop, Chromebook, tablet, and mobile devices, making it ideal for gaming on the go. All you need is an internet connection and a modern web browser.\n\n## 🛠️ Last Updated\nThe latest update was released in **March 2025**, improving game performance, fixing minor bugs, and enhancing user controls for a better unblocked experience.\n\n## 🎮 Controls\n- **Arrow Keys** – Move Oliver left or right  \n- **Up Arrow / W** – Jump  \n- **Down Arrow / S** – Crouch or enter pipes  \n- **Spacebar** – Perform actions or use abilities\n\nThe simple and responsive control scheme makes **Super Oliver World unblocked** enjoyable for players of all ages. Jump in now and play **Super Oliver World online** for free – no downloads, no sign-ups, just pure platform action!\n",
+              "icon": "https://cdn.pokiter.com/html5New/super-oliver-world/icon.webp",
+              "html": "https://cdn.pokiter.com/html5New/super-oliver-world/index.html",
+              "platform": "web",
+              "category": "Action",
+              "tags": "",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.9",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "21/5/2025 09:54:24",
+              "isfunny": "1",
+              "Japanese": null,
+              "title": "Play Super Oliver World Unblocked Online – Classic Action Fun! Jbuid",
+              "meta_desc": "Play Super Oliver World unblocked – a fast-paced platform action game you can enjoy anywhere without restrictions. Explore colorful levels, defeat enemies, and relive retro adventure fun online!",
+              "FAQS": [
+                     {
+                            "question": "Q: What is Super Oliver World Unblocked?",
+                            "answer": "A: Super Oliver World Unblocked is a free, browser-based 2D side-scrolling platform game where players control Oliver as he navigates through various levels filled with traps, enemies, and collectibles. The unblocked version allows access from school or work networks without restrictions."
+                     },
+                     {
+                            "question": "Q: How do I play Super Oliver World Unblocked?",
+                            "answer": "A: Use the arrow keys or A/D to move left and right, W/Z or the up arrow to jump, and X/J to shoot. The game is compatible with modern web browsers on desktop and mobile devices."
+                     },
+                     {
+                            "question": "Q: What platforms support Super Oliver World Unblocked?",
+                            "answer": "A: The game is playable directly in web browsers on desktops, laptops, tablets, and smartphones, including Chrome, Firefox, Safari, and Edge."
+                     },
+                     {
+                            "question": "Q: Are there different levels and worlds in Super Oliver World?",
+                            "answer": "A: Yes, the game features multiple themed worlds, each containing several levels with unique challenges, enemies, and hidden areas to explore."
+                     },
+                     {
+                            "question": "Q: What power-ups are available in the game?",
+                            "answer": "A: Players can collect various power-ups, such as mushrooms to grow in size, fire flowers to shoot fireballs, invincibility stars, and other unique items to enhance abilities and access secret areas."
+                     }
+              ],
+
+              "videoUrl": "https://youtu.be/ExtaR-f1CfA?si=atSqXHLN3QOmHmvp",
+              "videoEmbedUrl": "https://www.youtube.com/embed/ExtaR-f1CfA?si=dmOV9g3elgKGQ4Rd",
+              "videoThumbnail": "https://img.youtube.com/vi/ExtaR-f1CfA/maxresdefault.jpg",
+              "review": "Super Oliver World is a delightful browser-based platformer that captures the essence of classic side-scrolling games. With its vibrant pixel art, responsive controls, and engaging level designs, it offers an enjoyable experience for players of all ages. The game's accessibility—requiring no downloads and playable on various devices—makes it a convenient choice for quick gaming sessions. Whether you're navigating through whimsical levels or collecting power-ups, Super Oliver World Unblocked delivers a nostalgic yet fresh adventure."
+
+
+
+       },
+       {
+              "id": 15,
+              "name": "crazy-flips-3d",
+              "sub_name": "Crazy Flips 3D",
+              "desc_text": "# 🎯  Play Free Parkour Flip Game Online – Crazy Flips 3D \n\n## 🕹️ Crazy Flips 3D is not just another parkour game\n\n It's a test of **timing, physics, and aerial control**.\n\nStep into the shoes of a fearless athlete, leap off extreme heights, and execute **multiple flips** in mid-air before landing with perfect precision. Each level challenges your ability to calculate momentum, adjust your rotation speed, and land cleanly on narrow platforms, moving objects, or bouncing pads.\n\n> 💡 Designed for both quick casual plays and skill-based progression, Crazy Flips 3D is the perfect browser game for players who love **precision flips and parkour-style acrobatics**.\n\n## 🌟 Key Features\n\n- ✅ **Physics-based flipping** with real inertia, speed, and momentum  \n- ✅ **One-tap control**, but deep mastery curve for chaining flips  \n- ✅ **Progressive level difficulty** – from rooftop jumps to mid-air hoops  \n- ✅ **Play Crazy Flips 3D unblocked** at school, work, or on the go  \n- ✅ **Runs smoothly on mobile, tablet, Chromebook, and PC**  \n- ✅ **No download, no login, no ads** – instant gameplay anytime\n\n## 🎯 Gameplay Mechanics & Tips\n\nCrazy Flips 3D looks simple—but real pros know it's all about rhythm and aerial calculation.\n\n### 🔄 Core Mechanics\n\n- **Tap to jump** from the platform  \n- **Hold** to begin rotating mid-air  \n- **Release** at the right moment to straighten your body and **land cleanly**\n\n### 🎓 Pro Tips\n\n- 🌀 **More airtime = more flips = more points**, but also more risk  \n- 🧠 Master your **rotation timing** — early release leads to faceplants  \n- 📏 Watch for **slopes or bouncy pads** — they change your landing behavior  \n- 🚀 Try **back-to-back flips** in combo levels for bonus scores  \n- 🎮 Replay earlier levels to perfect your technique before progressing\n\n## 🔍 Keywords & Related Searches\n\n- crazy flips 3d game online  \n- crazy flips 3d unblocked free  \n- crazy flip 3d parkour  \n- flipping parkour game browser  \n- rope stunt alternative game  \n- no ads physics flip game  \n- best stunt flip game for Chromebook  \n- parkour jump landing challenge  \n- flipping stunt arcade no download  \n- games like Backflip Dive 3D\n\n## 🎮 You Might Also Like     \n\nIf you enjoy Crazy Flips 3D, don’t miss these action-packed browser games:\n\n- **[Flip Master](https://jbuid.top/en/game/flip-master)** – trampoline flip simulator enjoy Like  \n- **[Stickman Hook](https://jbuid.top/en/game/StickmanHook)** – rope swing physics action  \n- **[Ragdoll Fall](https://jbuid.top/en/game/Ragdoll-hit)** – chaotic physics and falling fun\n\n✅ *Flip, spin, and stick the landing in Crazy Flips 3D — only on Jbuid.top, your home for casual unblocked games built for fun.*",
+              "icon": "https://imgs.crazygames.com/games/crazy-flips-3d/cover_16x9-1717520212223.png?metadata=none&quality=70&width=587.5",
+              "html": "https://www.crazygames.com/embed/crazy-flips-3d",
+              "platform": "web",
+              "category": "Action",
+              "tags": "3D, flip, parkour, stunt, free, online, no download",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.9",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "21/5/2025 09:54:24",
+              "isfunny": "1",
+              "Japanese": null,
+              "title": "Crazy Flips 3D - Play Free Parkour Flip Game Online | Jbuid.top",
+              "meta_desc": "Jump, flip, and land like a pro in Crazy Flips 3D! Experience thrilling parkour stunts in this free online 3D flipping game. No download, no ads—just pure fun!",
+              "FAQS": [
+                     {
+                            "question": "Q: What is Crazy Flips 3D?",
+                            "answer": "A: Crazy Flips 3D is a free online parkour flip game where you perform crazy stunts like backflips and frontflips in 3D. No download or registration required—just open and play!"
+                     },
+                     {
+                            "question": "Q: Is Crazy Flips 3D safe for kids?",
+                            "answer": "A: Yes, Crazy Flips 3D is completely safe for kids to play. The game features simple controls and kid-friendly graphics without any violence, inappropriate content, or chat functions. It is designed as a fun and wholesome parkour flipping game suitable for players of all ages. Parents can feel confident letting their children enjoy Crazy Flips 3D because it runs directly in the browser with no downloads or in-app purchases, minimizing risks. This makes it a perfect safe online game for kids looking for entertaining and skill-based gameplay without exposure to ads or harmful material."
+                     },
+                     {
+                            "question": "Q: Do I need to download Crazy Flips 3D?",
+                            "answer": "A:No, you do not need to download Crazy Flips 3D to play. This exciting parkour flip game runs entirely in your web browser, so you can jump, flip, and land without installing any software. Playing online means you can access the game instantly from any device—whether it’s a PC, smartphone, or tablet. There are no downloads, no complicated setups, and no additional apps required. Just visit the website, start the game, and enjoy smooth, fast-paced 3D flipping action anytime, anywhere, without worrying about storage space or device compatibility."
+                     }
+              ],
+
+              "videoUrl": "https://youtu.be/vQbP6rezGZk?si=rwNzHnAmz1IdwyiR",
+              "videoEmbedUrl": "https://www.youtube.com/embed/vQbP6rezGZk?si=rwNzHnAmz1IdwyiR",
+              "videoThumbnail": "https://img.youtube.com/vi/vQbP6rezGZk/maxresdefault.jpg",
+              "review": "Crazy Flips 3D is an exhilarating parkour flipping game that delivers smooth controls and exciting 3D graphics. The gameplay is simple yet challenging, requiring precise timing to perform flips and land perfectly. It’s perfect for players looking for quick fun without complicated mechanics or downloads. The game runs seamlessly in browsers on both desktop and mobile devices, making it highly accessible. With no ads or distractions, Crazy Flips 3D offers pure entertainment and skill-based gameplay. Whether you’re a casual gamer or a parkour enthusiast, this game provides endless fun and thrills."
+
+
+
+       },
+       {
               "id": 2,
               "name": "RichGirlMallShoppingGame",
               "sub_name": "Rich Girl Mall Shopping Game",
@@ -53,7 +153,7 @@ const defaultGamelist: Game[] = [
               "rating": "4.3",
               "file_size": "",
               "screenshots": ["https://cdn.pokiter.com/google/Rich Girl Mall - Shopping Game/screenshots/screenshot-2.png", "https://cdn.pokiter.com/google/Rich Girl Mall - Shopping Game/screenshots/screenshot-4.png", "https://cdn.pokiter.com/google/Rich Girl Mall - Shopping Game/screenshots/screenshot-5.png", "https://cdn.pokiter.com/google/Rich Girl Mall - Shopping Game/screenshots/screenshot-6.png", "https://cdn.pokiter.com/google/Rich Girl Mall - Shopping Game/screenshots/screenshot-7.png"],
-              "create_time": "14/1/2025 17:50:51 ",
+              "create_time": "21/5/2025 17:50:51 ",
               "isfunny": "1",
               "Japanese": null,
               "desc_text": "## 💎 Rich Girl Mall Shopping Game Guide\n\nWelcome to the fabulous world of 💖 **rich girl mall shopping game**! If you're dreaming of glam outfits, VIP treatments, and endless fashion fun, you've come to the right place. Whether you're looking for a **rich girl crazy shopping fashion game**, **shopping mall girl game download for pc**, or the ultimate **rich girl mall mod apk**, this is your fashion paradise!\n\n## \n\n## 🌟 Game Highlights\n\n- Shop at the fanciest mall where only the richest of the rich shop 👗\n- Be styled by your very own personal stylist 👛\n- Full makeovers, new hairstyles, and endless glam 💅\n- Fashion show competitions with themes and big rewards 🏆\n- Fun minigames and personalized experiences 🕹️\n- Great for those searching **shopping mall girl game download for pc**\n- Available as a top-rated **rich girl mall mod apk** 💼\n\nIf you're ready to live the high life, don't wait! Dive into the world of luxury and become the ultimate **mall girl** in this dazzling **shopping mall game** experience. ✨👑\n\n## 📖 Step-by-Step Game Guide\n\n### Step 1: Start Your Glamorous Journey. Click the “Play” button to enter the dazzling shopping center.\nSome versions allow you to choose a character—pick your favorite girl and begin your fashion adventure!\n\n### Step 2: Beauty and Makeup\nGo to the beauty store for a facial treatment to keep your skin glowing.\nThen pick your eyeshadow, lipstick, hairstyle, and more to create your perfect glam look.\n\n### Step 3: Shopping and Styling\nVisit clothing stores, shoe shops, and accessory boutiques.\nTry on your favorite pieces and purchase what you like.\nMix and match styles—from sweet and cute to bold and edgy, the choice is yours.\n\n### Step 4: Earn Coins\nComplete daily tasks or join mini-games to earn coins.\nUse them to unlock more outfits, accessories, and limited-edition items to expand your wardrobe.\n\n### Step 5: Show Off Your Style\nOnce your look is ready, click “Finish” to present it.\nYou'll receive a score for your outfit, and you can save or share your stylish look with friends.\n\n### Bonus Features\n- Fashion Contests: Compete with players worldwide to win amazing prizes\n- Daily Sign-ins: Log in every day to claim coins and beauty items\n- Seasonal Events: Join limited-time events to collect special outfits and decorations\n\nReady to become the ultimate fashion queen? Start your glamorous journey now!",
@@ -99,7 +199,7 @@ const defaultGamelist: Game[] = [
               "rating": "4.3",
               "file_size": "",
               "screenshots": null,
-              "create_time": "26/3/2025 17:50:51",
+              "create_time": "21/5/2025 17:50:51",
               "isfunny": "1",
               "Japanese": null,
               "desc_text": "## Tap Road Game Guide\n\n**Tap Road** is an exciting, endless running game. If you are looking for *Tap Road unblocked*, *Tap Road io*, or *Tap Road AZ games*, this is the place for you! The game features simple controls and fast-paced gameplay where you must guide a ball through a neon-lit road filled with obstacles.\n\nThe main goal is to go as far as possible while collecting gems along the way. Each gem you collect increases your score and helps unlock new features. The longer you play, the harder it gets, so quick reflexes are essential.\n\n## What is Tap Road?\n\n**Tap Road game** is an endless runner that challenges you to control a rolling ball by tapping to switch lanes. The game starts simple but ramps up quickly in difficulty, making it a fun challenge. It’s the perfect game to improve your reflexes and compete for the highest score.\n\n## How to Play\n\n### Control the Ball\n\nYou control the ball by tapping or clicking to switch lanes. The ball rolls automatically, and your task is to avoid obstacles and collect gems while the speed increases. Early on, the ball moves slowly, giving you time to get used to the controls.\n\n### Overcome Obstacles\n\nObstacles like sharp edges will end your game immediately if you crash into them. As the game progresses, the obstacles become more frequent and harder to avoid, requiring quick thinking and fast reactions.\n\n### Collect Gems\n\nGems appear along the road and can be collected to increase your score and unlock new features. Be cautious, as some gems are placed near obstacles, which can make collecting them dangerous.\n\n### Customize the Ball and Track\n\nUse the gems you collect to unlock customizations, including changing the appearance of the ball or the track. Personalizing your game makes each playthrough unique.\n\n### Controls\n\nTap or click to switch lanes. Avoid obstacles, collect gems, and try to get as far as possible!\n\n## Tips to Get High Scores in Tap Road Game\n\n- **Practice regularly**: The more you play, the better your reflexes and score will become.\n- **Stay focused**: Keep an eye on the road and obstacles to avoid crashing.\n- **Collect as many gems as possible**: Gems unlock important upgrades and customizations.\n\n## Key Characteristics\n\n- Simple tap controls for quick gameplay.\n- Endless gameplay with increasing difficulty.\n- Neon-lit 3D graphics and immersive sound effects.\n- Leaderboards to compare your scores with friends and players worldwide.\n- Free to play with no downloads required.\n\nStart playing **Tap Road unblocked** today and test your reflexes in this exciting game.\n",
@@ -159,7 +259,7 @@ const defaultGamelist: Game[] = [
               "rating": "4.9",
               "file_size": "",
               "screenshots": null,
-              "create_time": "26/3/2025 17:50:51",
+              "create_time": "21/5/2025 17:50:51",
               "isfunny": "1",
               "Japanese": "",
               "FAQS": [
@@ -189,12 +289,12 @@ const defaultGamelist: Game[] = [
               "id": 2505,
               "name": "block-blast",
               "sub_name": "Block Blast",
-              "desc_text": "\"Block Blast\" is a free and popular block puzzle game that is your best choice when you want to pass the casual time and challenge your brain. The goal of this block puzzle game is easy yet fun: match and clear as many colored blocks as possible on the board.",
+              "desc_text": "# Block Blast: A Strategic Block-Blasting Adventure\n\n## 🗺️Quick Overview of the Game\nBlock Blast is a captivating strategy game that combines the thrill of block - breaking with strategic planning. It's designed to keep players engaged with its challenging levels and unique gameplay. In this game, players are presented with a grid of blocks, and the goal is to blast specific blocks in a way that leads to a chain reaction, clearing as many blocks as possible.\n\n## 🤔 How to Play + Game Mechanics\nThe mechanics of Block Blast are straightforward yet require strategic thinking. To start, you simply tap or click on a block. Once you select a block, it will blast, and any adjacent blocks of the same color will also be removed. The more blocks you clear in one blast, the higher your score. As you progress through the levels, new obstacles and challenges will appear. For example, some blocks may be locked and require special power - ups to remove. These power - ups can be earned by achieving high scores or through in - game purchases.\n\n## 🌟 Key Features and Unique Highlights\nOne of the most appealing aspects of Block Blast is that it's free to play. You can access it online without any downloads on web browsers. Additionally, it has a mobile - friendly version, allowing you to play on the go. The game also features regular updates, adding new levels, power - ups, and challenges to keep the gameplay fresh and exciting. There are leaderboards where you can compete with other players around the world, adding a competitive edge to the experience.\n\n## 📱 Supported Platforms and Devices\nBlock Blast is a browser - based game, which means you can play it on any device with an internet connection and a modern web browser. Whether you're using a desktop computer, laptop, tablet, or smartphone, you can easily access and enjoy the game. The mobile version is optimized for touch - screen controls, providing a seamless gaming experience on iOS and Android devices.\n\n## ✨ Recommended Games Similar to [Game Name]\nIf you enjoy Block Blast, you might also like other strategy games such as [Link to 'Puzzle Tower Strategy']. Puzzle Tower Strategy is another game that involves strategic decision - making to clear a tower of blocks. Another great option is [Link to 'Colorful Block Tactics'], where you use color - matching strategies to blast blocks and achieve high scores.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Block Blast, it's important to plan your moves carefully. Look for opportunities to create large chain reactions by targeting blocks that are connected to many others of the same color. Also, save your power - ups for difficult levels. The game developers frequently release updates, which may include bug fixes, new levels, and improved graphics. Keep an eye on the in - game announcements to stay informed about the latest changes.",
               "icon": "https://cdn.pokiter.com/html5New/block-blast/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/block-blast/index.html",
               "platform": "web,Mobile",
               "category": "Strategy",
-              "tags": "",
+              "tags": "block blast strategy game,free strategy game online,web based strategy game,mobile strategy game,block blast gameplay",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -205,7 +305,31 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:51",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Block Blast: An Exciting Strategy Game for Web and Mobile",
+              "meta_desc": "Dive into the world of Block Blast, a thrilling strategy game available on web and mobile. Blast blocks, strategize your moves, and enjoy endless fun!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Block Blast free to play?",
+                            "answer": "A: Yes, Block Blast is completely free to play. You can access it online on your web browser or mobile device without any upfront cost."
+                     },
+                     {
+                            "question": "Q: Can I play Block Blast on my mobile phone?",
+                            "answer": "A: Absolutely! Block Blast has a mobile - friendly version that is optimized for both iOS and Android devices. You can play it on the go with touch - screen controls."
+                     },
+                     {
+                            "question": "Q: How do I increase my score in Block Blast?",
+                            "answer": "A: To increase your score, try to create large chain reactions by blasting blocks that are connected to many others of the same color. The more blocks you clear in one blast, the higher your score will be."
+                     },
+                     {
+                            "question": "Q: Are there any power - ups in Block Blast?",
+                            "answer": "A: Yes, there are power - ups in Block Blast. You can earn them by achieving high scores or through in - game purchases. These power - ups can help you remove locked blocks and clear more blocks in a single move."
+                     },
+                     {
+                            "question": "Q: How often are new levels added to Block Blast?",
+                            "answer": "A: The game developers regularly release updates that include new levels, power - ups, and challenges. Keep an eye on the in - game announcements for the latest information."
+                     }
+              ]
        },
        {
               "id": 3,
@@ -258,8 +382,8 @@ const defaultGamelist: Game[] = [
               "id": 1,
               "name": "BlumgiSlime",
               "sub_name": "Blumgi Slime",
-              "title": "Blumgi Slime - Free Physics Platformer | Slime Games | Jbuid.top",
-              "meta_desc": "Play Blumgi Slime free online - the vibrant platformer where you control a bouncy slime through creative levels. With elastic movement, puzzle solving, and power-ups, it's one of the best slime games available. Perfect for fans of skill games, arcade games, and difficult games that work on both mobile and web!",
+              "title": "Blumgi Slime - Free Physics & Slime Games | Jbuid.top",
+              "meta_desc": "Play Blumgi Slime free online — a fun slime platformer with elastic physics, puzzles, power-ups, and local multiplayer Works great on both mobile and web!",
 
               "icon": "https://cdn.pokiter.com/html5New/blumgi-slime/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/blumgi-slime/index.html",
@@ -277,7 +401,7 @@ const defaultGamelist: Game[] = [
               "create_time": "26/3/2025 17:50:51",
               "isfunny": "1",
               "Japanese": null,
-              "desc_text": "## 🎮 Introduction to Blumgi Slime\n*Blumgi Slime* is a vibrant and engaging platformer that combines strategic thinking 🤔 with dynamic movement 🏃‍♂️. Players control a playful, gelatinous slime, navigating through creatively designed levels filled with obstacles, puzzles, and hidden secrets 🗝️. It’s one of the best *Slime Games* you can play online, and if you're looking for an exciting *Puzzle* experience, *Blumgi Slime* fits perfectly! Whether you're in the mood for *Mobile Games* or *Web* games, this game delivers. With intuitive controls and physics-based mechanics, it’s easy to pick up but hard to put down!\n## 🧪 Core Mechanics\n- **Elastic Movement** 🦘: \n  - Jumping & Sticking: Leap across gaps and cling to walls, ceilings, and platforms\n  - Momentum-Based Physics: Enjoy fluid, slingshot-like jumps and bouncy interactions\n- **Puzzle Solving** 🧩: \n  - Manipulate switches, trampolines, and destructible blocks\n  - Solve timing-based challenges using the slime's adhesive properties\n- **Upgrades & Power-Ups** ⚡: \n  - Unlock double jumps, dash moves and more\n  - Collect temporary boosts like speed and invincibility\n## 🌈 Key Features\n- **Visuals & Animation** 🎨: \n  - Bright, cartoon-style graphics with squishy animations\n  - Dynamic, interactive environments\n- **Sound & Music** 🎵: \n  - Upbeat, adaptive soundtrack\n  - Satisfying sound effects for every action\n- **User Experience** 👆: \n  - Simple tap/hold controls with customization\n  - Clean, distraction-free UI\n- **Replayability** 🔄: \n  - Time trials and hidden challenges\n  - Global leaderboards for competitive play\n## 🏆 Solo Games? Whether you enjoy *PvP Games* or prefer *Solo Games*, *Blumgi Slime* offers an experience that can fit both play styles. Test your skills in this *Difficult Game* and join global leaderboards, or just have fun enjoying the colorful world at your own pace.\n### 🏅 Conclusion\n*Blumgi Slime* is one of the *Popular Games* that blends platforming with puzzle-solving in a colorful, physics-driven world 🌍. With its increasing difficulty and fun mechanics, it offers lasting appeal for players of all skill levels. New players and experienced gamers alike will find enjoyment in this *New Game*. Don't miss out!",
+              "desc_text": "## 🎮 Introduction to Blumgi Slime:A vibrant and engaging platformer  \n\n  🤔 with dynamic movement 🏃‍♂️. Players control a playful, gelatinous slime, navigating through creatively designed levels filled with obstacles, puzzles, and hidden secrets 🗝️. It’s one of the best *Slime Games* you can play online, and if you're looking for an exciting *Puzzle* experience, *Blumgi Slime* fits perfectly! Whether you're in the mood for *Mobile Games* or *Web* games, this game delivers. With intuitive controls and physics-based mechanics, it’s easy to pick up but hard to put down!\n## 🧪 Core Mechanics\n- **Elastic Movement** 🦘: \n  - Jumping & Sticking: Leap across gaps and cling to walls, ceilings, and platforms\n  - Momentum-Based Physics: Enjoy fluid, slingshot-like jumps and bouncy interactions\n- **Puzzle Solving** 🧩: \n  - Manipulate switches, trampolines, and destructible blocks\n  - Solve timing-based challenges using the slime's adhesive properties\n- **Upgrades & Power-Ups** ⚡: \n  - Unlock double jumps, dash moves and more\n  - Collect temporary boosts like speed and invincibility\n## 🌈 Key Features\n- **Visuals & Animation** 🎨: \n  - Bright, cartoon-style graphics with squishy animations\n  - Dynamic, interactive environments\n- **Sound & Music** 🎵: \n  - Upbeat, adaptive soundtrack\n  - Satisfying sound effects for every action\n- **User Experience** 👆: \n  - Simple tap/hold controls with customization\n  - Clean, distraction-free UI\n- **Replayability** 🔄: \n  - Time trials and hidden challenges\n  - Global leaderboards for competitive play\n## 🏆 Solo Games? \n\n Whether you enjoy *PvP Games* or prefer *Solo Games*, *Blumgi Slime* offers an experience that can fit both play styles. Test your skills in this *Difficult Game* and join global leaderboards, or just have fun enjoying the colorful world at your own pace.\n### 🏅 Conclusion\n*Blumgi Slime* is one of the *Popular Games* that blends platforming with puzzle-solving in a colorful, physics-driven world 🌍. With its increasing difficulty and fun mechanics, it offers lasting appeal for players of all skill levels. New players and experienced gamers alike will find enjoyment in this *New Game*. Don't miss out!",
               "videoUrl": "https://youtu.be/5gJHewM1NP0?si=z1V-9bZ7apA-DKtN",
               "videoEmbedUrl": "https://www.youtube.com/embed/5gJHewM1NP0?si=z1V-9bZ7apA-DKtN",
               "videoThumbnail": "https://img.youtube.com/vi/5gJHewM1NP0/maxresdefault.jpg",
@@ -480,11 +604,11 @@ const defaultGamelist: Game[] = [
        },
        {
               "id": 8,
-              "name": "ScreamingChicken",
-              "sub_name": "Screaming Chicken",
-              "title": "Play Chicken Scream — Fun Voice Control Screaming Chicken Game | Jbuid.top",
-              "meta_desc": "Play Chicken Scream, the voice controlled jumping game! Enjoy scream chicken online, scream chicken jumpy run, voice challenge mini game & chicken scream simulator at Jbuid!",
-              "icon": "https://imgs.crazygames.com/paper-io-2_16x9/20250214024143/paper-io-2_16x9-cover?metadata=none&quality=70&width=587.5",
+              "name": "ChickenScreamGame",
+              "sub_name": "Chicken Scream Game",
+              "title": "Play Chicken Scream Game — Fun Voice Control Game | Jbuid.top",
+              "meta_desc": "Play Chicken Scream Game, the voice controlled jumping game! Enjoy scream chicken online, scream chicken jumpy run, voice challenge mini game & chicken scream simulator at Jbuid!",
+              "icon": "https://imgs.crazygames.com/chicken-scream_16x9/20250129081835/chicken-scream_16x9-cover?metadata=none&quality=70&width=587.5",
               "html": "https://www.crazygames.com/embed/paper-io-2",
               "platform": "web,Mobile",
               "category": "Action",
@@ -500,35 +624,132 @@ const defaultGamelist: Game[] = [
               "create_time": "29/5/2025 17:50:51",
               "isfunny": "1",
               "Japanese": null,
-              "desc_text": "# **Paper.io 2: Dominate the Arena and Paint Your Victory** at Jbuid.top\n\nStep into the fast-paced world of **Paper.io 2**, a thrilling real-time multiplayer game where your goal is to conquer and expand territory by painting the map in your color. Outwit rivals as you navigate the arena, claiming new spaces while defending your own. The challenge? Other players are constantly eyeing your land, and only the smartest strategist will dominate the leaderboard!\n\n# 🌟 How to Play – **Master the Map in Paper.io 2**\n\nIn **Paper.io 2**, you control your character using the mouse, and your objective is to color the map with your hue. Move across empty spaces or areas already claimed by other players, and create a connection back to your own territory to seize control of new areas. The twist? You can eliminate opponents by crashing into their exposed trail, which destroys their progress and grants you their land.\n\nHowever, as you venture out of your territory, your tail becomes vulnerable. If another player collides with it, your entire area could be wiped out in an instant. Stay sharp and think strategically to secure your position!\n\n# 💡 Pro Tips for Mastering Paper.io 2\n\n- **Patience over greed**: Always be cautious when expanding your territory. The longer your tail is exposed, the higher the risk of being taken down by an opponent.\n- **Time your attacks**: Watch for moments when your opponents leave their tails open and go for the kill! Quickly take over their space and claim what’s left.\n- **Expand wisely**: While the urge to paint the map can be strong, always ensure you’re close enough to your original territory to retreat if needed.\n- **Stay near the edges**: Staying along the edges of the map minimizes your vulnerability, allowing you to safely increase your domain while avoiding unnecessary risks.\n\n# 🔥 More Games Like Paper.io 2\nIf you love the competitive, multiplayer action in **Paper.io 2**, check out other fun games in our **.io** section! Popular titles like **Shell Shockers**, **Wormate.io**, and **Gulper.io** await. Dive into more exciting real-time battles and strategy-based gameplay right here at **Jbuid.top**!\n\n# 🎮 Features of **Paper.io 2**\n\n- **Real-time multiplayer action**: Compete in dynamic, fast-paced matches against players around the world.\n- **Custom skins**: Personalize your character’s look to make a unique mark on the battlefield.\n- **Addictive gameplay**: Enjoy endless fun as you battle for supremacy in this thrilling arena-style game.\n\n# 📅 Release Dates\n\n- **iOS**: August 2018\n- **Android**: September 2018\n- **HTML5**: March 2019\n\n# 🏆 Developer\n**Paper.io 2** is developed by **Voodoo**, known for their fun and engaging games.\n\n# 🖥️ Available Platforms\n\n- **Web Browser** (desktop and mobile)\n- **Android**\n- **iOS**\n\n# 🔄 Last Updated\nFebruary 14, 2025\n\n# 🎮 Controls\nUse your mouse to move and drag to control your path.",
+              "desc_text": "# **Chicken Scream Game: The Most Fun and Crazy Chicken Scream Experience** at Jbuid.top\n\nStep into the wildly entertaining world of **Chicken Scream Game**, a unique sound-controlled game where your voice controls the actions of a chicken character. Use your screams or chicken noises to jump, move, and avoid obstacles in this fun and challenging game.\n\n# 🎮 How to Play – **Master Your Chicken Screams**\n\nIn **Scream Chicken Game**, your voice is the key to control. Scream louder to make the chicken jump higher or softer to move it gently. Navigate through multiple levels filled with fun obstacles and challenges that test your timing and volume control.\n\nBe careful! Too little or too much scream can affect your chicken’s performance, so adjust your voice carefully to progress through the game.\n\n# 💡 Pro Tips for Playing Scream Chicken Game\n\n- **Control your volume**: Find the right scream level for each obstacle.\n- **Practice timing**: Jump and move precisely to avoid traps.\n- **Use the scream chicken filter mode**: Experience special effects that enhance the fun and challenge.\n- **Challenge friends**: Compete on who has the best scream and highest score!\n\n# 🔥 More Games Like Scream Chicken Game\nIf you enjoy voice-controlled games, explore other interactive fun titles here at **Jbuid.top** and keep the excitement going.\n\n# 🎮 Features of Scream Chicken Game\n\n- **Innovative voice control gameplay**\n- **Multiple challenging levels**\n- **Funny and realistic chicken sound effects**\n- **Special scream chicken filter mode**\n\n# 🖥️ Available Platforms\n\n- **Web Browser** (desktop and mobile)\n\n# 🔄 Last Updated\nMay 20, 2025\n\n# 🎮 Controls\nUse your voice (microphone) to scream and control the chicken’s movements.",
               "videoUrl": "https://youtu.be/M4pG5nroaeU?si=ZBCQPKX57sQYDhaC",
               "videoEmbedUrl": "https://www.youtube.com/embed/M4pG5nroaeU?si=ZBCQPKX57sQYDhaC",
               "videoThumbnail": "https://img.youtube.com/vi/ZBCQPKX57sQYDhaC/maxresdefault.jpg",
               "FAQS": [
                      {
-                            "question": "Q: How do you play Paper.io 2 online for free?",
-                            "answer": "A: To play Paper.io 2, visit Jbuid.top and click the Play button. Control your character using the mouse or arrow keys to expand your territory by drawing loops and connecting them back to your area."
+                            "question": "Q: How to play Chicken Scream Game?",
+                            "answer": "A: In the Chicken Scream Game, your voice controls the chicken’s movement. Stay quiet to make the chicken stand still and scream or speak loudly to make it jump across obstacles. It's a fun and interactive game experience."
                      },
                      {
-                            "question": "Q: How can I eliminate opponents in Paper.io 2?",
-                            "answer": "A: You can defeat other players by cutting through their trail while they are expanding. Colliding with their exposed tail removes them from the game and allows you to take their territory."
+                            "question": "Q: How to play Scream Chicken Game online?",
+                            "answer": "A: To play the Scream Chicken Game online, visit a game platform like Jbuid.top, and allow microphone access. Use your voice to control the chicken—soft sounds move it forward, loud noises make it jump. No downloads needed."
                      },
                      {
-                            "question": "Q: Is it possible to conquer 100% of the map in Paper.io 2?",
-                            "answer": "A: Yes, although it is very challenging. To cover the entire map, players must carefully claim every area without leaving vulnerabilities, often starting from the outer edges and working inward."
+                            "question": "Q: Which came first, the Eighth Note Game or the Chicken Scream Game?",
+                            "answer": "A: The Eighth Note Game gained popularity in early 2017, while Chicken Scream Game followed closely in the same year. Both games use voice control mechanics, but Chicken Scream is generally considered more polished and widely known."
                      },
                      {
-                            "question": "Q: Can I play Paper.io 2 without downloading?",
-                            "answer": "A: Absolutely! Paper.io 2 is a browser-based game that works directly on both desktop and mobile devices at Jbuid.top—no downloads or installations required."
+                            "question": "Q: What is the Scream Chicken Filter Game?",
+                            "answer": "A: The Scream Chicken Filter Game refers to a variation of the Chicken Scream Game where players use voice filters or sound effects while playing. It's a humorous twist on the original voice-controlled gameplay and is popular on social media."
                      },
                      {
-                            "question": "Q: What devices support Paper.io 2?",
-                            "answer": "A: Paper.io 2 can be played on web browsers, Android smartphones, and iOS devices, offering a seamless cross-platform experience anytime, anywhere."
+                            "question": "Q: Can I play Chicken Scream Game for free?",
+                            "answer": "A: Yes, the Chicken Scream Game is free to play online. You can access it through browser-based gaming sites without any installation, and it works on both desktop and mobile devices."
+                     }
+              ]
+              ,
+
+
+              "review": "Chicken Scream Game is a hilarious voice-controlled platformer. Play the Chicken Scream Game online, yell to jump, and whisper to walk! Fun, weird, and super addictive for all ages."
+
+       },
+       {
+              "id": 11,
+              "name": "PolyTrack-Unblocked",
+              "sub_name": "PolyTrack Unblocked",
+              "title": "Play PolyTrack Unblocked — Build, Race, and Beat the Clock | Jbuid.top",
+              "meta_desc": "Play PolyTrack Unblocked, the fast-paced low-poly racing game inspired by TrackMania! Build custom tracks, race for time, and test your speed & creativity online at Jbuid!",
+              "icon": "https://imgs.crazygames.com/games/polytrack/cover_16x9-1746189517703.png?metadata=none&quality=70&width=587.5",
+              "html": "https://www.crazygames.com/embed/polytrack",
+              "platform": "web,Mobile",
+              "category": "Racing",
+              "tags": "Driving,Car,Track Builder,3D Game,Speed,Custom,Challenge",
+              "type": 1,
+              "is_use": "1",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.7",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "29/5/2025 18:25:00",
+              "isfunny": "1",
+              "Japanese": null,
+              "desc_text": "# 🚗 **PolyTrack Unblocked: Build, Race, and Beat the Clock** at Jbuid.top\n\nExperience high-speed thrills with **PolyTrack Unblocked**, a low-poly racing game where you don’t just race—you build the track too! Inspired by classics like *TrackMania*, this browser-based racing game combines creativity and precision, letting you design insane loops, jumps, and curves, then race on them to shave off every possible millisecond.\n\n# 🎮 How to Play – **Race and Create in PolyTrack**\n\nStart by selecting a pre-made track or using the built-in level editor to create your own. Customize the road with ramps, loops, and twists, then hit the gas and race your own creations. Each track is a test of both driving skill and design mastery.\n\nNot sure how to build? Browse community-created tracks and pick up design tips from fellow racers. Whether you’re creating or competing, **PolyTrack Unblocked** gives you total freedom.\n\n# 💡 Pro Tips for Playing PolyTrack\n\n- **Restart quickly**: Use the restart key to master each segment and optimize your time.\n- **Test often**: Use the test drive mode to check your custom track before a real race.\n- **Design smart**: Combine speed and flow in your designs for better results.\n- **Explore shared tracks**: Download or copy track codes from the community for endless fun.\n\n# 🎮 Features of PolyTrack Unblocked\n\n- **High-speed racing with precision controls**\n- **Creative level editor with full camera control**\n- **Custom tracks to play, share, and remix**\n- **Inspired by TrackMania – competitive and fun**\n\n# 🖥️ Available Platforms\n- **Web Browser** (desktop and mobile)\n\n# 🔄 Last Updated\nApril 7, 2025\n\n# 🎮 Controls\n\n**Gameplay Controls**:\n- WASD / Arrow Keys = Drive\n- Enter / R = Restart\n\n**Editor Controls**:\n- Left-click = Build\n- Right-click + Move = Move Camera View\n- Middle Mouse + Move = Rotate Camera\n- Mouse Scroll = Zoom In/Out\n- Shift + Scroll / ZC = Height Up/Down\n- Q / E = Rotate Camera View\n- R / Space = Rotate Item\n- X = Delete Item\n- T = Test Drive",
+              "FAQS": [
+                     {
+                            "question": "Q: What is PolyTrack Unblocked?",
+                            "answer": "A: PolyTrack Unblocked is a free online racing game where players build and race on custom-designed tracks. Inspired by TrackMania, it focuses on time challenges and creative level design."
+                     },
+                     {
+                            "question": "Q: How do I build tracks in PolyTrack?",
+                            "answer": "A: Use the built-in editor to place ramps, curves, loops, and other features. You can test and refine your track using the test drive feature before racing."
+                     },
+                     {
+                            "question": "Q: How to play Polytrack game?",
+                            "answer": "A: In Polytrack, you race a car that you personalize and compete on tracks you create yourself. This requires you to focus on surpassing your own records while perfecting the skill of designing tracks for maximum speed and accuracy."
+                     },
+                     {
+                            "question": "Q: Is PolyTrack Unblocked free to play?",
+                            "answer": "A: Yes, the game is completely free to play in your web browser, with no downloads or registration required."
+                     },
+                     {
+                            "question": "Q: What makes PolyTrack different from other racing games?",
+                            "answer": "A: PolyTrack lets you build your own racing experience, testing both your driving skills and your creativity as a track designer."
                      }
               ],
+              "review": "PolyTrack Unblocked is a creative and fast-paced racing game that puts you in control of both the car and the track. Perfect for fans of TrackMania, this game challenges you to build smart and race hard. Highly replayable and perfect for browser play.",
+              "videoUrl": "https://youtu.be/_EkSwZz0_Ls?si=rYPuFyZJPnuFZlN8",
+              "videoEmbedUrl": "https://www.youtube.com/embed/_EkSwZz0_Ls?si=bGjEtx3x8uMJCi1p",
+              "videoThumbnail": "https://img.youtube.com/vi/_EkSwZz0_Ls/maxresdefault.jpg",
 
 
-              "review": "Paper.io 2 is a fast-paced multiplayer territory game where you capture land by drawing loops with your trail. The simple concept makes it easy to learn, but challenging opponents keep every match exciting. You compete against real players, trying to expand your territory while avoiding being hit on your trail."
+       },
+
+       {
+              "id": 12,
+              "name": "Ragdoll-hit",
+              "sub_name": "Ragdoll hit Unblocked",
+              "title": "Play Ragdoll hit Online - Free Ragdoll hit Unblocked Game",
+              "meta_desc": "Play Ragdoll hit online for free! Enjoy this fun ragdoll physics game on mobile and desktop. No downloads, no login, fully unblocked and ready to play.",
+              "icon": "https://imgs.crazygames.com/ragdoll-archers_16x9/20240205020743/ragdoll-archers_16x9-cover?metadata=none&quality=70&width=587.5&height=590.5",
+              "html": "https://www.crazygames.com/embed/ragdoll-archers",
+              "platform": "web,Mobile",
+              "category": "Shooting",
+              "tags": "Casual,2 Player,Stickman,Archery,Ragdoll,Arcade",
+              "type": 1,
+              "is_use": "1",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.7",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "29/5/2025 18:25:00",
+              "isfunny": "1",
+              "Japanese": null,
+              "desc_text": "# 🏹 **Play Ragdoll hit Archers Online – Free & Unblocked**\n\n**Ragdoll hit Archers** is a thrilling bow-and-arrow game with **ragdoll physics**, where you take down stickman enemies in outrageous, floppy combat. Whether you’re flying solo or dueling a friend in **2-player PvP**, this game delivers wild ragdoll chaos with every shot. Best of all? You can play **Ragdoll hit unblocked** right in your browser—no download, no login.\n\n# 🎯 How to Play Ragdoll hit Archers\n\nTake aim with precision and unleash arrows against enemies of all shapes and sizes. Start with basic arrows and face an onslaught of ragdoll foes. From armored stickmen to giant boss battles, your archery skills will be tested. Need to survive longer? Shoot flying apples for boosts:\n\n- 🍎 Red Apple: Restores health  \n- 🍏 Green Apple: Regains stamina  \n- 🟡 Golden Apple: Boosts both health & stamina\n\n# 🔥 Customize & Upgrade\n\nCollect **skulls** by defeating enemies and use them to enhance:\n\n- Health & stamina  \n- Damage output  \n- Arrow capacity\n\nAs you level up, unlock a variety of creative arrows like:\n\n- ⚡ Electric arrows  \n- ☠️ Poison arrows  \n- 🎈 Balloon arrows  \n- 🪓 Axe arrows\n\nExperiment and find the combo that fits your **ragdoll hit** playstyle best!\n\n# 🧍‍♂️ Ragdoll hit Unblocked – Play Anywhere\n\nStuck at school or work? No problem. **Ragdoll hit unblocked** lets you enjoy the full game online with **no restrictions**, playable on both **desktop and mobile**. Invite a friend for local 2-player action or go solo and master every level.\n\n# 👥 Game Modes\n\n- **1 Player Mode** – Solo campaign with progressive challenges  \n- **2 Player Mode** – Local PvP or co-op battles  \n- **Endless Mode** – Survive waves of ragdoll enemies\n\n# 🕹️ Controls\n\n**Solo Mode:**\n- 🖱️ Left-click = Aim and shoot  \n- ␣ Spacebar = Jump\n\n**PvP / 2 Player Mode:**\n- **Player 1**: WASD to move, Left Shift to jump  \n- **Player 2**: Arrow keys to move, Right Shift to jump\n\n# 📱 Platforms\n- Web browser (desktop and mobile)  \n- Android\n\n# 🔄 Last Updated\nJuly 9, 2024\n\n# 🎮 Why You'll Love It\n\n- Creative ragdoll-based archery gameplay  \n- Boss battles with unique enemy types  \n- Skulls & upgrades system to grow stronger  \n- Fully **unblocked ragdoll hit** experience – no installs required  \n- Perfect for casual gaming & stress relief\n\n Ready to test your aim and watch stickmen fly? Try **Ragdoll hit Archers online** now—free, fun, and 100% unblocked.",
+              "FAQS": [
+                     {
+                            "question": "What is the best bow in Ragdoll hit?",
+                            "answer": "The best bow in Ragdoll hit depends on your playstyle, but many players prefer the electric or poison arrows for their high damage and lingering effects. As you unlock more options, upgrading to multi-shot or explosive arrows can give you a strong advantage against tougher enemies and bosses."
+                     },
+                     {
+                            "question": "What is the best way to survive long term in Ragdoll hit?",
+                            "answer": "To survive longer in Ragdoll hit, aim to shoot flying apples whenever possible—they restore health and stamina. Upgrade your stats using skulls earned from enemies, especially focusing on health and stamina first. Finally, keep your distance from enemies and master precise aiming to avoid taking damage."
+                     }, {
+                            "question": "How to play Ragdoll hit Unblocked?",
+                            "answer": "Drag your ragdoll to punch, dodge, and smash your opponent. Use physics to win each round and dominate the arena!"
+                     }
+              ],
+              "review": "Ragdoll Hit is a hilarious and action-packed physics fighting game. The wacky movements and unpredictable battles make it super fun and addictive for quick play sessions!",
+              "videoUrl": "https://youtu.be/kx7FkGKTG5c?si=6INdxBH9Au08cqqm",
+              "videoEmbedUrl": "https://www.youtube.com/embed/kx7FkGKTG5c?si=6INdxBH9Au08cqqm",
+              "videoThumbnail": "https://img.youtube.com/vi/kx7FkGKTG5c/maxresdefault.jpg",
+
 
        },
        {
@@ -550,7 +771,7 @@ const defaultGamelist: Game[] = [
               "rating": "4.8",
               "file_size": "",
               "screenshots": null,
-              "create_time": "29/5/2025 17:50:51",
+              "create_time": "21/5/2025 17:50:51",
               "isfunny": "1",
               "Japanese": null,
               "desc_text": "## **Play Doodle Road Online – Best Free Endless Runner Game for PC and Mobile**\n\n**Doodle Road** is the **best casual game Doodle Road 2025**, offering fast-paced action and endless fun for players of all ages. Whether you're looking for a **Doodle Road endless runner game** to kill time or a competitive multiplayer experience, **Doodle Road game online** has everything you need. Play on your **PC or mobile** anytime, anywhere, and enjoy the fun of the **Doodle Road game free online** with no sign-ins required.\n\n## 🌟 Why is **Doodle Road** the Best Casual Game of 2025?\n\n- **Endless Runner Gameplay**: Test your reflexes with a dynamic, fast-paced action as you navigate through an unpredictable road.\n- **Cross-Platform Play**: Play **Doodle Road game for PC and mobile** seamlessly on all your devices.\n- **Unblocked Game for School**: **Doodle Road unblocked game for school** lets you play anytime, anywhere, even on school networks.\n- **Multiplayer Fun**: Compete with friends in the **Doodle Road online multiplayer** mode for exciting challenges.\n- **Free to Play**: Enjoy the **Doodle Road game free download** and **Doodle Road game free online** with no sign-ups needed.\n\n## 📖 How to Play **Doodle Road Game**?\n\n1️⃣ **Start the Game**: Click **Play** to jump into the action and start playing **Doodle Road game online** instantly.\n\n2️⃣ **Control Your Doodle**: Use your mouse, arrow keys, or touchscreen to guide your character along the road.\n\n3️⃣ **Avoid Falling**: Keep your balance and avoid falling off the road as it twists and turns faster.\n\n4️⃣ **Collect Stars**: Grab stars and boosts to score higher and gain an advantage.\n\n## 🎮 **Controls**\n\n- **Left mouse button** to draw a line and guide your character.\n- **Restart button** or **R** to restart the game.\n- **Start button** or **Space** to begin the game.\n\n## 🚀 Features of **Doodle Road Game**\n\n- **Free Online Gameplay**: Play **Doodle Road free game online** with no downloads required.\n- **Optimized for All Devices**: Smooth gameplay on **PC and mobile** for the best user experience.\n- **Download Option**: For offline play, try the **Doodle Road game free download**.\n- **Unblocked at School**: Enjoy **Doodle Road unblocked game for school** with no restrictions.\n\n## 🎮 Ready to Take on the Challenge?\nPlay the **best casual game Doodle Road 2025** today! Test your reflexes in the **Doodle Road endless runner game** and aim for high scores. Whether you’re playing solo or competing in **Doodle Road online multiplayer** mode, the excitement never ends. Play now at **Jbuid.top**!",
@@ -593,7 +814,7 @@ const defaultGamelist: Game[] = [
               "rating": "4.8",
               "file_size": "",
               "screenshots": null,
-              "create_time": "29/5/2025 17:50:51",
+              "create_time": "21/5/2025 17:50:51",
               "isfunny": "1",
               "Japanese": null,
               "desc_text": "# 🕹️ **Play Jetpack Jump Game Online — Best Free Unblocked Casual Jetpack Adventure Game**\n\nIf you’re searching for an exciting, fast-paced **casual jumping game** that’s easy to learn yet highly addictive, **Jetpack Jump game** is the perfect choice. As one of the most **popular game Jetpack Jump** titles in recent years, this **casual game Jetpack Jump** combines the thrill of a **jetpack adventure** with the competitive excitement of a high score challenge. \n\nWith simple one-click controls, vibrant graphics, and endless upgrade opportunities, **Jetpack Jump game online** lets you jump farther, fly higher, and compete for new records. Whether you're on a quick break or want an Olympic-style jumping challenge, **play Jetpack Jump game online** now and enjoy the **Jetpack Jump unblocked game**, no downloads required.\n\n## 🚀 **What is Jetpack Jump? — A Casual Jetpack Game to Test Reflexes**\n\n**Jetpack Jump** is a one-click **jumping game** where players launch a character equipped with a jetpack to soar across long distances. Tap to jump and activate the jetpack, maximizing distance while collecting coins. As a **casual game Jetpack Jump**, it tests both timing and strategy, making it perfect for all ages. \n\nEarn coins to unlock upgrades and improve performance, helping you jump farther and explore new areas in the **Jetpack Jump game online**. Whether you’re after a casual **jetpack adventure** or a challenge to beat your high score, **Jetpack Jump game** has you covered.\n## 🕹️ **How to Play Jetpack Jump Game Online — Controls & Gameplay Guide**\n\nMastering **how to play Jetpack Jump game** is simple:\n\n- **Left mouse button / Tap screen**: Jump.\n- **Click/Tap again mid-air**: Activate jetpack for extra boost.\n\n🛠️ **Tips**:\n- Perfect timing to jump and boost maximizes distance.\n- Collect coins to upgrade your jetpack and improve stats.\n\n## ⚙️ **Upgrades & Strategies — Improve Your Jetpack Jump Game**\n\nUse coins in **Jetpack Jump game online** to upgrade:\n\n- **Jetpack Power**: Fly farther.\n- **Speed**: Gain more momentum.\n- **Bounce**: Jump higher.\n\n✅ **Best strategies for Jetpack Jump**:\n- Priitize jetpack upgrades.\n- Balance speed and bounce early.\n- Replay rounds to earn coins faster.\n\n## ⭐ **Why Play Jetpack Jump Game Online Free at Jbuid.top?**\n\n- **Jetpack Jump unblocked game**: Play anytime at school or work.\n- **No downloads or accounts**: Simply **play Jetpack Jump game online** instantly.\n- **Works on PC & Mobile**: Enjoy **Jetpack Jump mobile game online free**.\n- **Endless Replay**: **Play for free Jetpack Jump** as much as you like.\n\nReady to soar? Experience why **Jetpack Jump** is the **best casual game Jetpack Jump 2025**. **Play Jetpack Jump game online free** at **Jbuid.top** today!",
@@ -614,6 +835,101 @@ const defaultGamelist: Game[] = [
 
 
               "review": "Jetpack Jump is an exciting, addictive casual jumping game where you control a character with a jetpack. Test your reflexes as you jump farther, collect coins, and upgrade your jetpack. Play for free online!"
+
+       },
+
+
+       {
+              "id": 2433,
+              "name": "StickmanHook",
+              "sub_name": "Stickman Hook Unblocked",
+              "title": "Play Stickman Hook Unblocked Online - Swing Game for Free | Jbuid",
+              "meta_desc": "Play Stickman Hook Unblocked for free online at Jbuid! Enjoy this addictively fun swinging stickman game without downloads or ads. Available on mobile and desktop.",
+              "desc_text": "# Stickman Hook – Unblocked Online Rope Swing Game (2025)\n\n**Stickman Hook** is a fast-paced physics-based swing game that challenges your timing and momentum skills. In this addictive **stickman rope** adventure, you’ll swing from one hook to another across dozens of vibrant levels. Whether you're a casual gamer or a seasoned pro, this game offers a satisfying blend of simplicity and skill-based fun.\n\n## 🎮 How to Play Stickman Hook\n\nTo play the **Stickman Hook online game**, just tap or click to release and catch ropes, timing each swing to avoid obstacles and reach the finish line. The controls are incredibly simple, but mastering the movement takes practice and precision. Perfect for quick play sessions or longer binge runs.\n\n## 🖥️ Platform Compatibility\n\nPlay **Stickman Hook unblocked** directly in your browser – no installation needed. It's a fully **HTML5**-powered **browser game** that works flawlessly across devices. Whether you're on **PC**, **Mac**, **mobile**, or a **Chromebook**, the game runs smooth and fast. Try **Stickman Hook unblocked 2025** for the latest optimized experience.\n\n## ✅ Why We Recommend It\n\n- ✅ 100% **free and unblocked**  \n- ✅ **No ads**, no interruptions  \n- ✅ **No download** or login required  \n- ✅ Compatible with school networks – try **Stickman Hook unblocked 66**  \n- ✅ Fast loading and ultra-responsive controls  \n- ✅ Great for both short breaks and long play sessions\n\n## 👥 Who Should Play?\n\nThis game is ideal for:\n- 👨‍🎓 Students looking for **stickman hook unblocked games** at school\n- 🧑‍💻 Office workers taking a fun break\n- 🎮 Fans of minimalist physics games and fast-paced challenges\n- 🛝 Anyone who enjoys **stickman rope** mechanics\n\n Ready to swing into action? Try **Stickman Hook unblocked** now and master the ropes!",
+              "icon": "https://cdn.pokiter.com/html5New/stickman-rope/icon.webp",
+              "html": "https://cdn.pokiter.com/html5New/stickman-rope/index.html",
+              "platform": "web,Mobile",
+              "category": "Strategy",
+              "tags": "stickman,rope,casual,swing,fast-paced,2025 top game",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.9",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "21/5/2025 19:02:35",
+              "isfunny": "1",
+              "Japanese": null,
+              "videoUrl": "https://youtu.be/9cjV5EXGcHo?si=_ynB1yOFYUO9HK0Z",
+              "videoEmbedUrl": "https://www.youtube.com/embed/9cjV5EXGcHo?si=Etom7Hy_M1fZV9BR",
+              "videoThumbnail": "https://img.youtube.com/vi/9cjV5EXGcHo/maxresdefault.jpg",
+              "FAQS": [
+                     {
+                            "question": "Q: How many levels are in Stickman Hook?",
+                            "answer": "A: TStickman Hook has a whopping total of 140 spine-tingling levels for you to conquer! "
+                     },
+                     {
+                            "question": "Q: Is Stickman Hook free?",
+                            "answer": "A: You can play Stickman Hook for free on Jbuid.top!"
+                     },
+                     {
+                            "question": "Q: Can I play Stickman Hook on mobile devices and desktop?",
+                            "answer": "A: Stickman Hook can be played on your computer and mobile devices like phones and tablets."
+                     }
+              ],
+
+
+              "review": "Stickman Hook is an incredibly fun and addictive rope-swing game that runs smoothly on any browser without any ads or downloads. The physics-based gameplay challenges your timing and reflexes perfectly, making it ideal for quick breaks or longer sessions. Highly recommended for both casual and skillful gamers!"
+
+
+       },
+
+       {
+              "id": 13,
+              "name": "power-badminton",
+              "sub_name": "Power Badminton Unblocked",
+              "title": "Power Badminton – Free Online Sports Game | Jbuid.top",
+              "meta_desc": "Play Power Badminton Unblocked, a fast-paced online sports game for badminton fans! Unblocked and free on Jbuid.top—no ads, no login, just skill-based action.",
+              "desc_text": "# 🏸 Power Badminton Unblocked – Play Free Unblocked Online Badminton Game (2025)\n\nStep onto the court with **Power Badminton online game**, a fast-paced and thrilling **HTML5 badminton simulator** that brings the excitement of competitive sports right to your screen. Designed for both quick plays and deep rallies, this **power badminton free online game** lets you swing your racket with precision, unleash powerful smashes, and dominate in intense matches — all without downloads or ads.\n\nWhether you’re a fan of racket sports or just looking for a fun and challenging **unblocked browser game**, **Power Badminton Unblocked** offers a seamless gameplay experience that’s perfect for schools, offices, or casual play at home.\n\n## 🕹️ How to Play Power Badminton\n\nPlaying the **Power Badminton online game** is easy to learn but hard to master. Here’s how to get started:\n\n- **Arrow keys / Touch controls**: Move your character on the court  \n- **Z / Tap**: Perform quick shots  \n- **X / Tap + hold**: Execute powerful smashes using your **power badminton racket**  \n- Time your returns, read your opponent's moves, and master different play styles — from fast-paced smashes to tricky drop shots\n\n🎯 Pro Tip: Precision and timing are key. Hold your smash button just right to unleash a **power shot** and score crucial points!\n\n## 🌐 Platform Compatibility – Smooth on Any Device\n\n- 🔹 100% browser-based **HTML5 game**  \n- 🔹 No installation, no downloads  \n- 🔹 Optimized for **PC**, **Mac**, **Chromebook**, **iOS**, and **Android**  \n- 🔹 Works flawlessly in Chrome, Safari, Edge, and Firefox\n\nWhether you're at home, school, or on the go, enjoy the **Power Badminton Unblocked** experience anytime, anywhere.\n\n## ✅ Why We Recommend Power Badminton\n\n- ✅ **No ads** and **no download** needed  \n- ✅ One of the **2025 top games** for casual sports fans  \n- ✅ Lightweight, loads fast, runs smooth  \n- ✅ Ideal for short sessions or extended play  \n- ✅ Offers a real sense of competition and progression  \n- ✅ Inspired by real badminton mechanics — feel the intensity of each rally!\n\n## 👥 Who Should Play Power Badminton?\n\nThis game is great for:\n\n- 👨‍🎓 **Students** looking for **unblocked sports games** at school  \n- 🧑‍💻 **Office workers** who need a mental refresh during breaks  \n- 🎮 **Fans of sports sims** who enjoy tennis, ping pong, and racket-based mechanics  \n- 🏸 Players seeking alternatives to games like **Stickman Tennis**, **Badminton Legends**, or **Table Tennis World Tour**\n\nExperience the thrill of fast rallies and clutch smashes — play **Power Badminton online game** now and become the court legend of **2025**!",
+              "icon": "https://imgs.crazygames.com/games/power-badminton/cover_16x9-1714706052969.png?metadata=none&quality=70&width=587.5",
+              "html": "https://www.crazygames.com/embed/stick-figure-badminton",
+              "platform": "web,Mobile",
+              "category": "Sports",
+              "tags": "badminton,sports,unblocked,2025 top game",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.9",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "21/5/2025 19:02:35",
+              "isfunny": "1",
+              "Japanese": null,
+              "videoUrl": "https://youtu.be/cviyC_9g5Sk?si=GosxyteJN1t57Phe",
+              "videoEmbedUrl": "https://www.youtube.com/embed/cviyC_9g5Sk?si=kEDr3VChF_QR9b_2",
+              "videoThumbnail": "https://img.youtube.com/vi/cviyC_9g5Sk/maxresdefault.jpg",
+              "FAQS": [
+                     {
+                            "question": "Q: How to increase smash power in badminton?",
+                            "answer": "A: To increase smash power in badminton, focus on your technique (using full body rotation, elbow whip, and wrist snap), strength training (core, legs, shoulder, and wrist), timing, and using the right racket (head-heavy rackets and proper string tension help boost power). Practicing jump smashes and multi-shuttle drills can also significantly improve your power."
+                     },
+                     {
+                            "question": "Q: How to increase badminton smash power?",
+                            "answer": "A: Improving badminton smash power involves mastering the correct overhead swing technique, strengthening your forearms and core, improving timing, and using a suitable racket setup. Consistent practice with jump smashes, shadow drills, and better coordination will also help generate explosive power."
+                     },
+                     {
+                            "question": "Q: How to smash in badminton with power?",
+                            "answer": "A: To smash in badminton with power, ensure your body is well-positioned with the shuttle in front of you. Use a full-body motion starting from your legs, rotate your shoulders and hips, and snap your wrist at the point of contact. Using a head-heavy racket and proper string tension can also enhance your smash strength."
+                     }
+              ],
+
+
+              "review": "A very fun badminton game with simple controls and smooth graphics. Great for killing time."
+
 
        },
        {
@@ -642,12 +958,12 @@ const defaultGamelist: Game[] = [
               "id": 2508,
               "name": "troll-level",
               "sub_name": "Troll Level",
-              "desc_text": "Troll Level stands out with its clever traps and trolling mechanics. It's not just about completing the levels but also being ready for the unexpected and ...",
+              "desc_text": "# Troll Level: A Strategic Gaming Adventure\n\n## 🗺️Quick Overview of the Game\nTroll Level is a thrilling strategy game that offers an immersive experience for players of all ages. Set in a fantastical world filled with trolls, the game challenges you to think strategically and make smart decisions to achieve victory.\n\n## 🤔 How to Play + Game Mechanics\nIn Troll Level, players are tasked with building and managing their own troll kingdom. You'll need to gather resources, train your troll army, and defend your territory from rival kingdoms. The game mechanics are intuitive, allowing both casual and hardcore gamers to quickly pick up and enjoy the gameplay.\n\n## 🌟 Key Features and Unique Highlights\nOne of the standout features of Troll Level is its free - to - play model. You can start playing the game without spending a dime. Additionally, it offers online access, so you can connect with players from around the world and engage in epic battles. The game also features regular updates, adding new content and challenges to keep the gameplay fresh.\n\n## 📱 Supported Platforms and Devices\nTroll Level is available as a browser game, which means you can play it directly from your web browser without the need for any downloads. It is also mobile - friendly, allowing you to take your strategic adventures on the go. Whether you're using a smartphone or a tablet, you can enjoy the game's full features.\n\n## ✨ Recommended Games Similar to [Troll Level]\nIf you enjoy Troll Level, you might also like [Game 1], [Game 2], and [Game 3]. These games offer similar strategic elements and engaging gameplay. Check them out on our website to expand your gaming horizons.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Troll Level, it's important to focus on resource management. Make sure to balance your resource gathering and army training. The game developers regularly release version updates, which often include bug fixes, new features, and balance adjustments. Keep an eye on the official website for the latest news and updates.",
               "icon": "https://cdn.pokiter.com/html5New/troll-level/icon.avif",
               "html": "https://cdn.pokiter.com/html5New/troll-level/index.html",
               "platform": "web,Mobile",
               "category": "Strategy",
-              "tags": "",
+              "tags": "troll level strategy game,online strategy game,mobile strategy game,free to play strategy game",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -658,18 +974,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:51",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Troll Level: An Engaging Strategy Game for Web and Mobile",
+              "meta_desc": "Dive into the world of Troll Level, a captivating strategy game playable on web and mobile. Unleash your strategic skills with unique gameplay mechanics and features.",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Troll Level free to play?",
+                            "answer": "A: Yes, Troll Level is a free - to - play strategy game. You can start playing without any upfront cost."
+                     },
+                     {
+                            "question": "Q: Can I play Troll Level on my mobile device?",
+                            "answer": "A: Absolutely! Troll Level is mobile - friendly and can be played on both smartphones and tablets."
+                     },
+                     {
+                            "question": "Q: Are there any in - app purchases in Troll Level?",
+                            "answer": "A: While the game is free to play, there are optional in - app purchases available that can enhance your gaming experience."
+                     },
+                     {
+                            "question": "Q: How often are the updates released for Troll Level?",
+                            "answer": "A: The developers release regular updates for Troll Level, which include new content, bug fixes, and balance adjustments."
+                     }
+              ]
        },
        {
               "id": 2491,
               "name": "boxing-stars",
               "sub_name": "Boxing Stars",
-              "desc_text": "Begin your journey in the streets as an underdog fighter, and rise to become the ultimate boxing champion. Enter the ring, unleash powerful punches, and dominate thrilling battles. This is your chance to prove yourself as a true hero of the ring and claim the championship belt in this epic real boxing game!",
+              "desc_text": "# Boxing Stars: The Ultimate Action - Packed Boxing Game\n\n## 🗺️Quick Overview of the Game\nBoxing Stars is a captivating action game that transports players into the high - octane world of professional boxing. With its realistic graphics and immersive gameplay, it brings the thrill of the boxing ring right to your fingertips. Whether you're a boxing enthusiast or just looking for an exciting action game, Boxing Stars has something for everyone.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Boxing Stars is intuitive and easy. You control a boxer in the ring, using simple yet effective controls to throw punches, dodge, and counter - attack. The game mechanics are well - designed, with different types of punches like jabs, hooks, and uppercuts. Each punch has its own power and speed, allowing you to strategize your attacks based on your opponent's movements. You can also level up your boxer, unlocking new skills and abilities as you progress through the game.\n\n## 🌟 Key Features and Unique Highlights\nOne of the main highlights of Boxing Stars is that it is free to play, making it accessible to a wide range of players. It offers online access, so you can compete with other players from around the world in real - time matches. The game also has a variety of arenas and opponents, each with their own unique fighting styles. Additionally, it features stunning graphics and sound effects that enhance the overall gaming experience.\n\n## 📱 Supported Platforms and Devices\nBoxing Stars is available as a browser game, which means you can play it directly on your web browser without the need for any downloads. It is also mobile - friendly, so you can enjoy the game on your smartphone or tablet. Whether you're at home or on the go, you can easily jump into the boxing ring and start fighting.\n\n## ✨ Recommended Games Similar to Boxing Stars\nIf you enjoy Boxing Stars, you might also like [Game Name 1]. This game also offers intense action in a combat setting and has similar gameplay mechanics. Another great option is [Game Name 2], which focuses on sports - themed battles and has a large community of players.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Boxing Stars, it's important to learn the timing of your punches and how to dodge effectively. The game has rules similar to real - life boxing, such as no hitting below the belt and respecting the round limits. The developers regularly release version updates, which bring new features, bug fixes, and improvements to the game.",
               "icon": "https://cdn.pokiter.com/html5New/boxing-stars/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/boxing-stars/index.html",
               "platform": "web,Mobile",
               "category": "Action",
-              "tags": "",
+              "tags": "boxing stars action game,free boxing game online,mobile boxing stars,web - based boxing game",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -680,18 +1016,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Boxing Stars: An Exciting Action Game for Web and Mobile",
+              "meta_desc": "Dive into the thrilling world of Boxing Stars! This action - packed game on web and mobile offers intense boxing matches, unique features, and easy gameplay. Don't miss out on the excitement!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Boxing Stars completely free to play?",
+                            "answer": "A: Yes, Boxing Stars is free to play. You can enjoy all the basic features of the game without any upfront cost."
+                     },
+                     {
+                            "question": "Q: Can I play Boxing Stars on my mobile device?",
+                            "answer": "A: Absolutely! Boxing Stars is mobile - friendly, so you can play it on your smartphone or tablet with ease."
+                     },
+                     {
+                            "question": "Q: Are there any in - app purchases in Boxing Stars?",
+                            "answer": "A: While the game is free, there are in - app purchases available. These can enhance your gaming experience by providing you with new items, skills, or power - ups."
+                     },
+                     {
+                            "question": "Q: Can I compete with other players in real - time?",
+                            "answer": "A: Yes, Boxing Stars offers online access, allowing you to compete with other players from around the world in real - time boxing matches."
+                     }
+              ]
        },
        {
               "id": 2492,
               "name": "fantasy-tower-defense",
               "sub_name": "Fantasy Tower Defense",
-              "desc_text": "Go back to your castle before rushing enemies arrive there and defend it in the final battle! Customize your tactic depending on enemies you encounter.",
+              "desc_text": "# Fantasy Tower Defense: A Magical Action Adventure\n\n## 🗺️Quick Overview of the Game\nFantasy Tower Defense is an enthralling action game that takes players into a fantastical realm. In this game, players are tasked with building and managing towers to defend their territory from waves of menacing enemies. The game combines strategic tower - building elements with fast - paced action, offering a unique and engaging experience.\n\n## 🤔 How to Play + Game Mechanics\nTo start playing Fantasy Tower Defense, players first need to select a suitable location to build their towers. Each tower has different attack capabilities, such as long - range attacks, area - of - effect damage, or high - speed shooting. As the game progresses, waves of enemies will approach from various paths. Players must strategically upgrade their towers to increase their power and effectiveness. The game mechanics involve resource management, as building and upgrading towers require in - game currency. Additionally, players can unlock special abilities and power - ups to gain an edge in the battles.\n\n## 🌟 Key Features and Unique Highlights\nOne of the standout features of Fantasy Tower Defense is its free - to - play model, allowing anyone to enjoy the game without any upfront costs. It also offers seamless online access, enabling players to compete with others around the world. The game has a rich variety of tower types, each with its own distinct appearance and function. The fantasy - themed graphics and immersive sound effects create a captivating atmosphere. Moreover, there are regular updates that introduce new towers, enemies, and levels, keeping the game fresh and exciting.\n\n## 📱 Supported Platforms and Devices\nFantasy Tower Defense is highly accessible as it is available as a browser game, meaning players can enjoy it directly on their web browsers without the need for installation. It is also mobile - friendly, allowing players to take the game with them on their smartphones and tablets. Whether you're at home or on the go, you can easily engage in epic tower - defense battles.\n\n## ✨ Recommended Games Similar to [Game Name]\nIf you enjoy Fantasy Tower Defense, you might also like [Another Tower Defense Game]. This game shares similar strategic elements and fantasy themes. Another great option is [Action - Packed Tower Defense], which offers a more intense action experience with unique tower - building mechanics. You can find more details about these games on our website.\n\n## 💡Tips, Rules, and Version Updates\nWhen playing Fantasy Tower Defense, it's important to balance your tower - building strategy. Don't focus too much on one type of tower; instead, mix and match to cover different enemy types. Keep an eye on your resources and upgrade your towers at the right time. As for rules, make sure to protect your base from all enemy attacks. The game developers regularly release version updates that bring bug fixes, new content, and performance improvements. Stay tuned to our official channels for the latest updates.",
               "icon": "https://cdn.pokiter.com/html5New/fantasy-tower-defense/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/fantasy-tower-defense/index.html",
               "platform": "web,Mobile",
               "category": "Action",
-              "tags": "",
+              "tags": "fantasy tower defense,action game online,free to play tower defense,mobile tower defense game,web - based tower defense",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -702,18 +1058,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Fantasy Tower Defense: An Action-Packed Game for All Platforms",
+              "meta_desc": "Dive into the thrilling world of Fantasy Tower Defense! An action game available on web and mobile. Build towers, defend against waves, and enjoy free - to - play online fun. Click to start your adventure now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Fantasy Tower Defense free to play?",
+                            "answer": "A: Yes, Fantasy Tower Defense is completely free to play. You can start defending your fantasy realm without any upfront costs."
+                     },
+                     {
+                            "question": "Q: Can I play Fantasy Tower Defense on my mobile device?",
+                            "answer": "A: Absolutely! Fantasy Tower Defense is mobile - friendly. You can play it on your smartphone or tablet with ease."
+                     },
+                     {
+                            "question": "Q: How often are new levels added to the game?",
+                            "answer": "A: The game developers regularly add new levels as part of their version updates. Keep an eye on our official channels for the latest content."
+                     },
+                     {
+                            "question": "Q: Are there different types of towers in Fantasy Tower Defense?",
+                            "answer": "A: Yes, there is a rich variety of tower types in the game. Each tower has its own unique attack capabilities and functions, allowing for diverse strategic gameplay."
+                     }
+              ]
        },
        {
               "id": 2493,
               "name": "hero-rush-tower-defense",
               "sub_name": "Hero Rush Tower Defense",
-              "desc_text": "Hero Rush Tower Defense is a 2D strategy game where your primary mission is to build and upgrade towers in order to defend your land.",
+              "desc_text": "# Hero Rush Tower Defense: An Action-Packed Adventure\n\n## 🗺️Quick Overview of the Game\nHero Rush Tower Defense is an exciting action - based tower defense game that combines strategic planning with intense combat. Set in a dynamic world, players are tasked with defending their territory from waves of enemies using a variety of heroes.\n\n## 🤔 How to Play + Game Mechanics\nIn Hero Rush Tower Defense, the gameplay is straightforward yet engaging. Players start by choosing their heroes, each with unique abilities and skills. These heroes are then strategically placed on the map to intercept and defeat incoming enemies. As the waves progress, the enemies become stronger and more diverse, forcing players to adapt their strategies. The game also features an upgrade system, allowing players to enhance their heroes' powers and unlock new abilities.\n\n## 🌟 Key Features and Unique Highlights\nOne of the standout features of Hero Rush Tower Defense is its free - to - play nature. You can access the game online without any upfront costs. The game offers a wide range of heroes, each with their own backstories and playstyles. Whether you prefer close - range combat or long - range attacks, there's a hero for you. Additionally, the game has regular updates, introducing new heroes, maps, and challenges.\n\n## 📱 Supported Platforms and Devices\nHero Rush Tower Defense is highly accessible as it is available both as a browser game and on mobile devices. This means you can enjoy the game on your desktop computer during your free time at work or on your smartphone while on the go. It's mobile - friendly, ensuring a smooth and immersive gaming experience regardless of the device you use.\n\n## ✨ Recommended Games Similar to Hero Rush Tower Defense\nIf you enjoy Hero Rush Tower Defense, you might also like other action - packed tower defense games such as [Another Tower Defense Game]. These games share similar gameplay mechanics and strategic elements, providing hours of entertainment. Click [here] to explore more similar games.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Hero Rush Tower Defense, it's important to balance your hero selection. Don't just focus on powerful heroes but also consider their synergy. The game follows a set of rules where each hero has specific attack ranges and cooldowns. Keep an eye on the version updates, as they often bring bug fixes, new content, and improved gameplay features.",
               "icon": "https://cdn.pokiter.com/html5New/hero-rush-tower-defense/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/hero-rush-tower-defense/index.html",
               "platform": "web,Mobile",
               "category": "Action",
-              "tags": "",
+              "tags": "hero rush tower defense,action tower defense game,web tower defense,mobile tower defense game",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -724,18 +1100,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Hero Rush Tower Defense: An Action-Packed Tower Defense Game",
+              "meta_desc": "Dive into the action of Hero Rush Tower Defense! Defend your territory with heroic strategies in this web and mobile tower defense game. Click to play now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Hero Rush Tower Defense free to play?",
+                            "answer": "A: Yes, Hero Rush Tower Defense is completely free to play. You can access it online without any upfront costs."
+                     },
+                     {
+                            "question": "Q: Can I play Hero Rush Tower Defense on my mobile device?",
+                            "answer": "A: Absolutely! The game is available on both web browsers and mobile devices. It is mobile - friendly, ensuring a great gaming experience on your smartphone or tablet."
+                     },
+                     {
+                            "question": "Q: Are there different types of heroes in Hero Rush Tower Defense?",
+                            "answer": "A: Yes, the game offers a wide variety of heroes, each with unique abilities and playstyles. You can choose heroes based on your preferred combat strategy."
+                     },
+                     {
+                            "question": "Q: How often does the game get updated?",
+                            "answer": "A: The game developers regularly update Hero Rush Tower Defense. These updates introduce new heroes, maps, and challenges, as well as bug fixes and gameplay improvements."
+                     }
+              ]
        },
        {
               "id": 2494,
               "name": "squid-race-simulator",
               "sub_name": "Squid Race Simulator",
-              "desc_text": "Squid Race Simulator offers the guarantee of fun in unexpected ways. Its frivolity is shown in the rules that present a past most played games.",
+              "desc_text": "# Squid Race Simulator: An Action - Packed Racing Adventure\n\n## 🗺️Quick Overview of the Game\nSquid Race Simulator is an exhilarating action game that transports players into the exciting world of squid racing. In this game, you take control of a squid and compete in high - speed races against other aquatic creatures. The vibrant underwater environments are filled with obstacles and power - ups, adding an extra layer of excitement to each race.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Squid Race Simulator is straightforward yet challenging. To start, choose your favorite squid character. Once the race begins, use the on - screen controls to navigate your squid through the race track. You can speed up, slow down, and perform sharp turns to avoid obstacles. Along the way, collect power - ups that can give you an edge over your opponents. These power - ups range from speed boosts to invincibility, allowing you to dominate the race.\n\n## 🌟 Key Features and Unique Highlights\nOne of the most appealing aspects of Squid Race Simulator is that it is free to play. You can access the game online from any device with a web browser or download it on your mobile. The game also features a variety of tracks, each with its own unique layout and challenges. Additionally, there are different difficulty levels, making it suitable for both casual gamers and seasoned players. The graphics are vivid and detailed, creating an immersive underwater racing experience.\n\n## 📱 Supported Platforms and Devices\nSquid Race Simulator is designed to be accessible on multiple platforms. It is a browser game, which means you can play it directly on your computer without the need for any downloads. Moreover, it is mobile - friendly, so you can enjoy the races on your smartphone or tablet. Whether you're at home or on the go, you can always jump into a thrilling squid race.\n\n## ✨ Recommended Games Similar to Squid Race Simulator\nIf you enjoy Squid Race Simulator, you might also like [Fish Racing Mania](link_to_fish_racing_mania). It's another action - packed racing game set in the underwater world. [Octopus Dash](link_to_octopus_dash) is also a great option, offering a similar racing experience with unique octopus characters. These games share the same high - energy action and engaging gameplay as Squid Race Simulator.\n\n## 💡Tips, Rules, and Version Updates\nTo win races in Squid Race Simulator, it's important to time your power - up usage carefully. Try to collect power - ups when you're in a tight spot or approaching a difficult obstacle. The game has a simple rule: be the first to cross the finish line. As for version updates, the developers are constantly adding new tracks, characters, and power - ups to keep the game fresh and exciting. Make sure to check for updates regularly to enjoy the latest features.",
               "icon": "https://cdn.pokiter.com/html5New/squid-race-simulator/icon.png",
               "html": "https://cdn.pokiter.com/html5New/squid-race-simulator/index.html",
               "platform": "web,Mobile",
               "category": "Action",
-              "tags": "",
+              "tags": "squid race simulator,action game,web game,mobile game,squid racing adventure",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -746,18 +1142,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Squid Race Simulator: An Action-Packed Gaming Experience",
+              "meta_desc": "Dive into the thrilling world of Squid Race Simulator! An action game playable on web and mobile, offering a unique racing adventure that will keep you engaged for hours.",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Squid Race Simulator free to play?",
+                            "answer": "A: Yes, Squid Race Simulator is completely free to play. You can access it online via a web browser or download it on your mobile device without any cost."
+                     },
+                     {
+                            "question": "Q: Can I play Squid Race Simulator on my mobile phone?",
+                            "answer": "A: Absolutely! Squid Race Simulator is mobile - friendly. You can download the game from the app store and enjoy squid races on your smartphone or tablet."
+                     },
+                     {
+                            "question": "Q: Are there different difficulty levels in Squid Race Simulator?",
+                            "answer": "A: Yes, the game offers various difficulty levels. Whether you're a beginner or an experienced gamer, you can choose a level that suits your skills."
+                     },
+                     {
+                            "question": "Q: How often are there updates in Squid Race Simulator?",
+                            "answer": "A: The developers of Squid Race Simulator regularly release updates. These updates may include new tracks, characters, and power - ups to enhance your gaming experience."
+                     }
+              ]
        },
        {
               "id": 2495,
               "name": "stick-guys-defense",
               "sub_name": "Stick Guys Defense",
-              "desc_text": "Stick Guys Defense is a strategy game with the goal of upgrading your units and surviving as long as you can.",
+              "desc_text": "# Stick Guys Defense: An Exciting Action Adventure\n\n## 🗺️Quick Overview of the Game\nStick Guys Defense is an exhilarating action game that has captured the hearts of gamers worldwide. Set in a dynamic virtual world, players take on the role of a commander leading stick guys to defend their territory from various enemies. The game combines fast - paced action with strategic elements, offering a unique and engaging experience.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Stick Guys Defense is straightforward yet full of depth. At the start, you'll be presented with a battlefield where your stick guys are stationed. Your main objective is to prevent waves of enemies from breaching your defenses. You can control the movement and attacks of your stick guys, using different abilities and weapons to fend off the invaders. The game mechanics involve resource management, as you need to collect in - game resources to upgrade your stick guys and their equipment. As you progress through the levels, the enemies become more powerful and numerous, requiring you to develop new strategies.\n\n## 🌟 Key Features and Unique Highlights\nOne of the main highlights of Stick Guys Defense is its free - to - play nature. You can access the game online without any upfront costs, making it accessible to a wide range of players. It also offers a high - quality graphics experience, with detailed stick figures and vibrant battlefields. The game is constantly updated with new levels, enemies, and stick guy abilities, ensuring that there's always something new to discover. Additionally, the ability to play on both web and mobile platforms gives you the flexibility to enjoy the game wherever you are.\n\n## 📱 Supported Platforms and Devices\nStick Guys Defense is designed to be browser - friendly, so you can play it directly on your web browser without the need for any additional downloads. It's also fully optimized for mobile devices, whether you're using an Android or iOS device. This cross - platform compatibility means that you can switch between your computer and mobile phone seamlessly, continuing your gaming session without any hassle.\n\n## ✨ Recommended Games Similar to [Game Name]\nIf you enjoy Stick Guys Defense, you might also like other action - packed games such as [Link to Game 1] 'Stick Wars Online' and [Link to Game 2] 'Mobile Stick Combat'. These games share similar themes of stick - figure battles and strategic gameplay, providing hours of entertainment.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Stick Guys Defense, it's important to focus on upgrading your stick guys early on. Prioritize the abilities that will give you an edge in battles, such as increased attack power or faster movement speed. The game has a set of rules regarding resource collection and usage, so make sure to familiarize yourself with them. The developers regularly release version updates, which often include bug fixes, new content, and balance adjustments to keep the game fair and exciting.",
               "icon": "https://cdn.pokiter.com/html5New/stick-guys-defense/icon.avif",
               "html": "https://cdn.pokiter.com/html5New/stick-guys-defense/index.html",
               "platform": "web,Mobile",
               "category": "Action",
-              "tags": "",
+              "tags": "Stick Guys Defense,action game,web game,mobile game,stick guys defense strategy,online stick guys game",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -768,18 +1184,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Stick Guys Defense: An Action-Packed Web and Mobile Game",
+              "meta_desc": "Dive into the thrilling world of Stick Guys Defense, an action game playable on web and mobile. Defend your territory with stick guys in exciting battles!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Stick Guys Defense free to play?",
+                            "answer": "A: Yes, Stick Guys Defense is a free - to - play game. You can access it online without any upfront payment."
+                     },
+                     {
+                            "question": "Q: Can I play Stick Guys Defense on my mobile phone?",
+                            "answer": "A: Absolutely! Stick Guys Defense is fully optimized for both Android and iOS mobile devices, allowing you to play on the go."
+                     },
+                     {
+                            "question": "Q: How often are new levels added to the game?",
+                            "answer": "A: The developers regularly update the game with new levels, enemies, and features. While there's no fixed schedule, you can expect new content to be added frequently."
+                     },
+                     {
+                            "question": "Q: Are there any in - game purchases in Stick Guys Defense?",
+                            "answer": "A: Yes, there are in - game purchases available. These can help you progress faster by providing additional resources or upgrades, but they are entirely optional."
+                     }
+              ]
        },
        {
               "id": 2496,
               "name": "monster-survivors",
               "sub_name": "Monster Survivors",
-              "desc_text": "\"Monster Survivors: Last Stand\" is a thrilling action-packed game that challenges you to outlive the hordes of terrifying monsters. With its unique blend of strategy and fast-paced combat, this game puts your survival skills to the ultimate test.",
+              "desc_text": "# Monster Survivors: An Epic Action Adventure\n\n## 🗺️Quick Overview of the Game\nMonster Survivors is an exhilarating action game that takes players into a world overrun by monsters. Set in a post - apocalyptic landscape, players must use their combat skills to fend off wave after wave of terrifying creatures. The game's high - energy action and immersive environment make it a top choice for action game enthusiasts.\n\n## 🤔 How to Play + Game Mechanics\nIn Monster Survivors, the objective is simple yet challenging: survive as long as possible against the monster onslaught. Players control a character with a variety of weapons at their disposal, from swords to guns. Each weapon has its own unique attack pattern and damage output. As you progress, you can upgrade your weapons and unlock new abilities. The game mechanics are intuitive, allowing new players to quickly pick up and start playing, while still offering depth for more experienced gamers.\n\n## 🌟 Key Features and Unique Highlights\nOne of the standout features of Monster Survivors is its free - to - play model. You can access the game online from your web browser or download it on your mobile device. This cross - platform availability ensures that you can enjoy the game anytime, anywhere. The game also features regular updates, adding new monsters, weapons, and levels to keep the gameplay fresh and exciting.\n\n## 📱 Supported Platforms and Devices\nMonster Survivors is designed to be accessible on multiple platforms. It is a browser game, so you can play it directly on your computer without the need for any downloads. Additionally, it is mobile - friendly, allowing you to take the action on the go. Whether you have an Android or iOS device, you can easily download and start playing Monster Survivors.\n\n## ✨ Recommended Games Similar to [Game Name]\nIf you enjoy Monster Survivors, you might also like [Game 1 Link]. It offers a similar action - packed experience with a different set of monsters and environments. Another great option is [Game 2 Link], which focuses on survival against mythical creatures. These games share the same high - octane action and survival elements as Monster Survivors.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Monster Survivors, it's important to manage your resources wisely. Upgrade your weapons early on to deal more damage to monsters. The game has a set of rules regarding combat and item usage, so make sure to read them carefully. The developers are constantly releasing version updates, which often include bug fixes, balance changes, and new content. Stay tuned to the official website for the latest news.",
               "icon": "https://cdn.pokiter.com/html5New/monster-survivors/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/monster-survivors/index.html",
               "platform": "web,Mobile",
               "category": "Action",
-              "tags": "",
+              "tags": "Monster Survivors action game,web action game,mobile action game,monster battle game,survivor action experience",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -790,8 +1226,36 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Monster Survivors: An Intense Action Game for Web and Mobile",
+              "meta_desc": "Dive into the thrilling world of Monster Survivors! This action-packed game on web and mobile offers endless excitement as you battle hordes of monsters. Don't miss out on the adventure!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Monster Survivors free to play?",
+                            "answer": "A: Yes, Monster Survivors is a free - to - play game. You can access it online via your web browser or download it on your mobile device at no cost."
+                     },
+                     {
+                            "question": "Q: What platforms can I play Monster Survivors on?",
+                            "answer": "A: Monster Survivors is available on both web browsers and mobile devices. It supports Android and iOS platforms, so you can play it on your phone or tablet as well as your computer."
+                     },
+                     {
+                            "question": "Q: How do I upgrade my weapons in Monster Survivors?",
+                            "answer": "A: As you progress in the game and earn in - game currency, you can use it to upgrade your weapons. Navigate to the weapon upgrade menu to see the available upgrades."
+                     },
+                     {
+                            "question": "Q: Are there regular updates for Monster Survivors?",
+                            "answer": "A: Yes, the developers regularly update the game. These updates can include new monsters, weapons, levels, bug fixes, and balance changes."
+                     }
+              ]
        },
+
+
+
+
+
+
+
+
 
 
        {
@@ -925,16 +1389,17 @@ const defaultGamelist: Game[] = [
               "review": "I like to pass the time with Water Sort: maple match Online Game, especially since it's a puzzle game. When I'm feeling frustrated with my advanced math problems, I always play this game to help calm my mood."
 
        },
+
        {
               "id": 2498,
               "name": "warstrike",
               "sub_name": "Warstrike",
-              "desc_text": "WarStrike is a thrilling first-person shooter (FPS) game that allows you to experience the thrill and excitement of battle like never before.",
+              "desc_text": "# Warstrike: The Ultimate Shooting Adventure\n\n## 🗺️Quick Overview of the Game\nWarstrike is an exhilarating shooting game that takes players on a high - octane journey through intense battlefields. Set in a variety of realistic and immersive environments, this game offers an unparalleled shooting experience. Whether you're a seasoned gamer or new to the shooting genre, Warstrike has something to offer.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Warstrike is intuitive and straightforward. The controls are designed to be user - friendly, allowing players to quickly get into the action. You'll use the keyboard on web platforms or the touch - screen on mobile devices to move, aim, and shoot. The game features a range of weapons, from pistols to high - powered rifles, each with its own unique stats and firing patterns. As you progress through the game, you can unlock new weapons and upgrades to enhance your performance. Battles take place in different arenas, and the objective may vary from eliminating all enemies to completing specific missions.\n\n## 🌟 Key Features and Unique Highlights\nOne of the biggest highlights of Warstrike is its free - to - play nature. You can enjoy all the thrills of the game without spending a dime. It also offers online access, allowing you to play with friends or against other players from around the world. The graphics are top - notch, with detailed character models and realistic environments that enhance the overall immersion. Additionally, the game has regular updates, introducing new content such as maps, weapons, and game modes.\n\n## 📱 Supported Platforms and Devices\nWarstrike is incredibly versatile, being available as a browser game and is fully mobile - friendly. You can play it directly on your web browser without the need for any downloads on your computer. On mobile, it runs smoothly on both Android and iOS devices, providing a seamless gaming experience whether you're at home or on the go.\n\n## ✨ Recommended Games Similar to [Game Name]\nIf you enjoy Warstrike, you might also like [Other Shooting Game 1]. It has similar fast - paced shooting action and a wide range of weapons. Another great option is [Other Shooting Game 2], which offers a more strategic approach to shooting games. Both of these games provide engaging experiences for shooting game enthusiasts.\n\n## 💡Tips, Rules, and Version Updates\nTo excel in Warstrike, it's important to practice your aiming skills and learn the strengths and weaknesses of different weapons. Make sure to complete daily quests to earn rewards and unlock new items. The game developers are constantly working on updates, which often include bug fixes, balance adjustments, and new features. Stay tuned to the official website for the latest news on version updates.",
               "icon": "https://cdn.pokiter.com/html5New/warstrike/icon.avif",
               "html": "https://cdn.pokiter.com/html5New/warstrike/index.html",
               "platform": "web,Mobile",
               "category": "Shooting",
-              "tags": "",
+              "tags": "Warstrike shooting game,free online shooting game,mobile shooting game,web - based shooting game,intense shooting battles in Warstrike",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -945,18 +1410,42 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Warstrike: An Intense Shooting Game for Web and Mobile",
+              "meta_desc": "Dive into the action of Warstrike, a thrilling shooting game available on web and mobile. Engage in epic battles with unique features and easy - to - learn mechanics. Click to play now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Warstrike free to play?",
+                            "answer": "A: Yes, Warstrike is a free - to - play shooting game. You can enjoy all the basic features without any cost."
+                     },
+                     {
+                            "question": "Q: Can I play Warstrike on my mobile device?",
+                            "answer": "A: Absolutely! Warstrike is mobile - friendly and can be played on both Android and iOS devices."
+                     },
+                     {
+                            "question": "Q: How do I unlock new weapons in Warstrike?",
+                            "answer": "A: You can unlock new weapons by progressing through the game, completing missions, and earning rewards."
+                     },
+                     {
+                            "question": "Q: Are there any in - app purchases in Warstrike?",
+                            "answer": "A: While the game is free to play, there are optional in - app purchases that can enhance your gaming experience, such as buying premium weapons or upgrades."
+                     },
+                     {
+                            "question": "Q: Can I play Warstrike with my friends?",
+                            "answer": "A: Yes, Warstrike offers online access, allowing you to play with friends or against other players from around the world."
+                     }
+              ]
        },
        {
               "id": 2499,
               "name": "stickman-fight-ragdoll-v2",
               "sub_name": "Stickman Fight: Ragdoll V2",
-              "desc_text": "Stickman Fight: Ragdoll is a skill game where you need to control a floppy stickman ragdoll in intense battles against both enemies and physics!",
+              "desc_text": "# Stickman Fight: Ragdoll V2 - An Epic Action Adventure\n\n## 🗺️Quick Overview of the Game\nStickman Fight: Ragdoll V2 is an exhilarating action game that takes the classic stickman fighting concept to a whole new level. With its unique ragdoll physics engine, every fight is filled with unpredictable movements and intense combat. The game offers a variety of arenas and opponents, ensuring that players never get bored.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Stickman Fight: Ragdoll V2 is straightforward. Use the on - screen controls to move your stickman, punch, kick, and perform special moves. The ragdoll physics come into play when you land a powerful hit, causing your opponent to flail in a comical yet realistic way. As you progress through the game, you can unlock new characters with different fighting styles and abilities.\n\n## 🌟 Key Features and Unique Highlights\nOne of the main highlights of Stickman Fight: Ragdoll V2 is its free - to - play nature. You can enjoy the game online without having to spend a dime. The online access means you can play anywhere, anytime, as long as you have an internet connection. The ragdoll physics add a layer of fun and realism that is hard to find in other stickman games.\n\n## 📱 Supported Platforms and Devices\nThis game is highly versatile, being available on both web browsers and mobile devices. Whether you prefer to play on your computer or on the go with your smartphone, Stickman Fight: Ragdoll V2 has you covered. It is optimized for a smooth experience on various screen sizes, making it accessible to a wide range of players.\n\n## ✨ Recommended Games Similar to [Stickman Fight: Ragdoll V2]\nIf you enjoy Stickman Fight: Ragdoll V2, you might also like [Stickman Battle Arena] and [Ragdoll Stickman Combat]. These games share similar action - packed elements and stickman characters, providing you with more exciting fighting experiences.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Stickman Fight: Ragdoll V2, try to master the timing of your attacks. Learn the special moves of your characters and use them strategically. The game developers regularly release version updates, which may include new characters, arenas, and improvements to the game mechanics.",
               "icon": "https://cdn.pokiter.com/html5New/stickman-fight-ragdoll-v2/icon.avif",
               "html": "https://cdn.pokiter.com/html5New/stickman-fight-ragdoll-v2/index.html",
               "platform": "web,Mobile",
               "category": "Action",
-              "tags": "",
+              "tags": "Stickman Fight: Ragdoll V2,action game,stickman fighting,ragdoll physics,free online game,mobile action game",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -967,18 +1456,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Stickman Fight: Ragdoll V2 - An Action-Packed Stickman Fighting Game",
+              "meta_desc": "Dive into the thrilling world of Stickman Fight: Ragdoll V2! This action game offers intense battles and unique ragdoll physics. Play online on web or mobile for free and experience the excitement now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Stickman Fight: Ragdoll V2 free to play?",
+                            "answer": "A: Yes, Stickman Fight: Ragdoll V2 is completely free to play. You can enjoy all the features and battles without any upfront cost."
+                     },
+                     {
+                            "question": "Q: Can I play Stickman Fight: Ragdoll V2 on my mobile phone?",
+                            "answer": "A: Absolutely! The game is available on both web browsers and mobile devices, so you can play it on your phone anytime, anywhere."
+                     },
+                     {
+                            "question": "Q: Are there different characters in Stickman Fight: Ragdoll V2?",
+                            "answer": "A: Yes, as you progress through the game, you can unlock new characters with different fighting styles and abilities."
+                     },
+                     {
+                            "question": "Q: How often are there updates for Stickman Fight: Ragdoll V2?",
+                            "answer": "A: The game developers regularly release version updates, which may include new characters, arenas, and improvements to the game mechanics."
+                     }
+              ]
        },
        {
               "id": 2500,
               "name": "love-tester-story",
               "sub_name": "Love Tester Story",
-              "desc_text": "The ultimate love compatibility game that combines fun, excitement and a touch of romance. Discover how compatible you are with your crush or partner.",
+              "desc_text": "# Love Tester Story: A Puzzle Adventure Mini Game\n\n## 🗺️Quick Overview of the Love Tester Story Game\nLove Tester Story is a one - of - a - kind puzzle game that combines the thrill of puzzle - solving with heart - warming love stories. Set in a world full of romantic scenarios, players are tasked with solving various puzzles to progress through the engaging narrative.\n\n## 🤔 How to Play + Game Mechanics of Love Tester Story\nTo start playing Love Tester Story, simply load the game on your web browser or mobile device. The game presents you with different levels of puzzles, each linked to a specific part of the love story. The puzzles range from simple jigsaw - like arrangements to complex logic challenges. As you solve each puzzle, you unlock new chapters of the story, revealing more about the characters and their relationships.\n\n## 🌟 Key Features and Unique Highlights of Love Tester Story\nOne of the most significant highlights of Love Tester Story is that it is free to play. You can access the game online without any need for downloads. The game also offers a highly immersive experience, with detailed graphics and an emotional storyline. Additionally, it is constantly updated with new levels and stories, ensuring that players always have something fresh to look forward to.\n\n## 📱 Supported Platforms and Devices for Love Tester Story\nLove Tester Story is designed to be accessible on multiple platforms. It is a browser game, which means you can play it directly from your web browser on your desktop or laptop. Moreover, it is mobile - friendly, allowing you to enjoy the game on your smartphone or tablet. Whether you're at home or on the go, you can always engage in the world of Love Tester Story.\n\n## ✨ Recommended Games Similar to Love Tester Story\nIf you enjoy Love Tester Story, you might also like [Another Puzzle Game]. This game also features puzzle - solving elements combined with a story. Another option is [Romantic Puzzle Adventure], which offers a similar love - themed puzzle experience. These games provide a comparable level of entertainment and engagement.\n\n## 💡Tips, Rules, and Version Updates for Love Tester Story\nWhen playing Love Tester Story, it's important to take your time with the puzzles. Sometimes, a fresh perspective can help you solve a difficult challenge. The game follows a set of rules where you must complete each puzzle within a certain number of moves to progress smoothly. As for version updates, the developers regularly add new levels, improve graphics, and enhance the overall gameplay experience.",
               "icon": "https://cdn.pokiter.com/html5New/love-tester-story/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/love-tester-story/index.html",
               "platform": "web,Mobile",
               "category": "Puzzle",
-              "tags": "",
+              "tags": "Love Tester Story,puzzle game,web - based puzzle game,mobile puzzle game,love - themed puzzles",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -989,18 +1498,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Love Tester Story: An Engaging Puzzle Game for Web and Mobile",
+              "meta_desc": "Dive into the Love Tester Story, a captivating puzzle game available on web and mobile. Solve unique puzzles, explore love - themed scenarios, and enjoy endless entertainment!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Love Tester Story really free to play?",
+                            "answer": "A: Yes, Love Tester Story is completely free to play. You can access it online without any cost."
+                     },
+                     {
+                            "question": "Q: Can I play Love Tester Story on my mobile phone?",
+                            "answer": "A: Absolutely! Love Tester Story is mobile - friendly, so you can play it on your smartphone or tablet."
+                     },
+                     {
+                            "question": "Q: How often are new levels added to Love Tester Story?",
+                            "answer": "A: The developers regularly update the game with new levels and stories to keep the gameplay fresh and exciting."
+                     },
+                     {
+                            "question": "Q: Do I need to download Love Tester Story to play?",
+                            "answer": "A: No, it's a browser game. You can play it directly from your web browser without any downloads."
+                     }
+              ]
        },
        {
               "id": 2501,
               "name": "nuts-and-bolts-puzzle",
               "sub_name": "Nuts and Bolts Puzzle",
-              "desc_text": "Bolts and Nuts is a simple and fun puzzle game in which you test your logic and strategic thinking by solving unique puzzles.",
+              "desc_text": "# Nuts and Bolts Puzzle: A Captivating Puzzle Adventure\n\n## 🗺️Quick Overview of the Game\nThe Nuts and Bolts Puzzle is an exciting addition to the puzzle game genre. It offers players a chance to immerse themselves in a world of mechanical puzzles. With its unique concept of nuts and bolts, it brings a fresh twist to traditional puzzle games.\n\n## 🤔 How to Play + Game Mechanics\nPlaying the Nuts and Bolts Puzzle is straightforward yet challenging. The objective is to assemble nuts and bolts in the correct order to complete each level. You'll need to use your spatial awareness and problem - solving skills. As you progress through the levels, the puzzles become more complex, requiring you to think strategically. The game mechanics are intuitive, making it accessible for both novice and experienced puzzle players.\n\n## 🌟 Key Features and Unique Highlights\nOne of the standout features of the Nuts and Bolts Puzzle is its free - to - play nature. You can enjoy hours of gameplay without spending a dime. It also offers online access, allowing you to play anytime, anywhere as long as you have an internet connection. The game has a vast collection of levels, ensuring that you'll never run out of new challenges. Additionally, the graphics are well - designed, creating an immersive and engaging environment.\n\n## 📱 Supported Platforms and Devices\nThe Nuts and Bolts Puzzle is a browser game, which means you can play it directly on your web browser without the need for any additional downloads. It is also mobile - friendly, so you can enjoy the game on your smartphone or tablet. Whether you're at home or on the go, you can easily access and play this puzzle game.\n\n## ✨ Recommended Games Similar to Nuts and Bolts Puzzle\nIf you enjoy the Nuts and Bolts Puzzle, you might also like [Jigsaw Master]. It offers a different type of puzzle experience with its jigsaw pieces. Another great option is [Mechanical Maze], which also focuses on mechanical - themed puzzles. These games share similar elements and can provide you with more puzzle - solving fun.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in the Nuts and Bolts Puzzle, it's important to take your time and analyze each puzzle carefully. Don't rush into making moves. The game has simple rules, but as the levels get harder, you'll need to be more strategic. The developers regularly update the game, adding new levels and improving the overall gameplay experience. Keep an eye out for these updates to stay engaged and challenged.",
               "icon": "https://cdn.pokiter.com/html5New/nuts-and-bolts-puzzle/icon.avif",
               "html": "https://cdn.pokiter.com/html5New/nuts-and-bolts-puzzle/index.html",
               "platform": "web,Mobile",
               "category": "Puzzle",
-              "tags": "",
+              "tags": "nuts and bolts puzzle,online puzzle game,mobile puzzle game,challenging puzzles,free puzzle game",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1011,18 +1540,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Nuts and Bolts Puzzle: An Engaging Online Puzzle Game",
+              "meta_desc": "Dive into the Nuts and Bolts Puzzle, a captivating web and mobile puzzle game. Solve challenging puzzles, enjoy unique features, and have endless fun! Click now to play.",
+              "FAQS": [
+                     {
+                            "question": "Q: Is the Nuts and Bolts Puzzle free to play?",
+                            "answer": "A: Yes, the Nuts and Bolts Puzzle is completely free to play. You can enjoy all the levels without any cost."
+                     },
+                     {
+                            "question": "Q: Can I play the Nuts and Bolts Puzzle on my mobile device?",
+                            "answer": "A: Absolutely! The game is mobile - friendly, so you can play it on your smartphone or tablet."
+                     },
+                     {
+                            "question": "Q: How many levels are there in the Nuts and Bolts Puzzle?",
+                            "answer": "A: The game has a vast collection of levels, and new levels are regularly added with updates."
+                     },
+                     {
+                            "question": "Q: Do I need to download the Nuts and Bolts Puzzle to play?",
+                            "answer": "A: No, it's a browser game. You can play it directly on your web browser without any downloads."
+                     }
+              ]
        },
        {
               "id": 2502,
               "name": "social-media-snake",
               "sub_name": "Social Media Snake",
-              "desc_text": "Tap and drag to make the little snake follow you. Point it in the direction of social media icons. The more the snake eats, the longer it gets.",
+              "desc_text": "# Social Media Snake: A New Puzzle Adventure\n## 🗺️Quick Overview of the Social Media Snake Game\nSocial Media Snake is a revolutionary puzzle game that combines the classic snake concept with a modern social media twist. In this game, players control a snake that navigates through a social - media - themed environment. The goal is to solve various puzzles to make the snake grow longer and reach new levels.\n## 🤔 How to Play Social Media Snake + Game Mechanics\nPlaying Social Media Snake is easy yet addictive. Use the arrow keys on your keyboard (for web) or the on - screen controls on your mobile device to move the snake. The snake moves around the social media landscape, encountering different types of obstacles and power - ups. To solve puzzles, you need to collect specific items scattered across the map. These items are often related to social media elements like likes, shares, and comments. As you collect these items, the snake grows in length, and you can unlock new areas and more challenging puzzles.\n## 🌟 Key Features and Unique Highlights\nOne of the most significant highlights of Social Media Snake is that it's free to play. You can access the game online from any device with an internet connection. The game also features regular updates, adding new puzzles, power - ups, and social media - themed levels. The graphics are colorful and engaging, creating an immersive social media - like experience. Another unique feature is the ability to connect with friends. You can compare scores, share your achievements, and even compete in special events.\n## 📱 Supported Platforms and Devices\nSocial Media Snake is a browser - based game, which means you can play it directly on your web browser without the need for any downloads. It's also mobile - friendly, so you can enjoy the game on your smartphone or tablet. Whether you're using an Android or iOS device, the game adapts smoothly to different screen sizes and resolutions.\n## ✨ Recommended Games Similar to Social Media Snake\nIf you enjoy Social Media Snake, you might also like other puzzle games on our platform. [Puzzle Master] is a great choice, offering a variety of challenging puzzles with different themes. [Snake Mania] is another classic snake - based game with unique gameplay mechanics. These games share similar elements with Social Media Snake and are sure to keep you entertained.\n## 💡Tips, Rules, and Version Updates\nTo excel in Social Media Snake, try to focus on collecting the most valuable items first. Don't be afraid to take risks and explore new areas of the map. The game has a set of rules, such as avoiding hitting the walls or the snake's own body. Regular version updates bring new features, bug fixes, and improved gameplay. Keep an eye on our official website for the latest news and announcements.",
               "icon": "https://cdn.pokiter.com/html5New/social-media-snake/icon.png",
               "html": "https://cdn.pokiter.com/html5New/social-media-snake/index.html",
               "platform": "web,Mobile",
               "category": "Puzzle",
-              "tags": "",
+              "tags": "social media snake,puzzle game,web game,mobile game,social media themed puzzle",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1033,18 +1582,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Social Media Snake: A Captivating Puzzle Game for Web and Mobile",
+              "meta_desc": "Dive into the world of Social Media Snake, a unique puzzle game available on web and mobile. Enjoy engaging gameplay and discover new challenges today!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Social Media Snake free to play?",
+                            "answer": "A: Yes, Social Media Snake is completely free to play. You can access it online without any cost."
+                     },
+                     {
+                            "question": "Q: Can I play Social Media Snake on my mobile device?",
+                            "answer": "A: Absolutely! Social Media Snake is mobile - friendly and can be played on both Android and iOS devices."
+                     },
+                     {
+                            "question": "Q: How do I solve puzzles in Social Media Snake?",
+                            "answer": "A: To solve puzzles, you need to collect specific social - media - related items scattered across the map. As you collect these items, you can progress through the levels."
+                     },
+                     {
+                            "question": "Q: Are there any updates for Social Media Snake?",
+                            "answer": "A: Yes, the game developers regularly release updates with new puzzles, power - ups, and other features. Keep checking our official website for the latest news."
+                     }
+              ]
        },
        {
               "id": 2503,
               "name": "8-ball-pool-billiard",
               "sub_name": "8 Ball Pool Billiard",
-              "desc_text": "8 Ball Pool is an addictive challenging game based on real 3D pool games, where you will challenge your friends online.",
+              "desc_text": "# 8 Ball Pool Billiard: The Premier Sports Gaming Experience\n\n## 🗺️Quick Overview of the 8 Ball Pool Billiard\n8 Ball Pool Billiard is a captivating sports game that brings the classic billiards experience right to your screens. Whether you're a seasoned billiards pro or a beginner looking to have some fun, this game offers an immersive and engaging gameplay environment.\n\n## 🤔 How to Play + Game Mechanics\nThe objective of 8 Ball Pool Billiard is straightforward. The game starts with a break shot to scatter the balls across the table. Players are then assigned either solids or stripes, and the goal is to pocket all of your assigned balls first and then sink the 8 - ball to win. You use the mouse or touch controls on mobile to aim and shoot the cue ball. Factors like angle, power, and spin play crucial roles in your shots, adding depth to the gameplay mechanics.\n\n## 🌟 Key Features and Unique Highlights\nOne of the standout features of 8 Ball Pool Billiard is its free - to - play nature. You can start playing right away without any upfront costs. It also offers online access, allowing you to compete with players from all over the world. The game has realistic physics, which makes the ball movements and collisions feel authentic. Additionally, there are various game modes and tournaments to keep the gameplay fresh and exciting.\n\n## 📱 Supported Platforms and Devices\n8 Ball Pool Billiard is highly versatile. It is a browser game, which means you can play it directly on your web browser without the need for any additional downloads. It is also mobile - friendly, so you can enjoy a seamless gaming experience on your smartphones and tablets. Whether you're at home or on the go, you can always pick up a game of 8 ball pool.\n\n## ✨ Recommended Games Similar to 8 Ball Pool Billiard\nIf you enjoy 8 Ball Pool Billiard, you might also like [9 Ball Pool]. It shares similar gameplay mechanics but with a different ball - sinking objective. Another great option is [Snooker Master], which offers a more complex and strategic billiards experience. Both of these games are available on the same platforms as 8 Ball Pool Billiard.\n\n## 💡Tips, Rules, and Version Updates\nTo improve your skills in 8 Ball Pool Billiard, practice your aim and power control. Always plan your shots in advance to set up your next move. The game follows standard 8 - ball pool rules, where scratching on the break or pocketing the 8 - ball prematurely results in a foul. The developers regularly update the game to add new features, fix bugs, and enhance the overall gaming experience.",
               "icon": "https://cdn.pokiter.com/html5New/8-ball-pool-billiard/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/8-ball-pool-billiard/index.html",
               "platform": "web,Mobile",
               "category": "Sports",
-              "tags": "",
+              "tags": "8 ball pool billiard,online sports game,free 8 ball pool,mobile billiard game,web-based billiard game",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1055,18 +1624,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "8 Ball Pool Billiard: Play the Ultimate Online Sports Game",
+              "meta_desc": "Dive into the thrilling world of 8 Ball Pool Billiard! Enjoy a realistic sports experience on web and mobile. Compete with players globally and showcase your billiards skills now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is 8 Ball Pool Billiard free to play?",
+                            "answer": "A: Yes, 8 Ball Pool Billiard is completely free to play. You can start enjoying the game without any upfront payments."
+                     },
+                     {
+                            "question": "Q: Can I play 8 Ball Pool Billiard on my mobile device?",
+                            "answer": "A: Absolutely! The game is mobile - friendly and can be played on both smartphones and tablets. You can access it through your mobile browser."
+                     },
+                     {
+                            "question": "Q: How do I win a game of 8 Ball Pool Billiard?",
+                            "answer": "A: First, pocket all of your assigned balls (either solids or stripes). After that, sink the 8 - ball legally to win the game. Make sure to avoid scratching or pocketing the 8 - ball prematurely."
+                     },
+                     {
+                            "question": "Q: Are there different game modes in 8 Ball Pool Billiard?",
+                            "answer": "A: Yes, the game offers various game modes and tournaments to keep the gameplay diverse and exciting. You can explore these modes as you progress in the game."
+                     }
+              ]
        },
        {
               "id": 2504,
               "name": "geometry-dash-freezenova",
               "sub_name": "Geometry Dash Freezenova",
-              "desc_text": "Challenge your reflexes in Geometry Dash, a rhythm-based action platformer with endless player-created levels! Jump, fly & conquer unique challenges.",
+              "desc_text": "# Geometry Dash Freezenova: An Exciting Sports Adventure\n\n## 🗺️Quick Overview of the Game\nGeometry Dash Freezenova is a captivating sports game that combines fast - paced action with geometric challenges. Set in a vibrant virtual world, players control a geometric character and navigate through a series of obstacle - filled courses. The game's dynamic visuals and energetic music create an immersive experience that keeps players on the edge of their seats.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Geometry Dash Freezenova is straightforward yet challenging. The basic objective is to guide your geometric character through the course without hitting any obstacles. You can jump and fly to avoid various hazards such as spikes, moving blocks, and lasers. The game mechanics are designed to test your reflexes and timing. As you progress through the levels, the difficulty increases, introducing more complex patterns and faster - paced action.\n\n## 🌟 Key Features and Unique Highlights\nOne of the standout features of Geometry Dash Freezenova is its free - to - play nature. You can enjoy the game without spending a single dime. It also offers online access, allowing you to connect with other players and compare scores. The game has a wide variety of levels, each with its own unique theme and design. Additionally, the customizable characters add a personal touch to the gameplay experience.\n\n## 📱 Supported Platforms and Devices\nGeometry Dash Freezenova is a browser game, which means you can play it directly on your web browser without the need for any additional downloads. It is also mobile - friendly, so you can enjoy the game on your smartphone or tablet. Whether you're at home or on the go, you can easily access and play this exciting sports game.\n\n## ✨ Recommended Games Similar to Geometry Dash Freezenova\nIf you enjoy Geometry Dash Freezenova, you might also like [Geometry Dash SubZero]. This game shares similar gameplay mechanics and offers a different set of levels and challenges. Another great option is [Geometry Dash Meltdown], which provides an equally thrilling experience with its unique themes and fast - paced action.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Geometry Dash Freezenova, it's important to practice your timing and reflexes. Pay close attention to the patterns of the obstacles and plan your jumps and flights accordingly. The game developers regularly release version updates, which may include new levels, characters, and improvements to the gameplay. Stay updated to make the most of your gaming experience.",
               "icon": "https://cdn.pokiter.com/html5New/geometry-dash-freezenova/icon.jpg",
               "html": "https://cdn.pokiter.com/html5New/geometry-dash-freezenova/index.html",
               "platform": "web,Mobile",
               "category": "Sports",
-              "tags": "",
+              "tags": "Geometry Dash Freezenova,free sports game,web and mobile sports game,Geometry Dash Freezenova gameplay,Geometry Dash Freezenova features",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1077,18 +1666,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:50",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Geometry Dash Freezenova - A Thrilling Sports Game for Web and Mobile",
+              "meta_desc": "Dive into the exciting world of Geometry Dash Freezenova, a sports game available on web and mobile. Experience high - speed challenges and unique gameplay mechanics that will keep you engaged for hours.",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Geometry Dash Freezenova really free to play?",
+                            "answer": "A: Yes, Geometry Dash Freezenova is completely free to play. You can enjoy all the levels and features without any upfront cost."
+                     },
+                     {
+                            "question": "Q: Can I play Geometry Dash Freezenova on my mobile device?",
+                            "answer": "A: Absolutely! Geometry Dash Freezenova is mobile - friendly. You can play it on your smartphone or tablet with ease."
+                     },
+                     {
+                            "question": "Q: How often are new levels added to Geometry Dash Freezenova?",
+                            "answer": "A: The game developers regularly release version updates that may include new levels. Keep an eye on the official announcements for the latest information."
+                     },
+                     {
+                            "question": "Q: Can I compete with other players in Geometry Dash Freezenova?",
+                            "answer": "A: Yes, the game offers online access, allowing you to connect with other players and compare scores."
+                     }
+              ]
        },
        {
               "id": 2490,
               "name": "endless-siege",
               "sub_name": "Endless Siege",
-              "desc_text": "Play Endless Siege on GameSnacks, a bite-sized online gaming site you can play on your phone and desktop without installing anything.",
+              "desc_text": "# Endless Siege: The Ultimate Action Adventure\n\n## 🗺️Quick Overview of the Game\nEndless Siege is an adrenaline - pumping action game that has taken the gaming world by storm. It offers players an immersive experience where they are constantly engaged in battles against waves of enemies. Set in a dynamic and ever - changing environment, this game keeps you on the edge of your seat from start to finish.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Endless Siege is straightforward yet challenging. The objective is to defend your base from the endless stream of enemies that come your way. You control a character with various weapons at your disposal. As you progress, you can upgrade your weapons and skills to deal more damage and withstand stronger attacks. The game mechanics are based on strategic positioning and quick reflexes. You need to time your attacks and defenses carefully to survive the onslaught.\n\n## 🌟 Key Features and Unique Highlights\nOne of the most appealing aspects of Endless Siege is that it is free to play. You can access it online, whether you're at home or on the go. The endless waves of enemies ensure that there is never a dull moment. Each wave brings new challenges and stronger foes, keeping the gameplay fresh and exciting. Additionally, the game has a simple yet intuitive interface, making it accessible to both novice and experienced gamers.\n\n## 📱 Supported Platforms and Devices\nEndless Siege is designed to be highly versatile. It is available as a browser game, which means you can play it directly on your computer without the need for any downloads. Moreover, it is mobile - friendly, so you can enjoy the action on your smartphone or tablet. Whether you're using an Android or iOS device, you can easily launch the game and start playing.\n\n## ✨ Recommended Games Similar to Endless Siege\nIf you enjoy Endless Siege, you might also like [Another Action Game Name 1](link_to_game_1) and [Another Action Game Name 2](link_to_game_2). These games share similar action - packed elements and endless battle scenarios. They offer a different take on the action genre but still provide the same level of excitement and challenge.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Endless Siege, it's important to focus on upgrading your weapons early on. This will give you an edge in dealing with stronger enemies. The game follows a set of rules where you lose if your base is destroyed. Keep an eye on the in - game updates as new versions often bring new features, enemies, and weapons. Stay tuned to enhance your gaming experience.",
               "icon": "https://cdn.pokiter.com/html5New/endless-siege/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/endless-siege/index.html",
               "platform": "web,Mobile",
               "category": "Action",
-              "tags": "",
+              "tags": "endless siege action game,web action game,mobile action game,endless waves of enemies in a game,free action game online",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1099,18 +1708,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 17:50:49",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Endless Siege: An Action-Packed Web and Mobile Game",
+              "meta_desc": "Dive into the thrilling world of Endless Siege, an action game available on web and mobile. Face endless waves of enemies and test your skills now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Endless Siege really free to play?",
+                            "answer": "A: Yes, Endless Siege is completely free to play. You can access it online without any payment required."
+                     },
+                     {
+                            "question": "Q: Can I play Endless Siege on my mobile phone?",
+                            "answer": "A: Absolutely! Endless Siege is mobile - friendly and can be played on both Android and iOS devices."
+                     },
+                     {
+                            "question": "Q: How do I upgrade my weapons in Endless Siege?",
+                            "answer": "A: As you progress through the game and earn in - game currency, you can use it to upgrade your weapons at the upgrade menu."
+                     },
+                     {
+                            "question": "Q: Are there different types of enemies in Endless Siege?",
+                            "answer": "A: Yes, each wave of enemies in Endless Siege brings new and more challenging foes with different attack patterns and strengths."
+                     }
+              ]
        },
        {
               "id": 2489,
               "name": "squad-shooter",
               "sub_name": "Squad Shooter",
-              "desc_text": "*Use Squad Shooter | Template + Editor from Watermelon Games* to elevate your next project",
+              "desc_text": "# Squad Shooter: An Epic Shooting Adventure\n\n## 🗺️Quick Overview of the Game\nSquad Shooter is a dynamic shooting game that brings the excitement of intense battles right to your screen. Whether you're on the web or using your mobile device, this game offers an immersive experience where you team up with your squad to take on challenging opponents.\n\n## 🤔 How to Play + Game Mechanics\nIn Squad Shooter, you start by choosing your character and joining a squad. The game mechanics are intuitive, with easy - to - use controls that allow you to move, aim, and shoot. You'll navigate through various maps, each with its own unique layout and strategic points. The objective is to eliminate the opposing squad while protecting your own. Teamwork is crucial, as you can communicate with your squad members to coordinate attacks and defenses.\n\n## 🌟 Key Features and Unique Highlights\nOne of the standout features of Squad Shooter is its free - to - play nature. You can enjoy all the action without spending a dime. It also offers online access, so you can play with friends or players from around the world. The game is constantly updated with new maps, weapons, and characters, keeping the experience fresh and exciting. Additionally, the graphics are high - quality, creating a realistic and engaging shooting environment.\n\n## 📱 Supported Platforms and Devices\nSquad Shooter is accessible on both web browsers and mobile devices. This means you can play it on your computer at home or on the go using your smartphone or tablet. It's designed to be mobile - friendly, with optimized controls for touch - screen devices, ensuring a seamless gaming experience no matter where you are.\n\n## ✨ Recommended Games Similar to Squad Shooter\nIf you enjoy Squad Shooter, you might also like [Another Shooting Game Name 1](link_to_game_1) and [Another Shooting Game Name 2](link_to_game_2). These games also offer intense shooting action and squad - based gameplay, providing similar levels of excitement and challenge.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Squad Shooter, it's important to communicate effectively with your squad. Coordinate your attacks and defenses to gain an edge over the enemy. The game has strict rules against cheating, so make sure to play fair. As for version updates, the developers regularly release patches to fix bugs, add new features, and balance the game. Keep an eye on the official website for the latest news and updates.",
               "icon": "https://cdn.pokiter.com/html5New/squad-shooter/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/squad-shooter/index.html",
               "platform": "web,Mobile",
               "category": "Shooting",
-              "tags": "",
+              "tags": "squad shooter game,online shooting game,free shooting game for web and mobile,squad - based shooting battles",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1121,18 +1750,42 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "26/3/2025 16:12:22",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Squad Shooter - An Intense Online Shooting Game",
+              "meta_desc": "Dive into the action-packed world of Squad Shooter! Engage in thrilling shooting battles with your squad. Play online or on mobile, free of charge. Don't miss out on this adrenaline - pumping experience!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Squad Shooter really free to play?",
+                            "answer": "A: Yes, Squad Shooter is completely free to play. You can enjoy all the core features of the game without any upfront cost."
+                     },
+                     {
+                            "question": "Q: Can I play Squad Shooter on my mobile phone?",
+                            "answer": "A: Absolutely! Squad Shooter is designed to be mobile - friendly and can be played on both Android and iOS devices."
+                     },
+                     {
+                            "question": "Q: How many players are in a squad?",
+                            "answer": "A: Each squad in Squad Shooter typically consists of [number of players] players. Teamwork within the squad is essential for victory."
+                     },
+                     {
+                            "question": "Q: Are there in - game purchases in Squad Shooter?",
+                            "answer": "A: While the game is free to play, there are optional in - game purchases available. These can include cosmetic items, weapons, and other enhancements, but they are not necessary to enjoy the game."
+                     },
+                     {
+                            "question": "Q: How often are new updates released?",
+                            "answer": "A: The developers of Squad Shooter are committed to providing a fresh and engaging experience. New updates, including maps, weapons, and features, are released regularly. Check the official website for the latest update schedule."
+                     }
+              ]
        },
        {
               "id": 2467,
               "name": "bacon-may-die",
               "sub_name": "Bacon May Die",
-              "desc_text": "Bacon May Die is a fast paced 2D fighting and shooting game in which angry pig Bacon must brawl with army of bacon hungry zombie bunnies and kill hordes of monsters, survive boss fights and unlock tons of weapons and outfits!\r\n\r\nFrom the developer of Iron Snout comes an action packed sidescrolling fighting game with responsive thumb combat controls, 100 unlockable outfits and weapons, boss fights, charming cartoon 2D graphics and smooth run and gun game play.",
+              "desc_text": "# Bacon May Die: Unleash the Action on the Web\n## 🗺️Quick Overview of the Game\nBacon May Die is an electrifying action game that takes you on a wild ride through a chaotic world. Set in a post - apocalyptic environment, you play as a heroic pig armed with various weapons to fend off hordes of enemies. The game's simple yet addictive gameplay mechanics make it a hit among action game enthusiasts.\n## 🤔 How to Play + Game Mechanics\nPlaying Bacon May Die is straightforward. Use the arrow keys to move your pig character around the screen. To attack, simply press the appropriate keys to swing your weapon. As you progress through the levels, you'll encounter different types of enemies, each with their own attack patterns. You can also collect power - ups and upgrade your weapons to become more powerful. The game features a combo system, rewarding players for landing consecutive attacks. This adds an extra layer of depth to the gameplay, as you strive to achieve high - score combos.\n## 🌟 Key Features and Unique Highlights\nOne of the main highlights of Bacon May Die is its free - to - play nature. You can access the game directly from your web browser without any need for downloads or installations. The game also offers a wide range of weapons, from swords to axes, allowing you to customize your playstyle. The graphics are simple yet effective, with a unique art style that adds to the game's charm. Additionally, the fast - paced action keeps you engaged from start to finish, making it perfect for short gaming sessions.\n## 📱 Supported Platforms and Devices\nBacon May Die is a browser - based game, which means you can play it on any device with a modern web browser. Whether you're using a desktop computer, laptop, or even a tablet, you can enjoy the game's action - packed experience. It's also mobile - friendly, so you can take the fight on the go and play whenever you have a few spare minutes.\n## ✨ Recommended Games Similar to Bacon May Die\nIf you enjoy Bacon May Die, you might also like [Game 1 - Another Action Web Game]. It offers a similar fast - paced action experience with unique characters and levels. [Game 2 - Action Adventure Web Game] is another great option, with its engaging story and combat mechanics. Both games can be found on our website and provide hours of entertainment for action game fans.\n## 💡Tips, Rules, and Version Updates\nTo succeed in Bacon May Die, try to focus on building combos as they can significantly increase your score. Also, make sure to collect power - ups whenever possible to gain an edge over your enemies. The developers regularly update the game, adding new levels, weapons, and enemies. Stay tuned to our website for the latest version updates and announcements.",
               "icon": "https://cdn.pokiter.com/html5New/bacon-may-die/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/bacon-may-die/index.html",
               "platform": "web",
               "category": "Action",
-              "tags": "",
+              "tags": "Bacon May Die action game,free web action game,Bacon May Die gameplay,online action game Bacon May Die",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1143,18 +1796,42 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 16:55:25",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Bacon May Die: An Action-Packed Web Game for Thrill-Seekers",
+              "meta_desc": "Dive into the exciting world of Bacon May Die, an action game on the web. Slash, fight, and have a blast with this unique and engaging gameplay!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Bacon May Die free to play?",
+                            "answer": "A: Yes, Bacon May Die is a free - to - play game that you can access directly from your web browser."
+                     },
+                     {
+                            "question": "Q: What platforms can I play Bacon May Die on?",
+                            "answer": "A: You can play Bacon May Die on any device with a modern web browser, including desktops, laptops, and tablets. It is also mobile - friendly."
+                     },
+                     {
+                            "question": "Q: How do I increase my score in Bacon May Die?",
+                            "answer": "A: You can increase your score by building combos through consecutive attacks and collecting power - ups."
+                     },
+                     {
+                            "question": "Q: Are there different weapons in Bacon May Die?",
+                            "answer": "A: Yes, the game offers a variety of weapons such as swords and axes that you can use to customize your playstyle."
+                     },
+                     {
+                            "question": "Q: Does the game get updated regularly?",
+                            "answer": "A: Yes, the developers of Bacon May Die regularly update the game with new levels, weapons, and enemies."
+                     }
+              ]
        },
        {
               "id": 2468,
               "name": "castle-wars-middle-ages",
               "sub_name": "Castle Wars: Middle Ages",
-              "desc_text": "Castle Wars: Middle Ages is a 2-player castle-based battle game that sets in the Middle Ages era.",
+              "desc_text": "# Castle Wars: Middle Ages - An Epic Medieval Adventure\n## 🗺️Quick Overview of the Game\nCastle Wars: Middle Ages is an exhilarating action game that transports players to the heart of the medieval era. In this web - based game, you'll find yourself amidst grand castles, knights in shining armor, and intense battles. The game provides a rich and immersive medieval experience where you can build your own castle, train your troops, and engage in epic wars against other players.\n## 🤔 How to Play + Game Mechanics\nTo start your journey in Castle Wars: Middle Ages, you first need to build and fortify your castle. You can construct various buildings such as barracks, armories, and watchtowers. These buildings are essential for training your troops and enhancing your defenses. Once your castle is well - established, you can start training different types of soldiers, from foot soldiers to archers and cavalry. The game mechanics involve strategic planning. You need to decide when to attack other players' castles and when to defend your own. Resource management is also crucial, as you'll need to collect resources like gold, wood, and stone to keep your castle and troops in top condition.\n## 🌟 Key Features and Unique Highlights\nOne of the best things about Castle Wars: Middle Ages is that it's free to play. You can access the game directly from your web browser, eliminating the need for any downloads. The game also has a large and active community of players. You can join alliances with other players, share resources, and plan joint attacks. The real - time battles add an extra layer of excitement, as you can watch your troops clash with the enemy in real - time and make on - the - spot decisions.\n## 📱 Supported Platforms and Devices\nCastle Wars: Middle Ages is a browser game, which means it's highly accessible. You can play it on any device with a modern web browser, whether it's a desktop computer, laptop, or even a mobile device. It's also mobile - friendly, so you can enjoy the game on the go and stay connected with your castle and allies at all times.\n## ✨ Recommended Games Similar to Castle Wars: Middle Ages\nIf you enjoy Castle Wars: Middle Ages, you might also like [Medieval Siege Online](link - to - medieval - siege - online). This game also focuses on medieval warfare and castle building. Another great option is [Knights of the Realm](link - to - knights - of - the - realm), which offers a similar action - packed medieval experience with unique gameplay elements.\n## 💡Tips, Rules, and Version Updates\nTo succeed in Castle Wars: Middle Ages, it's important to focus on resource management. Make sure to upgrade your resource - collecting buildings regularly. Also, don't rush into battles without proper preparation. The game developers frequently release version updates, which may include new troops, buildings, and features. Keep an eye on the official game announcements to stay informed about the latest changes.",
               "icon": "https://cdn.pokiter.com/html5New/castle-wars-middle-ages/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/castle-wars-middle-ages/index.html",
               "platform": "web",
               "category": "Action",
-              "tags": "",
+              "tags": "Castle Wars Middle Ages action game,online medieval action game,web - based castle battle game,free to play medieval action,action games set in Middle Ages",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1165,18 +1842,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 16:55:25",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Castle Wars: Middle Ages - An Action-Packed Web Game Set in Medieval Times",
+              "meta_desc": "Dive into the thrilling world of Castle Wars: Middle Ages! This action - packed web game takes you back to the Middle Ages for epic battles. Join now and experience the medieval warfare like never before!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Castle Wars: Middle Ages free to play?",
+                            "answer": "A: Yes, Castle Wars: Middle Ages is completely free to play. You can access the game through your web browser without any cost."
+                     },
+                     {
+                            "question": "Q: Can I play Castle Wars: Middle Ages on my mobile device?",
+                            "answer": "A: Absolutely! The game is mobile - friendly and can be played on any device with a modern web browser, including mobile phones and tablets."
+                     },
+                     {
+                            "question": "Q: How can I improve my castle's defenses in Castle Wars: Middle Ages?",
+                            "answer": "A: You can improve your castle's defenses by constructing and upgrading buildings such as watchtowers and walls. Also, training a strong army of soldiers is essential for protecting your castle."
+                     },
+                     {
+                            "question": "Q: Are there any in - game purchases in Castle Wars: Middle Ages?",
+                            "answer": "A: While the game is free to play, there are optional in - game purchases available. These can help you progress faster, acquire special items, or enhance your gameplay experience."
+                     }
+              ]
        },
        {
               "id": 2469,
               "name": "raft-wars-2",
               "sub_name": "Raft Wars 2",
-              "desc_text": "Try the Raft Wars 2 game to help Simon and his brother destroy the waterpark sitting on their treasure. Use your raft to shoot anyone trying to stop you!",
+              "desc_text": "# Raft Wars 2: An Action - Packed Web Adventure\n\n## 🗺️Quick Overview of the Game\nRaft Wars 2 is a captivating web - based action game that takes players on an exhilarating journey of raft - based battles. Set in a vibrant and engaging environment, this game offers a unique blend of strategy and shooting action. You step into the shoes of a skilled rafter, tasked with defending your raft and taking down opponents.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Raft Wars 2 is straightforward yet challenging. You control your character on the raft and use a slingshot to shoot various projectiles at your enemies. The mechanics involve aiming carefully, adjusting the power of your shot, and timing your attacks. As you progress through the levels, you'll encounter different types of opponents with varying levels of strength and strategies. You can also collect power - ups and upgrades to enhance your shooting abilities and gain an edge in the battles.\n\n## 🌟 Key Features and Unique Highlights\nOne of the main highlights of Raft Wars 2 is its free - to - play nature. You can access the game online without any cost, making it accessible to a wide range of players. The game also offers a series of levels with increasing difficulty, ensuring long - term engagement. Additionally, the colorful graphics and engaging sound effects add to the overall immersive experience. The ability to upgrade your equipment and customize your gameplay style makes each playthrough unique.\n\n## 📱 Supported Platforms and Devices\nRaft Wars 2 is a browser game, which means you can play it directly on your web browser without the need for any additional downloads. It is also mobile - friendly, allowing you to enjoy the game on your smartphone or tablet. Whether you're at home on your desktop or on the go with your mobile device, you can easily access and play this action - packed game.\n\n## ✨ Recommended Games Similar to Raft Wars 2\nIf you enjoy Raft Wars 2, you might also like other action - packed browser games such as [Bloons Tower Defense](link_to_bloons_tower_defense). This game also involves strategic shooting and defense elements. Another great option is [Gun Mayhem](link_to_gun_mayhem), which offers fast - paced shooting battles in a dynamic environment.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Raft Wars 2, it's important to aim for weak spots on your opponents. Also, make sure to collect power - ups as soon as they appear. The game developers regularly update the game, adding new levels, characters, and power - ups. Keep an eye on the official website for the latest version updates and rule changes.",
               "icon": "https://cdn.pokiter.com/html5New/raft-wars-2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/raft-wars-2/index.html",
               "platform": "web",
               "category": "Action",
-              "tags": "",
+              "tags": "raft wars 2,action game online,web - based raft game,raft shooting battles",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1187,18 +1884,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 16:55:25",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Raft Wars 2: An Exciting Web-Based Action Game",
+              "meta_desc": "Dive into the thrilling world of Raft Wars 2, a web - based action game. Shoot your way to victory in exciting raft battles. Click to play now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Raft Wars 2 free to play?",
+                            "answer": "A: Yes, Raft Wars 2 is a free - to - play web - based game. You can access it online without any cost."
+                     },
+                     {
+                            "question": "Q: Can I play Raft Wars 2 on my mobile device?",
+                            "answer": "A: Absolutely! Raft Wars 2 is mobile - friendly. You can play it on your smartphone or tablet through your web browser."
+                     },
+                     {
+                            "question": "Q: Are there different levels in Raft Wars 2?",
+                            "answer": "A: Yes, the game features a series of levels with increasing difficulty. As you progress, you'll face more challenging opponents."
+                     },
+                     {
+                            "question": "Q: How can I improve my chances of winning in Raft Wars 2?",
+                            "answer": "A: Aim for the weak spots of your opponents and collect power - ups as soon as they appear. Upgrading your equipment can also give you an edge in battles."
+                     }
+              ]
        },
        {
               "id": 2470,
               "name": "2020-game",
               "sub_name": "2020 Game",
-              "desc_text": "You can now play 2020 Game .io on GamePix. This particular platformer game follow all the tragic events happened during 2020 year: the wildfires in Australia, the 5G, the fall of stock markets, the pandemy due to COVID-19 virus, USA elections (Trump vs Biden) and many others. A mix of conspiracy and reality follow the story of this simple but addicting game! 2020 Game .io can be played on any device directly inside the browser. The author of the game is MAX GARKAVYY and you can support him by making a donation on the offical website. Enjoy 2020 Game .io!",
+              "desc_text": "# 2020 Game: A Thrilling Action Adventure\n\n## 🗺️Quick Overview of the Game\nThe 2020 Game is an exhilarating action game that takes players on an unforgettable journey. Set in a dynamic and immersive world, it offers a unique blend of fast - paced combat and engaging storytelling. The game was developed with the latest technology to provide a seamless and visually stunning experience for web - based players.\n\n## 🤔 How to Play + Game Mechanics\nPlaying the 2020 Game is straightforward yet challenging. Players control a character with a variety of actions, including running, jumping, and attacking. The combat system is intuitive, allowing for combos and special moves. As players progress through the levels, they encounter different enemies with unique abilities and attack patterns. Completing quests and defeating bosses unlocks new weapons, skills, and upgrades, enhancing the gameplay experience.\n\n## 🌟 Key Features and Unique Highlights\nOne of the main highlights of the 2020 Game is its free - to - play nature. Players can enjoy the game without any upfront costs, making it accessible to a wide audience. The online access feature enables players to connect with others from around the world, adding a social aspect to the gameplay. Additionally, the game regularly updates with new content, such as levels, characters, and events, keeping the experience fresh and exciting.\n\n## 📱 Supported Platforms and Devices\nThe 2020 Game is a browser - based game, which means players can access it directly from their web browsers without the need for any additional downloads. It is also mobile - friendly, allowing players to enjoy the action on their smartphones and tablets. Whether you're at home on your computer or on the go, you can always jump into the game.\n\n## ✨ Recommended Games Similar to 2020 Game\nIf you enjoy the 2020 Game, you might also like [Another Action Game 1] and [Another Action Game 2]. These games share similar action - packed gameplay and engaging storylines. They offer a variety of challenges and rewards, just like the 2020 Game.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in the 2020 Game, it's important to master the combat mechanics and upgrade your character regularly. Keep an eye on the in - game announcements for version updates, which often bring new features and bug fixes. The game also has specific rules regarding player behavior, such as fair play and respecting other players. By following these tips and rules, you can enhance your overall gaming experience.",
               "icon": "https://cdn.pokiter.com/html5New/2020-game/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/2020-game/index.html",
               "platform": "web",
               "category": "Action",
-              "tags": "",
+              "tags": "2020 action game,web - based action game,2020 online action game",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1209,18 +1926,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 16:55:25",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "2020 Game: An Action-Packed Web Adventure",
+              "meta_desc": "Dive into the thrilling world of the 2020 Game, an action - filled web - based game. Experience high - octane gameplay, unique features, and endless excitement. Start playing now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is the 2020 Game free to play?",
+                            "answer": "A: Yes, the 2020 Game is completely free to play. You can enjoy all the basic features without any upfront costs."
+                     },
+                     {
+                            "question": "Q: Can I play the 2020 Game on my mobile device?",
+                            "answer": "A: Absolutely! The 2020 Game is mobile - friendly and can be played directly from your smartphone or tablet's web browser."
+                     },
+                     {
+                            "question": "Q: Are there any in - game purchases in the 2020 Game?",
+                            "answer": "A: While the game is free to play, there are optional in - game purchases available. These can help you progress faster or get exclusive items."
+                     },
+                     {
+                            "question": "Q: How often does the 2020 Game get updated?",
+                            "answer": "A: The game developers regularly update the 2020 Game with new content, such as levels, characters, and events. Keep an eye on the in - game announcements for the latest updates."
+                     }
+              ]
        },
        {
               "id": 2471,
               "name": "flip-bottle",
               "sub_name": "Flip Bottle",
-              "desc_text": "Flip Bottle is a simple but challenging one-button game. Flip the bottle and make it jump from object to object to reach the final platform.",
+              "desc_text": "# Flip Bottle: A Thrilling Web Puzzle Adventure\n\n## 🗺️Quick Overview of the Game\nFlip Bottle is an exciting web - based puzzle game that has taken the online gaming community by storm. In this game, players are tasked with the challenging yet fun activity of flipping bottles. The goal is to land the bottle upright on different surfaces, overcoming various obstacles and scenarios.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Flip Bottle is straightforward. The basic control usually involves a simple click or tap to initiate the bottle flip. The game mechanics rely on physics, where the angle and force of your flip determine whether the bottle will land upright. As you progress through the levels, you'll encounter different surfaces such as tables, platforms, and moving objects. Each level presents a unique puzzle that requires you to adjust your flipping strategy accordingly.\n\n## 🌟 Key Features and Unique Highlights\nOne of the main highlights of Flip Bottle is its free - to - play nature. You can access the game directly on your web browser without the need for any downloads. This makes it incredibly convenient for players who want to enjoy a quick gaming session. The game also offers a wide range of levels with increasing difficulty, ensuring that players of all skill levels can find a challenge. Additionally, the colorful and engaging graphics add to the overall appeal of the game.\n\n## 📱 Supported Platforms and Devices\nFlip Bottle is a browser - based game, which means it can be played on any device with a web browser. Whether you're using a desktop computer, laptop, tablet, or even a smartphone, you can easily access and play the game. It's also mobile - friendly, allowing for seamless gameplay on touch - enabled devices.\n\n## ✨ Recommended Games Similar to Flip Bottle\nIf you enjoy Flip Bottle, you might also like other puzzle games such as [Tetris](https://example.com/tetris). Tetris is a classic puzzle game that challenges you to fit falling blocks together. Another great option is [Angry Birds](https://example.com/angry - birds), which combines puzzle - solving with strategic gameplay. These games, like Flip Bottle, offer hours of entertainment and test your problem - solving skills.\n\n## 💡Tips, Rules, and Version Updates\nTo improve your chances of success in Flip Bottle, it's important to practice different flipping angles. Start with gentle flips and gradually increase the force as you get more comfortable. The basic rule is to land the bottle upright to score points. The developers of Flip Bottle regularly release updates, adding new levels, features, and improving the overall gameplay experience.",
               "icon": "https://cdn.pokiter.com/html5New/flip-bottle/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/flip-bottle/index.html",
               "platform": "web",
               "category": "Puzzle",
-              "tags": "",
+              "tags": "Flip Bottle,web puzzle game,bottle flipping game,online puzzle,addictive web game",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1231,18 +1968,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 16:55:25",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Flip Bottle: An Addictive Web-Based Puzzle Game",
+              "meta_desc": "Dive into the world of Flip Bottle, a captivating web puzzle game. Test your skills by flipping bottles in various scenarios and enjoy hours of fun. Click to play now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Can I play Flip Bottle on my mobile phone?",
+                            "answer": "A: Yes, Flip Bottle is a web - based game and is mobile - friendly. You can play it on any device with a web browser, including your mobile phone."
+                     },
+                     {
+                            "question": "Q: Is Flip Bottle free to play?",
+                            "answer": "A: Absolutely! Flip Bottle is completely free to play. You can access it directly on your web browser without any downloads or in - app purchases."
+                     },
+                     {
+                            "question": "Q: How do I improve my score in Flip Bottle?",
+                            "answer": "A: To improve your score, practice different flipping angles and forces. Try to land the bottle upright on the first try and complete levels quickly."
+                     },
+                     {
+                            "question": "Q: Are there new levels added regularly?",
+                            "answer": "A: Yes, the developers of Flip Bottle regularly release updates that include new levels and features to keep the game fresh and engaging."
+                     }
+              ]
        },
        {
               "id": 2472,
               "name": "flip-master",
               "sub_name": "Flip Master",
-              "desc_text": "The ULTIMATE TRAMPOLINE GAME on Mobile!\r\n\r\nMaster the trampoline with Frontflips, Backflips, Gainers, Layouts, Jumps and Bounces on your backyard, gym or circus trampolines and train to be the Master of Trampoline!\r\n\r\nWith a custom physics engine and animated Ragdoll Physics, Flip Master is the most dynamic and entertaining Trampoline experience",
+              "desc_text": "# Flip Master: A Web Sports Game Sensation\n## 🗺️Quick Overview of the Game\nFlip Master is an exhilarating web - based sports game that brings a fresh and exciting twist to the sports genre. It offers players a chance to engage in dynamic sports - like challenges directly on their browsers. The game combines fast - paced action with strategic thinking, providing a unique and immersive experience for sports enthusiasts.\n## 🤔 How to Play + Game Mechanics\nIn Flip Master, players take control of a character with the ability to perform flips. The objective is to complete various sports - themed levels by successfully executing flips and navigating through obstacles. The game mechanics are intuitive yet challenging. You use simple keyboard controls to initiate flips, adjust the angle, and land safely. Each level presents different scenarios, such as avoiding moving barriers, reaching specific targets, or competing against time. As you progress, the levels become more complex, requiring precise timing and skillful maneuvers.\n## 🌟 Key Features and Unique Highlights\nOne of the standout features of Flip Master is its free - to - play nature. You can enjoy all the action without having to spend a single cent. It also offers online access, meaning you can play it anytime, anywhere as long as you have an internet connection. The game's graphics are vibrant and engaging, creating a visually appealing sports environment. Additionally, there are regular updates that introduce new levels, characters, and challenges, keeping the gameplay fresh and exciting.\n## 📱 Supported Platforms and Devices\nFlip Master is a browser game, which means it is highly accessible. You can play it on any device with a modern web browser, whether it's a desktop computer, laptop, tablet, or even a mobile phone. It is mobile - friendly, adapting seamlessly to different screen sizes, allowing you to enjoy the game on the go.\n## ✨ Recommended Games Similar to Flip Master\nIf you enjoy Flip Master, you might also like other sports - themed browser games. [Game Name 1] offers a similar fast - paced sports experience with different gameplay mechanics. [Game Name 2] is another great option, featuring similar flip - based challenges but with a different visual style. These games can be found on our website and provide additional entertainment for sports game lovers.\n## 💡Tips, Rules, and Version Updates\nTo succeed in Flip Master, it's important to practice your timing when performing flips. Pay close attention to the obstacles and plan your moves in advance. The rules are straightforward: land safely after each flip and complete the level objectives. As for version updates, they often bring new content, such as improved graphics, additional levels, and bug fixes. Make sure to check back regularly to stay up - to - date with the latest changes.",
               "icon": "https://cdn.pokiter.com/html5New/flip-master/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/flip-master/index.html",
               "platform": "web",
               "category": "Sports",
-              "tags": "",
+              "tags": "Flip Master,web sports game,free online sports game,Flip Master gameplay,sports game on browser",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1253,18 +2010,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 16:55:25",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Flip Master: The Ultimate Web Sports Game Experience",
+              "meta_desc": "Dive into the thrilling world of Flip Master, a web - based sports game. Experience unique game mechanics, play for free, and enjoy exciting challenges right on your browser. Click now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Flip Master really free to play?",
+                            "answer": "A: Yes, Flip Master is completely free to play. You can access all the levels and features without any payment."
+                     },
+                     {
+                            "question": "Q: Can I play Flip Master on my mobile phone?",
+                            "answer": "A: Absolutely! Flip Master is a browser game and is mobile - friendly. You can play it on your mobile phone's browser as long as you have an internet connection."
+                     },
+                     {
+                            "question": "Q: How often are there updates in Flip Master?",
+                            "answer": "A: The developers of Flip Master regularly release updates. These updates usually include new levels, characters, and improvements to the game."
+                     },
+                     {
+                            "question": "Q: What are the basic controls for Flip Master?",
+                            "answer": "A: The game uses simple keyboard controls. You can use specific keys to initiate flips, adjust the angle, and navigate through the levels."
+                     }
+              ]
        },
        {
               "id": 2459,
               "name": "ronaldo-kickn-run",
               "sub_name": "Ronaldo Kick'n Run",
-              "desc_text": "In these confinement times Cristiano Ronaldo finds himself alone running in the empty streets of Paris! Help him cross obstacles and cover the longest distance possible in the game Ronaldo Kick'n Run. Dodge right, left, jump and slide to avoid the many objects that will be scattered along your route. You can also make a powerful shot with your ball to knock over obstacles and thus clear the way or open new passages. Run as long as possible without stopping to get the highest score.",
+              "desc_text": "# Ronaldo Kick'n Run: A Dynamic Web Action Game\n\n## 🗺️Quick Overview of the Game\nRonaldo Kick'n Run is an exhilarating action game available on the web. Inspired by the football superstar Ronaldo, the game combines fast - paced running and kicking mechanics. Set in a vibrant virtual world, players take on the role of a Ronaldo - like character, facing various challenges and opponents.\n\n## 🤔 How to Play + Game Mechanics\nIn Ronaldo Kick'n Run, the controls are intuitive. Use the arrow keys to run, jump, and change directions. To kick, simply press the designated key. The game mechanics involve running through different levels filled with obstacles and enemies. You must time your kicks perfectly to defeat opponents and progress. Each level presents a unique set of challenges, such as narrow paths, moving platforms, and powerful adversaries.\n\n## 🌟 Key Features and Unique Highlights\nOne of the main highlights of Ronaldo Kick'n Run is its free - to - play nature. You can access the game online without any download requirements. The graphics are sharp and vivid, creating an immersive gaming experience. The game also features multiple levels with increasing difficulty, keeping players engaged for hours. Additionally, the Ronaldo - inspired character design adds a touch of authenticity and excitement.\n\n## 📱 Supported Platforms and Devices\nAs a web - based game, Ronaldo Kick'n Run is highly accessible. It can be played on any device with a modern web browser, including desktops, laptops, tablets, and even some mobile phones. This makes it convenient for players to enjoy the game anytime, anywhere.\n\n## ✨ Recommended Games Similar to Ronaldo Kick'n Run\nIf you enjoy Ronaldo Kick'n Run, you might also like other action - packed web games. Games like [Internal Link 1] 'Football Frenzy Action' and [Internal Link 2] 'Racing Kick Adventures' offer similar fast - paced gameplay and engaging challenges.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Ronaldo Kick'n Run, it's important to practice your timing when kicking. Pay attention to the patterns of enemies and obstacles. The developers regularly update the game, adding new levels, characters, and features. Keep an eye on the official website for the latest version updates and rule changes.",
               "icon": "https://cdn.pokiter.com/html5New/ronaldo-kickn-run/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/ronaldo-kickn-run/index.html",
               "platform": "web",
               "category": "Action",
-              "tags": "",
+              "tags": "Ronaldo Kick'n Run,web action game,football - themed action game,Ronaldo - inspired gameplay",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1275,18 +2052,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 15:02:02",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Ronaldo Kick'n Run: An Exciting Web-Based Action Game",
+              "meta_desc": "Dive into the high - octane action of Ronaldo Kick'n Run! Play this web - based game and experience thrilling gameplay inspired by the football legend Ronaldo.",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Ronaldo Kick'n Run free to play?",
+                            "answer": "A: Yes, Ronaldo Kick'n Run is completely free to play. You can access it online without any download or subscription fees."
+                     },
+                     {
+                            "question": "Q: What devices can I play Ronaldo Kick'n Run on?",
+                            "answer": "A: You can play Ronaldo Kick'n Run on any device with a modern web browser, such as desktops, laptops, tablets, and some mobile phones."
+                     },
+                     {
+                            "question": "Q: Are there new levels added regularly?",
+                            "answer": "A: Yes, the developers of Ronaldo Kick'n Run regularly update the game, adding new levels and features to keep the gameplay fresh and exciting."
+                     },
+                     {
+                            "question": "Q: How do I control the character in Ronaldo Kick'n Run?",
+                            "answer": "A: You can use the arrow keys to run, jump, and change directions. Press the designated key to kick."
+                     }
+              ]
        },
        {
               "id": 2460,
               "name": "stickman-parkour-2",
               "sub_name": "Stickman Parkour 2",
-              "desc_text": "Stickman Parkour 2: Lucky Block is a 2D stickman parkour game where you flip, ledge jump and double jump your way through 80 unique levels!",
+              "desc_text": "# Stickman Parkour 2: The Ultimate Web Action Adventure\n\n## 🗺️Quick Overview of the Game\nStickman Parkour 2 is an electrifying web - based action game that takes the classic stickman parkour concept to new heights. Set in a variety of dynamic environments, players control a stickman character through a series of high - speed parkour challenges. The game's simple yet intuitive design makes it accessible to players of all skill levels, from casual gamers to seasoned action enthusiasts.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Stickman Parkour 2 is a breeze. Use the arrow keys on your keyboard to control the stickman's movements. Jump over obstacles, climb walls, and swing from bars to navigate through the levels. The game mechanics are fast - paced, with each level presenting unique challenges that require quick reflexes and strategic thinking. As you progress, the difficulty increases, adding to the excitement and replay value.\n\n## 🌟 Key Features and Unique Highlights\nOne of the standout features of Stickman Parkour 2 is its free - to - play nature. You can access the game directly from your web browser without any downloads or installations. This makes it convenient for players to jump in and start playing whenever they want. The game also offers a wide range of levels with different themes, such as cityscapes, jungles, and futuristic landscapes. Additionally, the smooth graphics and engaging sound effects enhance the overall gaming experience.\n\n## 📱 Supported Platforms and Devices\nStickman Parkour 2 is a browser - based game, which means it can be played on any device with a modern web browser. Whether you're using a desktop computer, laptop, tablet, or even a smartphone, you can enjoy this action - packed game. Its mobile - friendly design ensures that you can play on the go, making it perfect for those short breaks or when you're waiting in line.\n\n## ✨ Recommended Games Similar to [Stickman Parkour 2]\nIf you enjoy Stickman Parkour 2, you might also like other stickman - themed action games. Games like Stickman Army Warriors and Stickman Hook offer similar fast - paced action and parkour elements. These games can be found on our website and provide hours of entertainment for fans of the genre.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Stickman Parkour 2, it's important to time your jumps and movements carefully. Pay attention to the environment and plan your route in advance. The game developers are constantly working on updates to improve the gameplay, add new levels, and fix any bugs. Keep an eye on our website for the latest version updates and tips to enhance your gaming experience.",
               "icon": "https://cdn.pokiter.com/html5New/stickman-parkour-2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/stickman-parkour-2/index.html",
               "platform": "web",
               "category": "Action",
-              "tags": "",
+              "tags": "Stickman Parkour 2,web - based action game,stickman parkour challenges,online stickman game",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1297,19 +2094,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 15:02:02",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Stickman Parkour 2: An Exciting Web-Based Action Game",
+              "meta_desc": "Dive into the thrilling world of Stickman Parkour 2! This web - based action game offers endless parkour challenges, amazing game mechanics, and a user - friendly experience. Click to play now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Stickman Parkour 2 free to play?",
+                            "answer": "A: Yes, Stickman Parkour 2 is completely free to play. You can access it directly from your web browser without any downloads or installations."
+                     },
+                     {
+                            "question": "Q: What devices can I play Stickman Parkour 2 on?",
+                            "answer": "A: You can play Stickman Parkour 2 on any device with a modern web browser, including desktop computers, laptops, tablets, and smartphones."
+                     },
+                     {
+                            "question": "Q: How do I control the stickman in the game?",
+                            "answer": "A: Use the arrow keys on your keyboard to control the stickman's movements, such as jumping, climbing, and swinging."
+                     },
+                     {
+                            "question": "Q: Are there new levels added regularly?",
+                            "answer": "A: The game developers are constantly working on updates to add new levels and improve the gameplay. Keep an eye on our website for the latest updates."
+                     }
+              ]
        },
-
        {
               "id": 2461,
               "name": "city-car-stunt-2",
               "sub_name": "City Car Stunt 2",
-              "desc_text": "City Car Stunt saga continues with the 2nd game of the series. Brand new modern city and futuristic super-sports vehicles are waiting for you. Apart from the vehicles in the first game of the series, you can start Stunt shows by using 7 completely unique amazing vehicles that could be customized by the newest skins. We revamped the game physics, now you can control the vehicles on air. You will enjoy the game even more thanks to improved controls.\r\n\r\nThe newly added Nitro feature will provide more power for traps and ramps. You can play the game in both single and 2 Player modes. You will also have the \"Free Driving\" option to perform freestyle shows as in the previous game. Try to complete 6 different routes in the game before time runs out! Each level unlocks a new car and makes you more powerful for upcoming levels!",
+              "desc_text": "# City Car Stunt 2: The Ultimate Web Racing Experience\n## 🗺️Quick Overview of the Game\nCity Car Stunt 2 is an exhilarating racing game designed for web platforms. It transports players into a dynamic city environment where they can showcase their driving skills through a series of challenging stunts. Unlike traditional racing games, this one focuses not only on speed but also on the art of pulling off spectacular stunts.\n\n## 🤔 How to Play + Game Mechanics\nIn City Car Stunt 2, players control a high - performance car through various city streets and arenas. The game mechanics are intuitive, with simple controls for acceleration, braking, and steering. To perform stunts, players need to time their actions precisely, such as taking ramps at the right speed and angle. The more complex the stunt, the higher the score players can earn. There are also different levels and tracks, each with its own unique challenges and obstacles.\n\n## 🌟 Key Features and Unique Highlights\nOne of the main highlights of City Car Stunt 2 is its free - to - play nature. Players can access the game online without any upfront costs. The high - quality graphics bring the city environment to life, with detailed buildings, traffic, and weather effects. Another unique feature is the wide range of cars available, each with different handling characteristics and visual styles. Additionally, the game regularly updates with new tracks and stunts, keeping the gameplay fresh and exciting.\n\n## 📱 Supported Platforms and Devices\nCity Car Stunt 2 is a browser - based game, which means it can be played on any device with a modern web browser. Whether you're using a desktop computer, laptop, tablet, or even a mobile phone, you can enjoy the game as long as you have an internet connection. This makes it highly accessible and convenient for players to jump into the action anytime, anywhere.\n\n## ✨ Recommended Games Similar to City Car Stunt 2\nIf you enjoy City Car Stunt 2, you might also like other racing games such as [TrackMania Nations Forever](https://www.trackmania.com/). It offers fast - paced racing on various tracks with a focus on speed and precision. Another great option is [Asphalt 9: Legends](https://asphalt9.gg/), which features stunning graphics and a wide range of real - life cars. These games share similar elements of racing and stunts, providing a comparable gaming experience.\n\n## 💡Tips, Rules, and Version Updates\nTo excel in City Car Stunt 2, it's important to practice your stunts regularly. Try different approaches on each ramp to find the best way to maximize your score. The game has certain rules, such as avoiding collisions with other cars and obstacles, which can reduce your score. As for version updates, the developers are constantly working on improving the game. New updates may include bug fixes, performance enhancements, and the addition of new content like cars and tracks.",
               "icon": "https://cdn.pokiter.com/html5New/city-car-stunt-2/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/city-car-stunt-2/index.html",
               "platform": "web",
               "category": "Racing",
-              "tags": "",
+              "tags": "City Car Stunt 2,web based racing game,car stunts in city environment,free online racing game",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1320,18 +2136,42 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 15:02:02",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "City Car Stunt 2: An Exciting Web - Based Racing Game",
+              "meta_desc": "Dive into the thrilling world of City Car Stunt 2! This web - based racing game offers amazing stunts and high - speed action. Click to start your racing adventure now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is City Car Stunt 2 free to play?",
+                            "answer": "A: Yes, City Car Stunt 2 is a free - to - play web - based game. You can access it online without any upfront cost."
+                     },
+                     {
+                            "question": "Q: What devices can I play City Car Stunt 2 on?",
+                            "answer": "A: You can play City Car Stunt 2 on any device with a modern web browser, including desktop computers, laptops, tablets, and mobile phones, as long as you have an internet connection."
+                     },
+                     {
+                            "question": "Q: How do I perform stunts in City Car Stunt 2?",
+                            "answer": "A: To perform stunts, you need to time your actions precisely. Take ramps at the right speed and angle. The more complex the stunt, the higher the score you can earn."
+                     },
+                     {
+                            "question": "Q: Are there different levels in City Car Stunt 2?",
+                            "answer": "A: Yes, there are different levels and tracks in the game, each with its own unique challenges and obstacles."
+                     },
+                     {
+                            "question": "Q: Does City Car Stunt 2 get regular updates?",
+                            "answer": "A: Yes, the game regularly updates with new tracks, stunts, and other content to keep the gameplay fresh and exciting."
+                     }
+              ]
        },
        {
               "id": 2462,
               "name": "retro-racing-double-dash",
               "sub_name": "Retro Racing: Double Dash",
-              "desc_text": "Retro Racing: Double Dash is an arcade Formula 1 racing game that combines classic 3D pixel art graphics with fast-paced gameplay reminiscent of the golden age of racing games. The game is a project created for the 32bit Spring Cleaning event. Its precise and dynamic gameplay, along with minimalist 3D graphics, may remind older players of the groundbreaking racing game Virtua Racing, released on the Megadrive in 1994. Retro Racing: Double Dash allows you to experience thrilling moments as a driver on 6 technical circuits set in different environments. Discover them through 3 exciting game modes:",
+              "desc_text": "# Retro Racing: Double Dash - A Nostalgic Racing Adventure\n\n## 🗺️Quick Overview of the Game\nRetro Racing: Double Dash is a captivating web - based racing game that takes players back to the golden era of classic racing games. With its pixelated graphics and engaging gameplay, it offers a unique and nostalgic experience for racing enthusiasts. The game features multiple tracks, each with its own challenges and obstacles, ensuring that players will never get bored.\n\n## 🤔 How to Play + Game Mechanics\nTo start playing Retro Racing: Double Dash, simply load the game on your web browser. Use the arrow keys to control your car - the up arrow to accelerate, the down arrow to brake, and the left and right arrows to steer. The game mechanics are straightforward yet challenging. You'll need to time your acceleration and braking carefully to navigate through the tracks at high speeds. There are also power - ups scattered throughout the tracks that can give you an edge over your opponents, such as speed boosts and shields.\n\n## 🌟 Key Features and Unique Highlights\nOne of the main highlights of Retro Racing: Double Dash is its free - to - play nature. You can enjoy the game online without having to pay a single cent. The classic retro graphics are another major draw, providing a warm and familiar feeling for those who grew up with old - school racing games. Additionally, the game offers online multiplayer mode, allowing you to compete with friends and players from around the world in real - time.\n\n## 📱 Supported Platforms and Devices\nRetro Racing: Double Dash is a browser game, which means you can play it on any device with a compatible web browser. Whether you're using a desktop computer, laptop, tablet, or even a smartphone, you can easily access the game and start racing. It's mobile - friendly, so you can take your racing adventures on the go.\n\n## ✨ Recommended Games Similar to Retro Racing: Double Dash\nIf you enjoy Retro Racing: Double Dash, you might also like other racing games on our website. [Classic Car Racing] is a similar game that offers a different set of tracks and cars. [Super Speed Racer] is another great option, with more advanced gameplay mechanics and a wider range of customization options.\n\n## 💡Tips, Rules, and Version Updates\nTo improve your chances of winning in Retro Racing: Double Dash, try to collect as many power - ups as possible. Also, pay attention to the track layout and plan your moves accordingly. The game developers regularly release updates, which may include new tracks, cars, and gameplay features. Make sure to check back often to stay up - to - date with the latest changes.",
               "icon": "https://cdn.pokiter.com/html5New/retro-racing-double-dash/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/retro-racing-double-dash/index.html",
               "platform": "web",
               "category": "Racing",
-              "tags": "",
+              "tags": "retro racing double dash,web - based racing game,high - speed racing,classic retro graphics",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1342,18 +2182,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 15:02:02",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Retro Racing: Double Dash - An Exciting Web-based Racing Game",
+              "meta_desc": "Dive into the thrilling world of Retro Racing: Double Dash! This web-based racing game offers high - speed action, classic retro graphics, and exciting gameplay mechanics. Start your engines now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Retro Racing: Double Dash free to play?",
+                            "answer": "A: Yes, Retro Racing: Double Dash is completely free to play. You can enjoy the game online without any cost."
+                     },
+                     {
+                            "question": "Q: Can I play Retro Racing: Double Dash on my mobile device?",
+                            "answer": "A: Absolutely! Retro Racing: Double Dash is a browser - based game and is mobile - friendly. You can play it on any device with a compatible web browser."
+                     },
+                     {
+                            "question": "Q: Are there any power - ups in the game?",
+                            "answer": "A: Yes, there are power - ups scattered throughout the tracks. These power - ups can give you a speed boost, a shield, or other advantages over your opponents."
+                     },
+                     {
+                            "question": "Q: Does the game have a multiplayer mode?",
+                            "answer": "A: Yes, Retro Racing: Double Dash offers an online multiplayer mode. You can compete with friends and other players from around the world in real - time."
+                     }
+              ]
        },
        {
               "id": 2463,
               "name": "madness-sherrifs-compound",
               "sub_name": "Madness: Sherrifs Compound",
-              "desc_text": "Madness: Sheriff’s Compound is an electrifying 3D first-person shooter that throws you straight into the heart of relentless action. Packed with intense battles and fast-paced combat, this game challenges your skills as you face off against waves of enemies in a chaotic, unforgiving environment. Whether you're navigating complex terrains or executing precision shots, every moment keeps you on edge.\r\n\r\nIdeal for fans of high-energy shooting games, Madness tests your reflexes, strategy, and accuracy. Immerse yourself in an explosive world where quick thinking and sharp aim are your only chances for survival. Step into the madness, conquer the Sheriff’s Compound, and prove you have what it takes to dominate the battlefield!",
+              "desc_text": "# Madness: Sherrifs Compound - A Fierce Web Fighting Adventure\n\n## 🗺️Quick Overview of the Game\nMadness: Sherrifs Compound is a captivating web - based fighting game that plunges players into a world filled with intense battles. Set in a sheriff's compound, the game provides a dynamic and action - packed environment where players can test their combat skills. The vivid graphics and immersive sound effects create an engaging atmosphere that keeps players coming back for more.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Madness: Sherrifs Compound is straightforward yet challenging. Players control their characters using a combination of keyboard controls. Basic moves like punches, kicks, and blocks are easily accessible, allowing for quick and fluid combat. As the game progresses, players can unlock special moves and combos. These advanced techniques require precise timing and practice to master, adding depth to the gameplay. The game also features a leveling system, where players gain experience points by winning battles. With each level up, players can upgrade their character's stats, such as strength, speed, and defense.\n\n## 🌟 Key Features and Unique Highlights\nOne of the main highlights of Madness: Sherrifs Compound is its free - to - play nature. Players can access the game directly from their web browsers without any need for downloads. This makes it convenient for anyone to jump into the action at any time. The game also offers online multiplayer mode, allowing players to compete against others from around the world. This adds a competitive edge and makes the gameplay even more exciting. Additionally, the game has regular updates, introducing new characters, arenas, and game modes to keep the experience fresh.\n\n## 📱 Supported Platforms and Devices\nMadness: Sherrifs Compound is a browser - based game, which means it can be played on any device with a compatible web browser. Whether you're using a desktop computer, laptop, or even a tablet, you can enjoy the game. It is also mobile - friendly, so you can take the battles on the go. All you need is a stable internet connection, and you're ready to start fighting.\n\n## ✨ Recommended Games Similar to Madness: Sherrifs Compound\nIf you enjoy Madness: Sherrifs Compound, you might also like other web - based fighting games such as [Another Fighting Game]. These games share similar gameplay mechanics and offer a similar level of excitement. They provide a great alternative when you want to try something new but still stay within the fighting game genre.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Madness: Sherrifs Compound, it's important to practice your combos and learn the timing of special moves. Keep an eye on the enemy's movements and look for openings to attack. The game has strict rules regarding fair play, and any form of cheating will result in penalties. The developers regularly release version updates, which not only fix bugs but also introduce new features and improvements. Make sure to check for updates to get the best gaming experience.",
               "icon": "https://cdn.pokiter.com/html5New/madness-sherrifs-compound/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/madness-sherrifs-compound/index.html",
               "platform": "web",
               "category": "fighting",
-              "tags": "",
+              "tags": "Madness Sherrifs Compound,web - based fighting game,intense combat,online fighting",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1364,18 +2224,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 15:02:02",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Madness: Sherrifs Compound - An Intense Web-Based Fighting Game",
+              "meta_desc": "Dive into the thrilling world of Madness: Sherrifs Compound! This web - based fighting game offers high - octane battles and unique gameplay. Join now for an unforgettable combat experience.",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Madness: Sherrifs Compound free to play?",
+                            "answer": "A: Yes, Madness: Sherrifs Compound is a free - to - play web - based game. You can access it directly from your browser without any cost."
+                     },
+                     {
+                            "question": "Q: Can I play Madness: Sherrifs Compound on my mobile device?",
+                            "answer": "A: Absolutely! The game is mobile - friendly and can be played on any device with a compatible web browser and a stable internet connection."
+                     },
+                     {
+                            "question": "Q: Are there any special moves in the game?",
+                            "answer": "A: Yes, as you progress in the game, you can unlock special moves and combos. These require precise timing and practice to use effectively."
+                     },
+                     {
+                            "question": "Q: How often are the game updates released?",
+                            "answer": "A: The developers regularly release updates. These updates introduce new characters, arenas, game modes, and also fix any bugs."
+                     }
+              ]
        },
        {
               "id": 2464,
               "name": "drift-hunters",
               "sub_name": "Drift Hunters",
-              "desc_text": "Drift Hunters is a free-to-play car 3D game that lets you experience the art of drifting with an impressive range of tuned-up cars and dynamic tracks. Choose from a wide selection of customizable rides, fine-tune your engine, and hit the gas as you glide around corners and perfect your drift technique in 10 unique and challenging locations. Get ready to leave your mark on the asphalt, literally!",
+              "desc_text": "# Drift Hunters: The Ultimate Web Racing Adventure\n\n## 🗺️Quick Overview of the Game\nDrift Hunters is an electrifying web - based racing game that takes the concept of drifting to a whole new level. Unlike traditional racing games, it emphasizes the art of controlled skidding around corners, providing an exhilarating experience for racing enthusiasts. Players can feel the rush of speed as they navigate through a diverse range of tracks, each with its own unique challenges and scenery.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Drift Hunters is intuitive yet challenging. The goal is to drift through corners while maintaining speed and control. Players use the keyboard to control the car, with the arrow keys or WASD keys for steering and acceleration. As you drift, you accumulate points based on the length and quality of your drift. These points can be used to upgrade your car, improving its performance in areas such as speed, handling, and braking. The game mechanics are designed to keep players engaged, with different levels of difficulty and tracks that require strategic driving.\n\n## 🌟 Key Features and Unique Highlights\nOne of the standout features of Drift Hunters is its free - to - play nature. You can access the game directly from your web browser without any need for downloads or installations. This makes it incredibly convenient for players to jump in and start racing at any time. Additionally, the game offers a wide range of cars to choose from, each with its own distinct characteristics. You can customize your cars with different parts and paint jobs, allowing you to create a unique racing machine. The online access also means that you can compare your scores with other players around the world.\n\n## 📱 Supported Platforms and Devices\nDrift Hunters is a browser game, which means it is compatible with most modern web browsers on both desktop and mobile devices. Whether you're using a Windows PC, a Mac, or a mobile phone with a web browser, you can enjoy the game. Its mobile - friendly design ensures that you can race on the go, making it a great option for those who want to kill some time during their commute or breaks.\n\n## ✨ Recommended Games Similar to Drift Hunters\nIf you enjoy Drift Hunters, you might also like other racing games such as Real Racing 3 and Asphalt 9: Legends. These games offer similar high - speed racing experiences, with different tracks and car models. You can check out [Real Racing 3](https://www.example.com/real - racing - 3) and [Asphalt 9: Legends](https://www.example.com/asphalt - 9 - legends) to explore more racing adventures.\n\n## 💡Tips, Rules, and Version Updates\nTo excel in Drift Hunters, it's important to practice your drifting skills. Try to enter corners at the right speed and angle to maximize your drift points. The game also has certain rules, such as avoiding hitting walls or other obstacles, which can slow you down. As for version updates, the developers regularly add new tracks, cars, and features to keep the game fresh and exciting. Stay tuned to the official website for the latest updates.",
               "icon": "https://cdn.pokiter.com/html5New/drift-hunters/icon.png",
               "html": "https://cdn.pokiter.com/html5New/drift-hunters/index.html",
               "platform": "web",
               "category": "Racing",
-              "tags": "",
+              "tags": "Drift Hunters,web racing game,high - speed drifting,car customization in racing,various racing tracks",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1386,18 +2266,42 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 15:02:02",
               "isfunny": null,
-              "Japanese": null
+              "Japanese": null,
+              "title": "Drift Hunters: An Exciting Web-Based Racing Game",
+              "meta_desc": "Dive into the thrilling world of Drift Hunters, a web - based racing game. Experience high - speed drifting, customize your cars, and enjoy a variety of tracks. Click to start racing now!",
+              "FAQS": [
+                     {
+                            "question": "Q: Can I play Drift Hunters on my mobile phone?",
+                            "answer": "A: Yes, Drift Hunters is a browser - based game and is mobile - friendly. You can play it on your mobile phone using a web browser."
+                     },
+                     {
+                            "question": "Q: Is Drift Hunters a free game?",
+                            "answer": "A: Yes, Drift Hunters is completely free to play. You can access it directly from your web browser without any cost."
+                     },
+                     {
+                            "question": "Q: How do I earn points in Drift Hunters?",
+                            "answer": "A: You earn points by performing high - quality drifts around corners. The longer and more controlled your drift, the more points you will accumulate."
+                     },
+                     {
+                            "question": "Q: Can I customize my car in Drift Hunters?",
+                            "answer": "A: Absolutely! You can customize your car with different parts and paint jobs using the points you earn in the game."
+                     },
+                     {
+                            "question": "Q: Are there different levels in Drift Hunters?",
+                            "answer": "A: Yes, the game offers different levels of difficulty and a variety of tracks, each presenting unique challenges for players."
+                     }
+              ]
        },
        {
               "id": 2465,
               "name": "ping-pong-go",
               "sub_name": "Ping Pong Go",
-              "desc_text": "Ping Pong Go is the ultimate table tennis experience that elevates your favorite sport to exhilarating new heights! Get ready to dive into fast-paced matches that will keep your adrenaline pumping across a diverse range of dynamic game modes.\r\n\r\nIn Arcade Mode, sharpen your skills and conquer increasingly challenging levels.",
+              "desc_text": "# Ping Pong Go: The Ultimate Web Puzzle Adventure\n## 🗺️Quick Overview of the Game\nPing Pong Go is an exciting web - based puzzle game that combines the fun of ping pong with challenging puzzle elements. It offers a unique and immersive gaming experience right in your browser. In this game, players are tasked with solving various puzzles using ping pong - related mechanics.\n## 🤔 How to Play + Game Mechanics\nPlaying Ping Pong Go is straightforward yet full of depth. The game starts with simple levels where players use their mouse or touch controls to direct the ping pong ball to hit specific targets. As you progress, the puzzles become more complex, requiring strategic thinking and precise timing. You need to consider factors like the ball's trajectory, speed, and the position of obstacles.\n## 🌟 Key Features and Unique Highlights\nOne of the best things about Ping Pong Go is that it is free to play. You can access it online without any downloads, making it convenient for players on the go. The game also offers a wide range of levels, ensuring that there is always a new challenge waiting for you. The graphics are engaging, and the sound effects add to the overall gaming experience.\n## 📱 Supported Platforms and Devices\nSince Ping Pong Go is a browser game, it is highly accessible. It is compatible with most modern web browsers, whether you are using a desktop computer, laptop, or even a tablet. It is also mobile - friendly, allowing you to enjoy the game on your smartphone. You can play it during your commute, breaks, or just whenever you have a few minutes to spare.\n## ✨ Recommended Games Similar to [Ping Pong Go]\nIf you enjoy Ping Pong Go, you might also like other web - based puzzle games. Games like [Link to Puzzle Game 1] and [Link to Puzzle Game 2] offer similar gameplay mechanics with their own unique twists. These games provide endless hours of entertainment and are perfect for puzzle enthusiasts.\n## 💡Tips, Rules, and Version Updates\nTo excel in Ping Pong Go, it's important to practice your timing and observe the layout of each level carefully. The game follows a set of rules, such as not letting the ball go out of bounds. As for version updates, the developers regularly add new levels and features to keep the game fresh and exciting. Stay tuned for the latest improvements to enhance your gaming experience.",
               "icon": "https://cdn.pokiter.com/html5New/ping-pong-go/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/ping-pong-go/index.html",
               "platform": "web",
               "category": "Puzzle",
-              "tags": "",
+              "tags": "ping pong go,web puzzle game,online puzzle,ping pong go gameplay,free web puzzle",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1408,18 +2312,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 15:02:02",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Ping Pong Go: An Addictive Web-based Puzzle Game",
+              "meta_desc": "Dive into the world of Ping Pong Go, a captivating web - based puzzle game. Experience unique gameplay, endless challenges, and enjoy it right in your browser. Click now to start playing!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Ping Pong Go free to play?",
+                            "answer": "A: Yes, Ping Pong Go is completely free to play. You can access it online through your web browser without any downloads."
+                     },
+                     {
+                            "question": "Q: What platforms can I play Ping Pong Go on?",
+                            "answer": "A: You can play Ping Pong Go on most modern web browsers, including those on desktop computers, laptops, tablets, and smartphones. It is a browser - based game and is mobile - friendly."
+                     },
+                     {
+                            "question": "Q: Are there different levels in Ping Pong Go?",
+                            "answer": "A: Yes, Ping Pong Go offers a wide range of levels. As you progress, the puzzles become more challenging, providing a continuous source of entertainment."
+                     },
+                     {
+                            "question": "Q: How do I improve my skills in Ping Pong Go?",
+                            "answer": "A: Practice your timing and carefully observe the layout of each level. Understanding the ball's trajectory and the position of obstacles is key to solving the puzzles."
+                     }
+              ]
        },
        {
               "id": 2466,
               "name": "stickman-sports-badminton",
               "sub_name": "Stickman Sports Badminton",
-              "desc_text": "Stick Figure Badminton is a sport badminton game where you must get the first 7 points to win the game.",
+              "desc_text": "# Stickman Sports Badminton: A Web - Based Sports Adventure\n\n## 🗺️Quick Overview of the Game\nStickman Sports Badminton is an exhilarating web - based sports game that brings the fast - paced action of badminton to your screen. The game features stickman characters engaged in intense badminton matches, offering a unique and entertaining take on the traditional sport.\n\n## 🤔 How to Play + Game Mechanics\nPlaying Stickman Sports Badminton is straightforward. Once you load the game in your browser, you are greeted with a simple interface. Use the arrow keys or WASD keys to move your stickman player around the court. To hit the shuttlecock, time your shots carefully. The better your timing, the more powerful and accurate your hits will be.\n\nThe game mechanics are designed to mimic real - life badminton as closely as possible. You'll need to anticipate your opponent's moves, adjust your position on the court, and use different shot techniques such as smashes, clears, and drops. As you progress through the game, the difficulty level increases, challenging your skills and strategy.\n\n## 🌟 Key Features and Unique Highlights\nOne of the main highlights of Stickman Sports Badminton is its free - to - play nature. You can enjoy the game without any upfront costs. It is also accessible online, which means you can play it anytime, anywhere as long as you have an internet connection.\n\nThe stickman graphics give the game a fun and light - hearted feel, making it suitable for players of all ages. Additionally, the game offers multiple levels and opponents, ensuring that there is always a new challenge to face.\n\n## 📱 Supported Platforms and Devices\nStickman Sports Badminton is a browser game, which means you can play it directly on your computer without the need to download any software. It is also mobile - friendly, so you can enjoy the game on your smartphone or tablet. Simply open your browser, navigate to the game's website, and start playing.\n\n## ✨ Recommended Games Similar to Stickman Sports Badminton\nIf you enjoy Stickman Sports Badminton, you might also like [Stickman Basketball](link_to_stickman_basketball). This game also features stickman characters and offers an exciting sports experience. Another great option is [Online Table Tennis](link_to_online_table_tennis), which has similar fast - paced gameplay and easy - to - learn controls.\n\n## 💡Tips, Rules, and Version Updates\nTo improve your performance in Stickman Sports Badminton, practice your timing and footwork. Try to anticipate your opponent's shots and position yourself accordingly. The rules of the game follow the basic principles of badminton, such as serving from the correct side and not letting the shuttlecock hit the ground on your side of the court.\n\nThe developers are constantly working on updates to enhance the game. These updates may include new levels, improved graphics, and additional features, so be sure to check back regularly for the latest version.",
               "icon": "https://cdn.pokiter.com/html5New/stickman-sports-badminton/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/stickman-sports-badminton/index.html",
               "platform": "web",
               "category": "Sports",
-              "tags": "",
+              "tags": "stickman sports badminton,web - based badminton game,free online stickman badminton,stickman badminton gameplay",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1430,18 +2354,38 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 15:02:02",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Stickman Sports Badminton: An Exciting Web - Based Sports Game",
+              "meta_desc": "Dive into the world of Stickman Sports Badminton! A thrilling web - based sports game with simple controls and engaging gameplay. Play now and experience the excitement of badminton like never before!",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Stickman Sports Badminton free to play?",
+                            "answer": "A: Yes, Stickman Sports Badminton is completely free to play. You can enjoy the game without any upfront costs."
+                     },
+                     {
+                            "question": "Q: Can I play Stickman Sports Badminton on my mobile device?",
+                            "answer": "A: Absolutely! The game is mobile - friendly. You can play it on your smartphone or tablet by opening your browser and navigating to the game's website."
+                     },
+                     {
+                            "question": "Q: How do I improve my skills in Stickman Sports Badminton?",
+                            "answer": "A: Practice your timing and footwork. Try to anticipate your opponent's moves and adjust your position on the court accordingly. The more you play, the better you'll get."
+                     },
+                     {
+                            "question": "Q: Are there different levels in Stickman Sports Badminton?",
+                            "answer": "A: Yes, the game offers multiple levels and opponents. As you progress, the difficulty level increases, providing a greater challenge."
+                     }
+              ]
        },
        {
               "id": 2456,
               "name": "monkey-mart",
               "sub_name": "Monkey Mart",
-              "desc_text": "Welcome to Monkey Mart, where you transform from a rookie store manager to a retail tycoon! In this addictive online game, you'll start with a tiny shop and grow it into a bustling supermarket empire.\r\n\r\nGame Highlights (Version 6.3r Update)\r\nNew Features in Version 6.3r\r\nEnhanced Customer AI: Shoppers now have more complex shopping behaviors\r\nDynamic Pricing System: Adjust prices in real-time based on market demand\r\nExpanded Product Categories: Added specialty sections like organic foods and tech gadgets",
+              "desc_text": "# Monkey Mart: A Strategic Web Adventure\n\n## 🗺️Quick Overview of the Game\nMonkey Mart is an enthralling strategy game that unfolds in a unique world where monkeys run a mart. As the player, you step into the shoes of a mart manager, tasked with making crucial decisions to ensure the success of your establishment. This web - based game offers a fresh and engaging experience, combining elements of resource management, customer service, and strategic planning.\n\n## 🤔 How to Play + Game Mechanics\nTo start your journey in Monkey Mart, you must first set up your mart. This involves stocking the shelves with a variety of products, hiring and training monkey employees, and designing an efficient layout. You'll need to balance your inventory based on customer demand, which can change over time. For instance, some customers might prefer fresh fruits, while others are more interested in snacks. By analyzing customer behavior and making strategic adjustments, you can maximize your profits and grow your mart.\n\n## 🌟 Key Features and Unique Highlights\nOne of the most appealing aspects of Monkey Mart is its free - to - play nature. You can access the game directly through your web browser, eliminating the need for any downloads. This makes it convenient for players to jump in and start playing whenever they have a spare moment. Additionally, the game has a vibrant and colorful graphics style, which adds to its charm. The strategic depth allows for long - term engagement, as you constantly strive to improve your mart's performance.\n\n## 📱 Supported Platforms and Devices\nMonkey Mart is a browser - based game, which means it can be played on a wide range of devices. Whether you're using a desktop computer, laptop, or even a tablet, as long as you have a modern web browser, you can enjoy the game. It's also mobile - friendly, so you can manage your mart on the go.\n\n## ✨ Recommended Games Similar to [Game Name]\nIf you enjoy Monkey Mart, you might also like other strategy games such as [Link to Game 1] and [Link to Game 2]. These games share similar elements of resource management and strategic decision - making. They offer different themes and gameplay mechanics, but the core strategy aspect remains the same.\n\n## 💡Tips, Rules, and Version Updates\nTo succeed in Monkey Mart, it's important to keep an eye on your inventory levels and customer feedback. Make sure to regularly restock popular items and train your employees to provide better service. The game developers often release updates, which can introduce new products, customers, and features. Stay tuned for these updates to enhance your gaming experience.",
               "icon": "https://cdn.pokiter.com/html5New/monkey-mart/icon.png",
               "html": "https://cdn.pokiter.com/html5New/monkey-mart/index.html",
               "platform": "web",
               "category": "Strategy",
-              "tags": "",
+              "tags": "Monkey Mart strategy game,web - based Monkey Mart,strategic management in Monkey Mart,Monkey Mart online experience",
               "type": 1,
               "is_use": "0",
               "google_play": false,
@@ -1452,8 +2396,52 @@ const defaultGamelist: Game[] = [
               "screenshots": null,
               "create_time": "19/2/2025 14:33:11",
               "isfunny": "1",
-              "Japanese": null
+              "Japanese": null,
+              "title": "Monkey Mart: A Strategic Web Game for Thrilling Fun",
+              "meta_desc": "Dive into the world of Monkey Mart, a captivating strategy web game. Manage your own monkey - run mart, make strategic decisions, and enjoy endless entertainment online.",
+              "FAQS": [
+                     {
+                            "question": "Q: Is Monkey Mart free to play?",
+                            "answer": "A: Yes, Monkey Mart is a free - to - play web game. You can access it directly through your browser without any cost."
+                     },
+                     {
+                            "question": "Q: Can I play Monkey Mart on my mobile device?",
+                            "answer": "A: Absolutely! Monkey Mart is mobile - friendly. You can play it on your smartphone or tablet using a modern web browser."
+                     },
+                     {
+                            "question": "Q: How do I increase my profits in Monkey Mart?",
+                            "answer": "A: To increase profits, you need to balance your inventory according to customer demand, train your monkey employees, and optimize your mart's layout."
+                     },
+                     {
+                            "question": "Q: Are there any updates for Monkey Mart?",
+                            "answer": "A: The game developers regularly release updates that introduce new products, customers, and features to enhance the gaming experience."
+                     }
+              ]
        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
        {
               "id": 2457,
               "name": "toca-life-unlimited",
@@ -1894,28 +2882,7 @@ const defaultGamelist: Game[] = [
               "isfunny": "1",
               "Japanese": null
        },
-       {
-              "id": 2433,
-              "name": "stickman-rope",
-              "sub_name": "Stickman Rope",
-              "desc_text": "Swing at the end of your rope like Spider-man and try to cross the obstacles of each level without falling in Stickman Rope. The game offers dozens of levels and challenges requiring reflex, agility and dexterity with your mouse. Will you be able to cross all levels in just one time? Use your speed, bumpers and other elements to reach the finish line as quickly as possible. Will you be able to finish all the levels?\r\n\r\n",
-              "icon": "https://cdn.pokiter.com/html5New/stickman-rope/icon.webp",
-              "html": "https://cdn.pokiter.com/html5New/stickman-rope/index.html",
-              "platform": "web,Mobile",
-              "category": "Strategy",
-              "tags": "",
-              "type": 1,
-              "is_use": "0",
-              "google_play": false,
-              "app_store": "",
-              "other_platform": "",
-              "rating": "4.9",
-              "file_size": "",
-              "screenshots": null,
-              "create_time": "18/2/2025 19:02:35",
-              "isfunny": "1",
-              "Japanese": null
-       },
+
        {
               "id": 2434,
               "name": "stick-fighter",
@@ -2905,28 +3872,6 @@ const defaultGamelist: Game[] = [
               "create_time": "5/2/2025 09:54:24",
               "isfunny": "1",
               "Japanese": "レッド-インポスター-F2"
-       },
-       {
-              "id": 2361,
-              "name": "super-oliver-world",
-              "sub_name": "Super Oliver World",
-              "desc_text": "Super Oliver World is an arcade game where you help little Oliver escape the dangers of a parallel world full of traps and dangerous enemies. Break blocks to find power-ups, coins, and other surprises along the way!",
-              "icon": "https://cdn.pokiter.com/html5New/super-oliver-world/icon.webp",
-              "html": "https://cdn.pokiter.com/html5New/super-oliver-world/index.html",
-              "platform": "web",
-              "category": "Action",
-              "tags": "",
-              "type": 1,
-              "is_use": "0",
-              "google_play": false,
-              "app_store": "",
-              "other_platform": "",
-              "rating": "4.9",
-              "file_size": "",
-              "screenshots": null,
-              "create_time": "5/2/2025 09:54:24",
-              "isfunny": "1",
-              "Japanese": null
        },
        {
               "id": 2362,
@@ -5597,29 +6542,6 @@ const defaultGamelist: Game[] = [
               "desc_text": "Bricks Breaker is an online action game that we hand picked for Lagged.com. This is one of our favorite mobile action games that we have to play. Simply click the big play button to start having fun. If you want more titles like this, then check out Paco Paco or Pirate Bricks Breaker. Developed by Playtouch.",
               "icon": "https://cdn.pokiter.com/html5New/bricks-breaker/icon.webp",
               "html": "https://cdn.pokiter.com/html5New/bricks-breaker/index.html",
-              "platform": "web",
-              "category": "Strategy",
-              "tags": "",
-              "type": 1,
-              "is_use": "0",
-              "google_play": false,
-              "app_store": "",
-              "other_platform": "",
-              "rating": "4.9",
-              "file_size": "",
-              "screenshots": null,
-              "create_time": "5/2/2025 09:54:17",
-              "isfunny": null,
-              "Japanese": "ブロックブレイカー"
-       },
-
-       {
-              "id": 2275,
-              "name": "brickbreaker",
-              "sub_name": "",
-              "desc_text": "Test your reflexes in this incredible game of skill inspired by the classic Atari game released in 1976, Breakout! Control a paddle and keep the ball in play as long as possible. Destroy each brick to complete each level. Pickup powerups to destroy bricks even quicker and avoid shrinking your paddle!",
-              "icon": "https://cdn.pokiter.com/html5New/brickbreaker/icon.webp",
-              "html": "https://cdn.pokiter.com/html5New/brickbreaker/index.html",
               "platform": "web",
               "category": "Strategy",
               "tags": "",
@@ -11354,7 +12276,53 @@ const defaultGamelist: Game[] = [
               "create_time": "5/2/2025 09:53:53",
               "isfunny": null,
               "Japanese": "ディフェンスを描く"
-       }
+       },
+       {
+              "id": 14,
+              "name": "stickman-rope",
+              "sub_name": "Stickman Rope",
+              "title": "Play Stickman Rope Unblocked Online - Swing Game for Free | Jbuid",
+              "meta_desc": "Play Stickman Rope Unblocked for free online at Jbuid! Enjoy this addictively fun swinging stickman game without downloads or ads. Available on mobile and desktop.",
+              "desc_text": "# Stickman Rope – Unblocked Online Rope Swing Game (2025)\n\n**Stickman Rope** is a fast-paced physics-based swing game that challenges your timing and momentum skills. In this addictive **stickman rope** adventure, you’ll swing from one hook to another across dozens of vibrant levels. Whether you're a casual gamer or a seasoned pro, this game offers a satisfying blend of simplicity and skill-based fun.\n\n## 🎮 How to Play Stickman Rope\n\nTo play the **Stickman Rope online game**, just tap or click to release and catch ropes, timing each swing to avoid obstacles and reach the finish line. The controls are incredibly simple, but mastering the movement takes practice and precision. Perfect for quick play sessions or longer binge runs.\n\n## 🖥️ Platform Compatibility\n\nPlay **Stickman Rope unblocked** directly in your browser – no installation needed. It's a fully **HTML5**-powered **browser game** that works flawlessly across devices. Whether you're on **PC**, **Mac**, **mobile**, or a **Chromebook**, the game runs smooth and fast. Try **Stickman Rope unblocked 2025** for the latest optimized experience.\n\n## ✅ Why We Recommend It\n\n- ✅ 100% **free and unblocked**  \n- ✅ **No ads**, no interruptions  \n- ✅ **No download** or login required  \n- ✅ Compatible with school networks – try **Stickman Rope unblocked 66**  \n- ✅ Fast loading and ultra-responsive controls  \n- ✅ Great for both short breaks and long play sessions\n\n## 👥 Who Should Play?\n\nThis game is ideal for:\n- 👨‍🎓 Students looking for **Stickman Rope unblocked games** at school\n- 🧑‍💻 Office workers taking a fun break\n- 🎮 Fans of minimalist physics games and fast-paced challenges\n- 🛝 Anyone who enjoys **stickman rope** mechanics\n\n Ready to swing into action? Try **Stickman Rope unblocked** now and master the ropes!",
+              "icon": "https://cdn.pokiter.com/html5New/stickman-rope/icon.webp",
+              "html": "https://cdn.pokiter.com/html5New/stickman-rope/index.html",
+              "platform": "web,Mobile",
+              "category": "Strategy",
+              "tags": "stickman,rope,casual,swing,fast-paced,2025 top game",
+              "type": 1,
+              "is_use": "0",
+              "google_play": false,
+              "app_store": "",
+              "other_platform": "",
+              "rating": "4.9",
+              "file_size": "",
+              "screenshots": null,
+              "create_time": "21/5/2025 19:02:35",
+              "isfunny": "1",
+              "Japanese": null,
+              "videoUrl": "https://youtu.be/9cjV5EXGcHo?si=_ynB1yOFYUO9HK0Z",
+              "videoEmbedUrl": "https://www.youtube.com/embed/9cjV5EXGcHo?si=Etom7Hy_M1fZV9BR",
+              "videoThumbnail": "https://img.youtube.com/vi/9cjV5EXGcHo/maxresdefault.jpg",
+              "FAQS": [
+                     {
+                            "question": "Q: How many levels are in Stickman Rope?",
+                            "answer": "A: TStickman Rope has a whopping total of 140 spine-tingling levels for you to conquer! "
+                     },
+                     {
+                            "question": "Q: Is Stickman Rope free?",
+                            "answer": "A: You can play Stickman Rope for free on Jbuid.top!"
+                     },
+                     {
+                            "question": "Q: Can I play Stickman Rope on mobile devices and desktop?",
+                            "answer": "A: Stickman Rope can be played on your computer and mobile devices like phones and tablets."
+                     }
+              ],
+
+
+              "review": "Stickman Rope is an incredibly fun and addictive rope-swing game that runs smoothly on any browser without any ads or downloads. The physics-based gameplay challenges your timing and reflexes perfectly, making it ideal for quick breaks or longer sessions. Highly recommended for both casual and skillful gamers!"
+
+
+       },
 ]
 
 

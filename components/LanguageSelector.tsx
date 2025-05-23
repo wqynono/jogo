@@ -2,8 +2,8 @@
 
 import { useState, useRef, useEffect } from "react"
 import { ChevronDown, ChevronUp } from "lucide-react"
-import { usePathname, useRouter } from "next/navigation"
-
+import { usePathname } from "next/navigation"
+import Link from "next/link"
 const languages = [
     { code: "en", name: "English" },
     { code: "zh", name: "中文" },
@@ -13,7 +13,6 @@ const languages = [
 ]
 
 export default function LanguageSelector() {
-    const router = useRouter()
     const pathname = usePathname()
     const [isOpen, setIsOpen] = useState(false)
     const menuRef = useRef<HTMLDivElement>(null)
@@ -21,18 +20,6 @@ export default function LanguageSelector() {
     // 获取当前语言
     const currentLocale = pathname.split('/')[1] || 'en'
     const currentLanguage = languages.find(lang => lang.code === currentLocale)?.name || 'English'
-
-    // 切换语言
-    const selectLanguage = (languageCode: string) => {
-        const segments = pathname.split('/')
-        if (languages.some(lang => lang.code === segments[1])) {
-            segments[1] = languageCode // 替换当前语言
-        } else {
-            segments.splice(1, 0, languageCode) // 插入新语言
-        }
-        router.push(segments.join('/'))
-        setIsOpen(false)
-    }
 
     // 点击外部关闭菜单
     useEffect(() => {
@@ -60,13 +47,14 @@ export default function LanguageSelector() {
                     <ul className="py-1 max-h-60 overflow-y-auto">
                         {languages.map((language) => (
                             <li key={language.code}>
-                                <button
-                                    onClick={() => selectLanguage(language.code)}
-                                    className={`w-full text-left px-4 py-2 text-sm hover:bg-gray-100 text-black ${currentLocale === language.code ? "font-bold" : ""
+                                <Link
+                                    href={`/${language.code}/top`} // 根据你的路由结构调整
+                                    className={`w-full block px-4 py-2 text-sm hover:bg-gray-100 text-black ${currentLocale === language.code ? "font-bold" : ""
                                         }`}
+                                    onClick={() => setIsOpen(false)} // 关闭下拉菜单
                                 >
                                     {language.name}
-                                </button>
+                                </Link>
                             </li>
                         ))}
                     </ul>

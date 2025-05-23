@@ -1,7 +1,8 @@
 import Link from "next/link"
-import { useTranslations } from "next-intl"
+import { useTranslations, useLocale } from "next-intl"
 export default function notFound() {
     const t = useTranslations("NotFound")
+    const locale = useLocale()
     return (
 
         <div className="text-center">
@@ -11,7 +12,7 @@ export default function notFound() {
                 {t("description")}
 
             </p>
-            <Link href="/">
+            <Link href={`/${locale}`}>
                 <button className="bg-blue-500 hover:bg-blue-600 text-white font-medium py-3 px-6 rounded-md shadow-md">
                     {t("backHome")}
                 </button>

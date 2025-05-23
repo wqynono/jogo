@@ -9,6 +9,7 @@ import { type Game, defaultGamelist } from "@/data/game"
 import { getRecentlyPlayedGames } from "@/utils/recently-plyed"
 import { getSearchGames } from "@/api/game"
 import Skeleton from "@/components/Skeleton"
+import { useLocale } from "next-intl"
 
 type SearchModalProps = {
   onClose: () => void
@@ -18,6 +19,7 @@ type SearchModalProps = {
 }
 
 export default function SearchModal({ onClose, isOpen, searchQuery, setSearchQuery }: SearchModalProps) {
+  const locale = useLocale()
   const t = useTranslations("HomePage")
   const categoryT = useTranslations("Categories")
   const searchT = useTranslations("Search")
@@ -108,7 +110,7 @@ export default function SearchModal({ onClose, isOpen, searchQuery, setSearchQue
                   <div className="grid grid-cols-4 lg:grid-cols-3 gap-2 grid-flow-row">
                     {searchResults.slice(0, 12).map((game) => (
                       <div key={game.name} className="game-card">
-                        <Link href={`/game/${game.name}`} className="block group w-full h-full">
+                        <Link href={`/${locale}/game/${game.name}`} className="block group w-full h-full">
                           <div className="relative aspect-square overflow-hidden rounded-lg w-full h-full">
                             <Image
                               src={game.icon || "/placeholder.svg"}
@@ -132,7 +134,7 @@ export default function SearchModal({ onClose, isOpen, searchQuery, setSearchQue
                   {/* 查看更多结果按钮 */}
                   <div className="mt-4 flex justify-center">
                     <Link
-                      href={`/search/${encodeURIComponent(searchQuery)}`}
+                      href={`/${locale}/search/${encodeURIComponent(searchQuery)}`}
                       className="bg-green-600 hover:bg-green-700 text-white py-2 px-4 rounded-full text-center w-full max-w-xs"
                       onClick={onClose}
                     >
@@ -161,7 +163,7 @@ export default function SearchModal({ onClose, isOpen, searchQuery, setSearchQue
                 <div className="grid grid-cols-4 lg:grid-cols-3 gap-2 grid-flow-row">
                   {recentGames.slice(0, 6).map((game) => (
                     <div key={game.name} className="game-card">
-                      <Link href={`/game/${game.name}`} className="block group w-full h-full">
+                      <Link href={`/${locale}/game/${game.name}`} className="block group w-full h-full">
                         <div className="relative aspect-square overflow-hidden rounded-lg w-full h-full">
                           <Image
                             src={game.icon || "/placeholder.svg"}
@@ -192,7 +194,7 @@ export default function SearchModal({ onClose, isOpen, searchQuery, setSearchQue
                 <div className="grid grid-cols-4 lg:grid-cols-3 gap-2 grid-flow-row">
                   {popularGames.slice(0, 6).map((game) => (
                     <div key={game.name} className="game-card">
-                      <Link href={`/game/${game.name}`} className="block group w-full h-full">
+                      <Link href={`/${locale}/game/${game.name}`} className="block group w-full h-full">
                         <div className="relative aspect-square overflow-hidden rounded-lg w-full h-full">
                           <Image
                             src={game.icon || "/placeholder.svg"}
@@ -224,7 +226,7 @@ export default function SearchModal({ onClose, isOpen, searchQuery, setSearchQue
                   {defaultGamelist.slice(0, 1).map((game) => (
                     <Link
                       key={game.name}
-                      href={`/category/${game.category}`}
+                      href={`/${locale}/category/${game.category}`}
                       className="flex items-center p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors duration-200"
                       onClick={onClose}
                     >

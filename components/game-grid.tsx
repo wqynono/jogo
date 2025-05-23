@@ -5,7 +5,7 @@ import Link from "next/link";
 import { defaultGamelist, Game } from "@/data/game";
 import AdComponent from "@/components/ad"; // 导入广告组件
 import "@/css/game-grid.css"
-import { useTranslations } from "next-intl"
+import { useTranslations, useLocale } from "next-intl"
 import adConfig from "@/data/adConfig"
 
 export default function GameGrid({
@@ -19,6 +19,8 @@ export default function GameGrid({
   gameMobileLength?: number;
   adSlot?: string;
 }) {
+  const locale = useLocale();
+
   const t = useTranslations("HomePage")
   // 定义一个状态变量，用于判断是否为移动设备
   const [isMobile, setIsMobile] = useState(false);
@@ -51,7 +53,7 @@ export default function GameGrid({
           <React.Fragment key={String(game.id)}>
             {middleIndex.includes(index) && gamePcLength > 18 ? (
               <div className={`game-card  middle-game-card-${middleIndex.indexOf(index)} row-span-2 col-span-2`}>
-                <Link href={`/game/${game.name}`} className="block group w-full h-full">
+                <Link href={`/${locale}/game/${game.name}`} className="block group w-full h-full">
                   <div className="relative aspect-square overflow-hidden rounded-lg w-full h-full">
                     <Image
                       src={game.icon || "/placeholder.svg"}
@@ -78,7 +80,7 @@ export default function GameGrid({
               <>
                 {/* 正常渲染游戏卡片 */}
                 <div className="game-card">
-                  <Link href={`/game/${game.name}`} className="block group w-full h-full">
+                  <Link href={`/${locale}/game/${game.name}`} className="block group w-full h-full">
                     <div className="relative aspect-square overflow-hidden rounded-lg w-full h-full">
                       <Image
                         src={game.icon || "/placeholder.svg"}

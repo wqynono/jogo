@@ -30,6 +30,14 @@ body {
   color: #76b900;
 }
 
+.game-desc-container a {
+  color: #3051ad;
+}
+
+.game-desc-container a:hover {
+  color: #1E3A8A;
+  text-decoration: underline;
+}
 
 @layer components {
   .nav-item {

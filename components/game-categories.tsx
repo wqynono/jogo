@@ -5,11 +5,12 @@ import Link from "next/link"
 import { motion } from "framer-motion"
 import { categoryList } from "../data/game"
 import "@/public/icons/iconfont.css";  //引入css文件
-import { useTranslations } from "next-intl"
+import { useTranslations, useLocale } from "next-intl"
 
 export default function GameCategories() {
   const [isMobile, setIsMobile] = useState(false)
   const [isOpen, setIsOpen] = useState(false)
+  const locale = useLocale()
   const t = useTranslations("Categories")
 
   useEffect(() => {
@@ -45,7 +46,7 @@ export default function GameCategories() {
             className="grid grid-cols-1 gap-2 mt-2"
           >
             {categoryList.map((category) => (
-              <Link key={category.name} href={category.href} className="nav-item">
+              <Link key={category.name} href={`/${locale}${category.href}`} className="nav-item">
                 <span>{category.name}</span>
               </Link>
             ))}
@@ -60,7 +61,7 @@ export default function GameCategories() {
       <div className="flex space-x-1 justify-center">
         {categoryList.map((category) => {
           return (
-            <Link key={category.name} href={category.href} className="nav-item pt-0.5 pb-0.5 flex text-sm pr-2 pl-2 xl:pr-3 xl:pl-3 xl:text-base rounded-lg hover:bg-white hover:text-[#1e3a8a]">
+            <Link key={category.name} href={`/${locale}${category.href}`} className="nav-item pt-0.5 pb-0.5 flex text-sm pr-2 pl-2 xl:pr-3 xl:pl-3 xl:text-base rounded-lg hover:bg-white hover:text-[#1e3a8a]">
               <span className={`icon iconfont icon-${category.name} text-xl`}></span>
               <span>{t(category.name.toLowerCase())} </span>
             </Link>
