@@ -3,7 +3,7 @@
 import { Dialog, DialogPanel, Transition, TransitionChild } from '@headlessui/react'
 // import { disableBodyScroll, enableBodyScroll, clearAllBodyScrollLocks } from 'body-scroll-lock'
 import { Fragment, useState, useEffect, useRef } from 'react'
-import Link from './Link'
+import Link from 'next/link'
 import headerNavLinks from '@/data/headerNavLinks'
 
 const MobileNav = () => {
@@ -12,19 +12,19 @@ const MobileNav = () => {
 
   const onToggleNav = () => {
     setNavShow((status) => {
-    //   if (status) {
-    //     enableBodyScroll(navRef.current)
-    //   } else {
-    //     // Prevent scrolling
-    //     disableBodyScroll(navRef.current)
-    //   }
+      //   if (status) {
+      //     enableBodyScroll(navRef.current)
+      //   } else {
+      //     // Prevent scrolling
+      //     disableBodyScroll(navRef.current)
+      //   }
       return !status
     })
   }
 
-//   useEffect(() => {
-//     return clearAllBodyScrollLocks
-//   })
+  //   useEffect(() => {
+  //     return clearAllBodyScrollLocks
+  //   })
 
   return (
     <>
